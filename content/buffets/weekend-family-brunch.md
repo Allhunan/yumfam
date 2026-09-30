@@ -1,7 +1,7 @@
 ---
 title: "Weekend Family Brunch"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Shanghai"
 price: "¥228 / adult"
 valid_until: "2026-11-30"

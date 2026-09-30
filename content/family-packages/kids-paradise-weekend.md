@@ -1,7 +1,7 @@
 ---
 title: "Stay & Play: Kids' Paradise Weekend"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Chimelong, Guangzhou"
 price: "¥1,299 / family"
 valid_until: "2026-12-20"

@@ -1,7 +1,7 @@
 ---
 title: "Hot Spring Family Retreat"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Huizhou, Guangdong"
 price: "¥899 / night"
 valid_until: "2027-02-28"

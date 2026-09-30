@@ -1,7 +1,7 @@
 ---
 title: "Seaside Seafood Feast Night"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Sanya, Hainan"
 price: "¥298 / adult"
 valid_until: "2026-12-31"
