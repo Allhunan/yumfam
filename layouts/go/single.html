@@ -5,6 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <title>{{ .Title }} — YumFam</title>
   <meta name="description" content="{{ .Params.description | default .Title }}">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-DHKF7WCQV5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-DHKF7WCQV5');
+  </script>
   <style>
     * { box-sizing:border-box; margin:0; padding:0; }
     body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif; background:#fffaf2; color:#2b2118; min-height:100vh; display:flex; align-items:center; justify-content:center; padding:24px; }
@@ -41,9 +49,20 @@
   var target = "{{ .Params.target_url }}";
   var ua = navigator.userAgent || "";
   var inWeChat = /MicroMessenger/i.test(ua);
+  var dealSlug = "{{ .Slug }}";
   if (inWeChat) {
     document.getElementById("wechat-box").style.display = "block";
-    window.location.replace(target);
+    var goTarget = function () { window.location.replace(target); };
+    if (typeof gtag === "function") {
+      gtag("event", "wechat_redirect", {
+        "deal_slug": dealSlug,
+        "transport_type": "beacon",
+        "event_callback": goTarget
+      });
+      setTimeout(goTarget, 600);
+    } else {
+      goTarget();
+    }
     return;
   }
   document.getElementById("normal-box").style.display = "block";
