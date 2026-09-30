@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Site.Title }} — Family-Friendly Hotel Buffets & Resort Deals in China</title>
+  <meta name="description" content="{{ .Site.Params.description }}">
+  <style>
+    :root { --bg:#fffaf2; --ink:#2b2118; --accent:#e07830; --accent-dark:#b85c1d; --card:#ffffff; --muted:#7a6a58; }
+    * { box-sizing:border-box; margin:0; padding:0; }
+    body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:var(--bg); color:var(--ink); line-height:1.6; }
+    a { color:var(--accent-dark); text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    .wrap { max-width:1080px; margin:0 auto; padding:0 20px; }
+    header.top { background:#fff; border-bottom:1px solid #f0e4d2; position:sticky; top:0; z-index:10; }
+    .top .wrap { display:flex; align-items:center; justify-content:space-between; height:64px; }
+    .logo { font-size:24px; font-weight:800; color:var(--accent-dark); }
+    .logo span { color:var(--ink); }
+    nav.main a { margin-left:22px; font-weight:600; color:var(--ink); }
+    .hero { text-align:center; padding:64px 20px 48px; }
+    .hero h1 { font-size:40px; margin-bottom:12px; }
+    .hero p { font-size:18px; color:var(--muted); max-width:640px; margin:0 auto 28px; }
+    .btn { display:inline-block; background:var(--accent); color:#fff; font-weight:700; padding:12px 28px; border-radius:999px; }
+    .btn:hover { background:var(--accent-dark); text-decoration:none; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:20px; padding:12px 0 48px; }
+    .card { background:var(--card); border:1px solid #f0e4d2; border-radius:16px; padding:28px 24px; }
+    .card .emoji { font-size:40px; }
+    .card h2 { font-size:22px; margin:12px 0 8px; }
+    .card p { color:var(--muted); font-size:15px; margin-bottom:14px; }
+    .deals { padding-bottom:56px; }
+    .deals h2 { font-size:26px; margin-bottom:18px; }
+    .deal { background:var(--card); border:1px solid #f0e4d2; border-radius:12px; padding:18px 20px; margin-bottom:12px; display:flex; justify-content:space-between; align-items:center; gap:12px; flex-wrap:wrap; }
+    .deal .t { font-weight:700; }
+    .deal .meta { color:var(--muted); font-size:14px; }
+    .deal .price { font-weight:800; color:var(--accent-dark); white-space:nowrap; }
+    footer { border-top:1px solid #f0e4d2; padding:28px 0; color:var(--muted); font-size:14px; text-align:center; background:#fff; }
+  </style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="/">Yum<span>Fam</span></a>
+    <nav class="main">
+      <a href="/buffets/">Buffets</a>
+      <a href="/resorts/">Resorts</a>
+      <a href="/family-packages/">Family Packages</a>
+      <a href="/about/">About</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <h1>Eat Well, Stay Happy in China 🍜</h1>
+    <p>Hand-picked hotel buffets, family resort escapes and kid-approved packages across China — curated in English for expats and travelers.</p>
+    <a class="btn" href="/buffets/">Browse This Week's Deals</a>
+  </div>
+</section>
+
+<div class="wrap">
+  <div class="grid">
+    <div class="card">
+      <div class="emoji">🍽️</div>
+      <h2>Hotel Buffets</h2>
+      <p>All-you-can-eat spreads worth traveling for — seafood nights, weekend brunches and holiday feasts.</p>
+      <a href="/buffets/">See buffets →</a>
+    </div>
+    <div class="card">
+      <div class="emoji">🏖️</div>
+      <h2>Resorts</h2>
+      <p>Hot springs, seaside and mountain retreats with family rooms and real downtime.</p>
+      <a href="/resorts/">See resorts →</a>
+    </div>
+    <div class="card">
+      <div class="emoji">👨‍👩‍👧‍👦</div>
+      <h2>Family Packages</h2>
+      <p>Hotel + meals + kids' club bundles that make weekends easy and affordable.</p>
+      <a href="/family-packages/">See packages →</a>
+    </div>
+  </div>
+
+  <section class="deals">
+    <h2>Latest Deals</h2>
+    {{ range first 5 (where .Site.RegularPages "Section" "in" (slice "buffets" "resorts" "family-packages")) }}
+    <div class="deal">
+      <div>
+        <div class="t"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+        <div class="meta">{{ .Params.location }}{{ with .Params.valid_until }} · until {{ . }}{{ end }}</div>
+      </div>
+      {{ with .Params.price }}<div class="price">{{ . }}</div>{{ end }}
+    </div>
+    {{ else }}
+    <p style="color:var(--muted)">Fresh deals are on the way — check back soon!</p>
+    {{ end }}
+  </section>
+</div>
+
+<footer>
+  <div class="wrap">© {{ now.Year }} YumFam · Made for families who love good food and good trips.</div>
+</footer>
+</body>
+</html>

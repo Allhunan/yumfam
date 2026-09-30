@@ -1,0 +1,28 @@
+baseURL: https://yumfam.com/
+languageCode: en-us
+locale: en-us
+title: YumFam
+theme: PaperMod
+
+params:
+  description: "YumFam — Family-friendly hotel buffet guides and resort deals across China, in English."
+  author: YumFam
+  defaultTheme: light
+
+menu:
+  main:
+    - name: Buffets
+      url: /buffets/
+      weight: 10
+    - name: Resorts
+      url: /resorts/
+      weight: 20
+    - name: Family Packages
+      url: /family-packages/
+      weight: 30
+    - name: About
+      url: /about/
+      weight: 40
+
+outputs:
+  home: [HTML]
