@@ -1,0 +1,14 @@
+<script>
+// GA4: track clicks on deal buttons (links leading to /go/ scan pages)
+document.addEventListener('click', function (e) {
+  var a = e.target && e.target.closest ? e.target.closest('a[href*="/go/"]') : null;
+  if (!a || typeof gtag !== 'function') return;
+  var href = a.getAttribute('href') || '';
+  var m = href.match(/\/go\/([^\/?#]+)/);
+  gtag('event', 'click_deal', {
+    'deal_slug': m ? m[1] : href,
+    'source_page': window.location.pathname,
+    'transport_type': 'beacon'
+  });
+}, true);
+</script>
