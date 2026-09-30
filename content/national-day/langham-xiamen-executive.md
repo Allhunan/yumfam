@@ -43,4 +43,17 @@ Langham's executive package is built for families who want the lounge life: an e
 > — 138****9899 · 4 photos
 
 *Reviews translated from Chinese; nicknames masked for privacy.*
+
+## 📸 Photos
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:16px 0;">
+<img src="https://img.xialv.com/uploads/2026/08/29/item_pic1787991887854592.jpeg?imageView2/1/w/1050/h/588" alt="Photo 1" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/08/29/item_pic1787991877911336.jpeg?imageView2/1/w/1050/h/588" alt="Photo 2" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/03/09/item_pic1773039071540664.jpeg?imageView2/1/w/1050/h/588" alt="Photo 3" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/03/09/item_pic1773039062821421.jpeg?imageView2/1/w/1050/h/588" alt="Photo 4" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/08/29/item_pic1787991866672958.jpeg?imageView2/1/w/1050/h/588" alt="Photo 5" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/02/07/item_pic1770449324724794.jpeg?imageView2/1/w/1050/h/588" alt="Photo 6" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/08/29/item_pic1787991856787272.jpeg?imageView2/1/w/1050/h/588" alt="Photo 7" loading="lazy" style="width:100%;border-radius:12px;">
+</div>
+
 [👉 Get this National Day deal](/go/nd-langham-xiamen-executive/)

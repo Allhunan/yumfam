@@ -27,4 +27,16 @@ The Fairmont's buffet is one of Xiamen's most generous spreads, and the National
 
 **Good to know:** Holiday seatings fill up — book a day ahead through the deal link.
 
+
+## 📸 Photos
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:16px 0;">
+<img src="https://img.xialv.com/uploads/2025/09/25/item_pic1758772463641675.jpeg?imageView2/1/w/1050/h/588" alt="Photo 1" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/09/25/item_pic1758772473339560.jpeg?imageView2/1/w/1050/h/588" alt="Photo 2" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/09/25/item_pic1758772481956536.jpeg?imageView2/1/w/1050/h/588" alt="Photo 3" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/09/25/item_pic1758772497623974.jpeg?imageView2/1/w/1050/h/588" alt="Photo 4" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/09/25/item_pic1758772504943795.jpeg?imageView2/1/w/1050/h/588" alt="Photo 5" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/09/25/item_pic1758772516524568.jpeg?imageView2/1/w/1050/h/588" alt="Photo 6" loading="lazy" style="width:100%;border-radius:12px;">
+</div>
+
 [👉 Get this National Day deal](/go/nd-fairmont-xiamen-buffet/)

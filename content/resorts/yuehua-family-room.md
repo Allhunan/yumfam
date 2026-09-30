@@ -28,4 +28,17 @@ Yuehua's Haiyu Building courtyard family room is built for parents traveling wit
 
 **Good to know:** Pair it with the Yuehua buffet deal for an easy two-day Xiamen stay.
 
+
+## 📸 Photos
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:16px 0;">
+<img src="https://img.xialv.com/uploads/2025/03/10/item_pic_origin1741572950298318.jpeg?imageView2/1/w/1050/h/588" alt="Photo 1" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/12/16/item_pic176586605878982.jpeg?imageView2/1/w/1050/h/588" alt="Photo 2" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/12/16/item_pic1765866047390556.jpeg?imageView2/1/w/1050/h/588" alt="Photo 3" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/10/21/item_pic176101797880649.jpeg?imageView2/1/w/1050/h/588" alt="Photo 4" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/01/21/item_pic1768962696325790.jpeg?imageView2/1/w/1050/h/588" alt="Photo 5" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/03/10/item_pic_origin1741572951432328.jpeg?imageView2/1/w/1050/h/588" alt="Photo 6" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/03/10/item_pic_origin1741572952376460.jpeg?imageView2/1/w/1050/h/588" alt="Photo 7" loading="lazy" style="width:100%;border-radius:12px;">
+</div>
+
 [👉 Get this deal](/go/yuehua-family-room/)

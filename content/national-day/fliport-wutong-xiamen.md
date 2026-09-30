@@ -43,4 +43,19 @@ Perched on Wuyuan Bay with a private beach, the Fliport Wutong is Xiamen's class
 > — 135****9142 · no photos shown
 
 *Reviews translated from Chinese; nicknames masked for privacy.*
+
+## 📸 Photos
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:16px 0;">
+<video controls preload="none" poster="https://img.xialv.com/uploads/2023/04/04/video_cover_pic1708564534934781.jpeg?imageView2/2/w/1050/h/588/q/75" style="width:100%;border-radius:12px;grid-column:1/-1;"><source src="https://img.xialv.com/uploads/2023/04/04/video_file1708564509592366.mp4" type="video/mp4"></video>
+<img src="https://img.xialv.com/uploads/2023/04/04/item_pic168059148126879.jpeg?imageView2/1/w/1050/h/588" alt="Photo 1" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2024/02/21/item_pic1708497644518141.jpeg?imageView2/1/w/1050/h/588" alt="Photo 2" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/12/24/item_pic176656562626373.jpeg?imageView2/1/w/1050/h/588" alt="Photo 3" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2023/04/04/item_pic168059114540832.jpeg?imageView2/1/w/1050/h/588" alt="Photo 4" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2024/02/21/item_pic170849770434531.jpeg?imageView2/1/w/1050/h/588" alt="Photo 5" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2024/02/21/item_pic1708497720781574.jpeg?imageView2/1/w/1050/h/588" alt="Photo 6" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2024/02/21/item_pic1708497655447473.jpeg?imageView2/1/w/1050/h/588" alt="Photo 7" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2024/02/21/item_pic1708497667768516.jpeg?imageView2/1/w/1050/h/588" alt="Photo 8" loading="lazy" style="width:100%;border-radius:12px;">
+</div>
+
 [👉 Get this National Day deal](/go/nd-fliport-wutong-xiamen/)

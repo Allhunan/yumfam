@@ -39,4 +39,17 @@ Yujian Minnan is Xiamen's love letter to its own culture — and the 'Gulangyu H
 > — liz. · no photos shown
 
 *Reviews translated from Chinese; nicknames masked for privacy.*
+
+## 📸 Photos
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:16px 0;">
+<img src="https://img.xialv.com/uploads/2026/09/18/item_pic17897140323388.jpeg?imageView2/1/w/1050/h/588" alt="Photo 1" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/09/18/item_pic178971457657514.jpeg?imageView2/1/w/1050/h/588" alt="Photo 2" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/09/18/item_pic1789714589874934.jpeg?imageView2/1/w/1050/h/588" alt="Photo 3" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/09/18/item_pic1789714600083782.jpeg?imageView2/1/w/1050/h/588" alt="Photo 4" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/09/18/item_pic178971461028561.jpeg?imageView2/1/w/1050/h/588" alt="Photo 5" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/09/18/item_pic178971462024540.jpeg?imageView2/1/w/1050/h/588" alt="Photo 6" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/09/18/item_pic178971463161512.jpeg?imageView2/1/w/1050/h/588" alt="Photo 7" loading="lazy" style="width:100%;border-radius:12px;">
+</div>
+
 [👉 Get this National Day deal](/go/nd-yujian-minnan-show/)

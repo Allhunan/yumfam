@@ -1,7 +1,7 @@
 ---
 title: "Xihe Mountain Resort — 2 Nights + Amusement from ¥299"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Anxi, Fujian"
 price: "¥299 (≈$41)"
 was_price: "¥999"

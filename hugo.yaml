@@ -26,3 +26,8 @@ menu:
 
 outputs:
   home: [HTML]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

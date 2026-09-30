@@ -42,4 +42,19 @@ Two nights in a seaside resort with zero holiday surcharge is rare — Habourvie
 > — 微***户 · 6 photos
 
 *Reviews translated from Chinese; nicknames masked for privacy.*
+
+## 📸 Photos
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:16px 0;">
+<video controls preload="none" poster="https://img.xialv.com/uploads/2024/08/13/video_cover_pic1723537887462217.jpeg?imageView2/2/w/1050/h/588/q/75" style="width:100%;border-radius:12px;grid-column:1/-1;"><source src="https://img.xialv.com/uploads/2024/08/13/video_file172353789349185.mp4" type="video/mp4"></video>
+<img src="https://img.xialv.com/uploads/2026/09/20/item_pic1789919264618616.jpeg?imageView2/1/w/1050/h/588" alt="Photo 1" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/09/20/item_pic1789919197805786.jpeg?imageView2/1/w/1050/h/588" alt="Photo 2" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/09/20/item_pic1789919205639437.jpeg?imageView2/1/w/1050/h/588" alt="Photo 3" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/08/01/item_pic1754034349711961.jpeg?imageView2/1/w/1050/h/588" alt="Photo 4" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/01/10/item_pic1736488068100338.jpeg?imageView2/1/w/1050/h/588" alt="Photo 5" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/09/20/item_pic1789919272331395.jpeg?imageView2/1/w/1050/h/588" alt="Photo 6" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/01/10/item_pic1736488052618730.jpeg?imageView2/1/w/1050/h/588" alt="Photo 7" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2025/01/10/item_pic1736488108212390.jpeg?imageView2/1/w/1050/h/588" alt="Photo 8" loading="lazy" style="width:100%;border-radius:12px;">
+</div>
+
 [👉 Get this National Day deal](/go/nd-habourview-fuzhou-resort/)

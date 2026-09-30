@@ -28,4 +28,17 @@ Riyuegu is Xiamen's best-known hot spring resort, and this day pass is valid rig
 
 **Good to know:** Hot springs are an evening ritual in China — go after 4pm for the full atmosphere.
 
+
+## 📸 Photos
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:16px 0;">
+<img src="https://img.xialv.com/uploads/2026/04/01/item_pic1775010913314680.jpeg?imageView2/1/w/1050/h/588" alt="Photo 1" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/06/08/item_pic1780891686399119.jpeg?imageView2/1/w/1050/h/588" alt="Photo 2" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2024/11/04/item_pic1730683004909599.jpeg?imageView2/1/w/1050/h/588" alt="Photo 3" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/09/14/item_pic178936524621619.jpeg?imageView2/1/w/1050/h/588" alt="Photo 4" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/07/13/item_pic1783922169409295.jpeg?imageView2/1/w/1050/h/588" alt="Photo 5" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/07/13/item_pic1783922114012913.jpeg?imageView2/1/w/1050/h/588" alt="Photo 6" loading="lazy" style="width:100%;border-radius:12px;">
+<img src="https://img.xialv.com/uploads/2026/07/13/item_pic1783922122017722.jpeg?imageView2/1/w/1050/h/588" alt="Photo 7" loading="lazy" style="width:100%;border-radius:12px;">
+</div>
+
 [👉 Get this deal](/go/riyuegu-hot-spring/)
