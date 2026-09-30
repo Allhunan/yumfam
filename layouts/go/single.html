@@ -38,7 +38,7 @@
 <script src="/js/qrcode.min.js"></script>
 <script>
 (function () {
-  var target = {{ .Params.target_url | jsonify }};
+  var target = "{{ .Params.target_url }}";
   var ua = navigator.userAgent || "";
   var inWeChat = /MicroMessenger/i.test(ua);
   if (inWeChat) {
