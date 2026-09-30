@@ -41,6 +41,7 @@
   <div class="wrap">
     <a class="logo" href="/">Yum<span>Fam</span></a>
     <nav class="main">
+      <a href="/national-day/" style="color:var(--accent-dark)">🎉 National Day</a>
       <a href="/buffets/">Buffets</a>
       <a href="/resorts/">Resorts</a>
       <a href="/family-packages/">Family Packages</a>
@@ -53,7 +54,12 @@
   <div class="wrap">
     <h1>Eat Well, Stay Happy in China 🍜</h1>
     <p>Hand-picked hotel buffets, family resort escapes and kid-approved packages across China — curated in English for expats and travelers.</p>
-    <a class="btn" href="/buffets/">Browse This Week's Deals</a>
+    <div style="background:#fff3e2;border:1px solid #f5c97b;border-radius:16px;padding:20px 24px;max-width:640px;margin:0 auto 28px;">
+      <div style="font-weight:800;font-size:18px;margin-bottom:6px;">🎉 National Day Week Deals are live</div>
+      <div style="color:var(--muted);font-size:15px;margin-bottom:12px;">Subsidized buffets, resort stays & family attractions for Oct 1–7 — with real guest reviews.</div>
+      <a class="btn" href="/national-day/">See National Day deals</a>
+    </div>
+    <a class="btn" href="/buffets/" style="background:#fff;color:var(--accent-dark);border:2px solid var(--accent);">Browse This Week's Deals</a>
   </div>
 </section>
 
@@ -81,7 +87,7 @@
 
   <section class="deals">
     <h2>Latest Deals</h2>
-    {{ range first 5 (where .Site.RegularPages "Section" "in" (slice "buffets" "resorts" "family-packages")) }}
+    {{ range first 8 (where .Site.RegularPages "Section" "in" (slice "national-day" "buffets" "resorts" "family-packages")) }}
     <div class="deal">
       <div>
         <div class="t"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
