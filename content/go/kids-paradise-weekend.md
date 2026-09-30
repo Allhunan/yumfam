@@ -4,6 +4,6 @@ date: 2026-09-30
 draft: false
 type: "go"
 layout: "single"
-target_url: "#"
+target_url: "https://m.xialv.com/xiamen?a=union/b8v537pf"
 description: "Deal redirect page. Replace target_url with the OTA store link."
 ---
