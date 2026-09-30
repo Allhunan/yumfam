@@ -6,6 +6,8 @@
   <title>{{ .Site.Title }} — Family-Friendly Hotel Buffets & Resort Deals in China</title>
   <meta name="description" content="{{ .Site.Params.description }}">
   <meta name="referrer" content="no-referrer">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-DHKF7WCQV5"></script>
   <script>
@@ -28,9 +30,14 @@
     .logo { font-size:24px; font-weight:800; color:var(--accent-dark); }
     .logo span { color:var(--ink); }
     nav.main a { margin-left:22px; font-weight:600; color:var(--ink); }
-    .hero { text-align:center; padding:64px 20px 48px; }
+    .hero { background:linear-gradient(to right,rgba(255,250,242,.94) 0%,rgba(255,250,242,.62) 46%,rgba(255,250,242,0) 72%),url('/images/hero-banner.jpg') center/cover no-repeat; }
+    .hero .wrap { padding:72px 20px 64px; }
+    .hero-inner { max-width:600px; }
     .hero h1 { font-size:40px; margin-bottom:12px; }
-    .hero p { font-size:18px; color:var(--muted); max-width:640px; margin:0 auto 28px; }
+    .hero p.lead { font-size:18px; color:var(--muted); margin-bottom:26px; }
+    .hero .promo { background:rgba(255,255,255,.93); border:1px solid #f5c97b; border-radius:16px; padding:20px 24px; margin-bottom:24px; }
+    .hero .promo .t { font-weight:800; font-size:18px; margin-bottom:6px; }
+    .hero .promo .d { color:var(--muted); font-size:15px; margin-bottom:12px; }
     .btn { display:inline-block; background:var(--accent); color:#fff; font-weight:700; padding:12px 28px; border-radius:999px; }
     .btn:hover { background:var(--accent-dark); text-decoration:none; }
     .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:20px; padding:12px 0 48px; }
@@ -63,14 +70,16 @@
 
 <section class="hero">
   <div class="wrap">
-    <h1>Eat Well, Stay Happy in China 🍜</h1>
-    <p>Hand-picked hotel buffets, family resort escapes and kid-approved packages across China — curated in English for expats and travelers.</p>
-    <div style="background:#fff3e2;border:1px solid #f5c97b;border-radius:16px;padding:20px 24px;max-width:640px;margin:0 auto 28px;">
-      <div style="font-weight:800;font-size:18px;margin-bottom:6px;">🎉 National Day Week Deals are live</div>
-      <div style="color:var(--muted);font-size:15px;margin-bottom:12px;">Subsidized buffets, resort stays & family attractions for Oct 1–7 — with real guest reviews.</div>
-      <a class="btn" href="/national-day/">See National Day deals</a>
+    <div class="hero-inner">
+      <h1>Eat Well, Stay Happy in China 🍜</h1>
+      <p class="lead">Hand-picked hotel buffets, family resort escapes and kid-approved packages across China — curated in English for expats and travelers.</p>
+      <div class="promo">
+        <div class="t">🎉 National Day Week Deals are live</div>
+        <div class="d">Subsidized buffets, resort stays & family attractions for Oct 1–7 — with real guest reviews.</div>
+        <a class="btn" href="/national-day/">See National Day deals</a>
+      </div>
+      <a class="btn" href="/buffets/" style="background:#fff;color:var(--accent-dark);border:2px solid var(--accent);">Browse This Week's Deals</a>
     </div>
-    <a class="btn" href="/buffets/" style="background:#fff;color:var(--accent-dark);border:2px solid var(--accent);">Browse This Week's Deals</a>
   </div>
 </section>
 
