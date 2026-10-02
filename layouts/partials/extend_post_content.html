@@ -1,0 +1,17 @@
+{{/* Related deals: shown at the end of product pages only. */}}
+{{ if and .IsPage .Params.price }}
+{{ $related := first 3 (where .CurrentSection.Pages "Permalink" "ne" .Permalink) }}
+{{ if $related }}
+<hr style="margin:2rem 0 1rem;">
+<h2>You may also like</h2>
+<ul style="list-style:none;padding:0;display:grid;gap:0.9rem;">
+  {{ range $related }}
+  <li style="border:1px solid var(--border);border-radius:10px;padding:0.8rem 1rem;">
+    <a href="{{ .Permalink }}" style="font-weight:600;">{{ .Title }}</a>
+    {{ with .Params.location }}<span style="opacity:.75;"> · {{ . }}</span>{{ end }}
+    {{ with .Params.price }}<div style="margin-top:.25rem;"><strong>{{ . }}</strong></div>{{ end }}
+  </li>
+  {{ end }}
+</ul>
+{{ end }}
+{{ end }}
