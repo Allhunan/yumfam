@@ -10,7 +10,7 @@ valid_until: "2026-11-14"
 description: "Hot-spring season at Beijing Junhe Howard Johnson on the Chaobai River: 1 night in a 45㎡ room with buffet breakfast for two, unlimited access to 3,000㎡ of indoor/outdoor hot-spring pools, plus tickets to the Sacred Deer Forest theme park and an alpaca-feeding pack — zero weekend surcharges."
 cover:
   image: "https://img.xialv.com/uploads/2026/08/25/item_pic1787638199541877.jpeg"
-  alt: "Beihaiwan Junhe Howard Johnson — Hot Spring Resort Deal"
+  alt: "Beijing Junhe Howard Johnson — Hot Spring Resort Deal"
 ---
 
 ![Beijing Junhe Howard Johnson — Hot Spring Resort Deal](https://img.xialv.com/uploads/2026/08/25/item_pic1787638199541877.jpeg)
