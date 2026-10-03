@@ -4,11 +4,12 @@
 {{ $nums := findRE "[0-9,]+" $p }}
 {{ if gt (len $nums) 0 }}
 {{ $clean := replace (index $nums 0) "," "" }}
-{{ $offer := dict "@type" "Offer" "priceCurrency" "CNY" "availability" "https://schema.org/InStock" "url" .Permalink }}
-{{ if findRE "¥[0-9,]+\\s*[–—-]\\s*¥[0-9,]+" $p }}
-  {{ $offer = merge $offer (dict "minPrice" $clean "maxPrice" (replace (index $nums 1) "," "")) }}
+{{ $offer := dict "priceCurrency" "CNY" "availability" "https://schema.org/InStock" "url" .Permalink }}
+{{ if and (gt (len $nums) 1) (findRE "¥[0-9,]+\\s*[–—-]\\s*¥[0-9,]+" $p) }}
+  {{/* Price range -> AggregateOffer with lowPrice/highPrice (Google-accepted; minPrice/maxPrice are NOT valid on Offer) */}}
+  {{ $offer = merge $offer (dict "@type" "AggregateOffer" "lowPrice" $clean "highPrice" (replace (index $nums 1) "," "")) }}
 {{ else }}
-  {{ $offer = merge $offer (dict "price" $clean) }}
+  {{ $offer = merge $offer (dict "@type" "Offer" "price" $clean) }}
 {{ end }}
 {{ with .Params.valid_until }}{{ $offer = merge $offer (dict "priceValidUntil" .) }}{{ end }}
 {{ $data := dict "@context" "https://schema.org" "@type" "Product" "name" .Title "description" (.Params.description | default .Summary) "offers" $offer }}
