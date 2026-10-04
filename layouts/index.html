@@ -51,6 +51,9 @@
     .deal .t { font-weight:700; }
     .deal .meta { color:var(--muted); font-size:14px; }
     .deal .price { font-weight:800; color:var(--accent-dark); white-space:nowrap; }
+    .deal .thumb { flex-shrink:0; }
+    .deal .thumb img { width:96px; height:96px; object-fit:cover; border-radius:10px; display:block; }
+    .deal .info { flex:1; min-width:200px; }
     footer { border-top:1px solid #f0e4d2; padding:28px 0; color:var(--muted); font-size:14px; text-align:center; background:#fff; }
   </style>
 </head>
@@ -108,12 +111,16 @@
   <section class="deals">
     <h2>Latest Deals</h2>
     {{ range first 8 (where .Site.RegularPages "Section" "in" (slice "national-day" "buffets" "resorts" "family-packages")) }}
+    {{ $p := . }}
     <div class="deal">
-      <div>
-        <div class="t"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
-        <div class="meta">{{ .Params.location }}{{ with .Params.valid_until }} · until {{ . }}{{ end }}</div>
+      {{ with $p.Params.cover.image }}
+      <a class="thumb" href="{{ $p.RelPermalink }}"><img src="{{ . }}" alt="{{ $p.Params.cover.alt }}" loading="lazy" referrerpolicy="no-referrer"></a>
+      {{ end }}
+      <div class="info">
+        <div class="t"><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></div>
+        <div class="meta">{{ $p.Params.location }}{{ with $p.Params.valid_until }} · until {{ . }}{{ end }}</div>
       </div>
-      {{ with .Params.price }}<div class="price">{{ . }}</div>{{ end }}
+      {{ with $p.Params.price }}<div class="price">{{ . }}</div>{{ end }}
     </div>
     {{ else }}
     <p style="color:var(--muted)">Fresh deals are on the way — check back soon!</p>
