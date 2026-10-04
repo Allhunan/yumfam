@@ -5,7 +5,7 @@ draft: false
 description: "YumFam privacy policy — what data we collect (very little) and how it's used."
 ---
 
-**Last updated: September 30, 2026**
+**Last updated: October 4, 2026**
 
 YumFam (yumfam.com) is a deals listing site. We keep data collection to an absolute minimum.
 
@@ -15,12 +15,14 @@ YumFam (yumfam.com) is a deals listing site. We keep data collection to an absol
 
 What may be collected automatically:
 
-- **Basic analytics:** We may use privacy-friendly analytics to see which pages are popular (page views, approximate region). This data is aggregated and never tied to an individual.
+- **Analytics:** We use Google Analytics (GA4) to see which pages and deals are popular (page views, approximate region). Analytics cookies are only set if you accept them in the cookie banner (see Cookies below). This data is aggregated and never tied to an individual.
 - **Server logs:** Like every website, our host (Cloudflare) keeps standard server logs (IP address, browser type, pages visited) for security and performance. These are retained per Cloudflare's policies.
 
 ## Cookies
 
-We do not set advertising or tracking cookies of our own. Embedded content (such as product images loaded from our partner platform) may be subject to that platform's cookie policy.
+We use Google Analytics (GA4), which sets cookies (such as `_ga`) to distinguish visits. These analytics cookies are only set if you accept them in the cookie banner shown on your first visit — until then, analytics storage stays off. You can change your choice at any time: <a href="#" onclick="yumfamCookieSettings();return false;">Cookie Settings</a>.
+
+We do not set advertising cookies of our own. Embedded content (such as product images loaded from our partner platform) may be subject to that platform's cookie policy.
 
 ## Affiliate links
 

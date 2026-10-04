@@ -1,0 +1,50 @@
+<!-- Cookie consent banner (GDPR/ePrivacy + Google EU User Consent Policy).
+     Shows on first visit; choice stored in localStorage. Exposes
+     window.yumfamCookieSettings() so visitors can change their choice later. -->
+<style>
+#yumfam-cookie-bar{display:none;position:fixed;left:0;right:0;bottom:0;z-index:9999;
+  background:#fff;border-top:1px solid #f0e4d2;box-shadow:0 -4px 24px rgba(0,0,0,.08);}
+#yumfam-cookie-bar .yc-inner{max-width:1080px;margin:0 auto;padding:14px 20px;
+  display:flex;align-items:center;gap:16px;flex-wrap:wrap;}
+#yumfam-cookie-bar p{flex:1;min-width:240px;margin:0;font-size:14px;color:#2b2118;line-height:1.5;}
+#yumfam-cookie-bar p a{color:#b85c1d;}
+#yumfam-cookie-bar .yc-btns{display:flex;gap:10px;}
+#yumfam-cookie-bar button{font-size:14px;font-weight:700;padding:9px 22px;border-radius:999px;cursor:pointer;}
+#yumfam-cookie-accept{background:#e07830;color:#fff;border:none;}
+#yumfam-cookie-accept:hover{background:#b85c1d;}
+#yumfam-cookie-reject{background:#fff;color:#b85c1d;border:2px solid #e07830;}
+#yumfam-cookie-reject:hover{background:#fffaf2;}
+</style>
+<div id="yumfam-cookie-bar" role="dialog" aria-label="Cookie consent">
+  <div class="yc-inner">
+    <p>🍪 We use cookies to understand how visitors use YumFam and improve our deals. You can accept or reject analytics cookies. <a href="/privacy/">Learn more</a></p>
+    <div class="yc-btns">
+      <button id="yumfam-cookie-reject" type="button">Reject</button>
+      <button id="yumfam-cookie-accept" type="button">Accept</button>
+    </div>
+  </div>
+</div>
+<script>
+(function(){
+  var KEY='yumfam_consent';
+  function get(){ try{return JSON.parse(localStorage.getItem(KEY));}catch(e){return null;} }
+  function set(v){ try{localStorage.setItem(KEY,JSON.stringify(v));}catch(e){} }
+  function apply(c){
+    if(typeof gtag==='function'){
+      gtag('consent','update',{'analytics_storage':(c&&c.analytics)?'granted':'denied'});
+    }
+  }
+  function show(){ var b=document.getElementById('yumfam-cookie-bar'); if(b) b.style.display='block'; }
+  function hide(){ var b=document.getElementById('yumfam-cookie-bar'); if(b) b.style.display='none'; }
+  window.yumfamCookieSettings=function(){ try{localStorage.removeItem(KEY);}catch(e){} show(); };
+  var cur=get();
+  if(cur){ apply(cur); return; }
+  show();
+  document.getElementById('yumfam-cookie-accept').onclick=function(){
+    var c={analytics:true,ts:Date.now()}; set(c); apply(c); hide();
+  };
+  document.getElementById('yumfam-cookie-reject').onclick=function(){
+    var c={analytics:false,ts:Date.now()}; set(c); apply(c); hide();
+  };
+})();
+</script>
