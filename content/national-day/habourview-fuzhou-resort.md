@@ -1,7 +1,7 @@
 ---
 title: "Fuzhou Habourview Fliport Resort — 2 Nights, Zero Holiday Surcharge"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Fuzhou, Fujian"
 price: "¥729 (≈$101)"
 was_price: "¥1,028"

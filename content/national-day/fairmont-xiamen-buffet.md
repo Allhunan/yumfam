@@ -1,7 +1,7 @@
 ---
 title: "Xiamen Airlines Fairmont Hotel Buffet"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥268 (≈$37)"
 was_price: "¥468"

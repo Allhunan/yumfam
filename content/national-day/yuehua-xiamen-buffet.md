@@ -1,7 +1,7 @@
 ---
 title: "Yuehua Hotel Buffet — Xiamen Family Favorite"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥169 (≈$23)"
 was_price: "¥240"

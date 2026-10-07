@@ -1,7 +1,7 @@
 ---
 title: "Langham Place Xiamen — Executive Room Package"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥699 (≈$97)"
 was_price: "¥1,388"

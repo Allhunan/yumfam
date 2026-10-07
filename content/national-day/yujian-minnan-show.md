@@ -1,7 +1,7 @@
 ---
 title: "Yujian Minnan Cultural Show — 1 Adult + 1 Child"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥188 (≈$26)"
 was_price: "¥286"

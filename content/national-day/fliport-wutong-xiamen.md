@@ -1,7 +1,7 @@
 ---
 title: "Xiamen Fliport Wutong Hotel — Ocean-View Room + Private Beach"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥859 (≈$119)"
 was_price: "¥2,388"

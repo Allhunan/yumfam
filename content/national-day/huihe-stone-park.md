@@ -1,7 +1,7 @@
 ---
 title: "Huihe Stone Culture Park — Opera, Tea & Gardens"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥21 (≈$3)"
 was_price: "¥58"
