@@ -1,7 +1,7 @@
 ---
 title: "Autumn Deals 2026"
-date: 2026-10-08
-draft: true
+date: 2026-10-07
+draft: false
 description: "Post-Golden-Week family deals still bookable this autumn — resort stays, ocean parks and seasonal feasts across China."
 ---
 

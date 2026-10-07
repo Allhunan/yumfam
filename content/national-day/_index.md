@@ -1,7 +1,7 @@
 ---
 title: "National Day 2026 Deals"
 date: 2026-09-30
-draft: false
+draft: true
 description: "Hand-picked National Day holiday deals — hotel buffets, resort stays and family attractions across China."
 ---
 

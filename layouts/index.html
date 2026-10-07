@@ -54,7 +54,7 @@
   <div class="wrap">
     <a class="logo" href="/">Yum<span>Fam</span></a>
     <nav class="main">
-      <a href="/national-day/" style="color:var(--accent-dark)">🎉 National Day</a>
+      <a href="/autumn-deals/" style="color:var(--accent-dark)">🍂 Autumn Deals</a>
       <a href="/buffets/">Buffets</a>
       <a href="/resorts/">Resorts</a>
       <a href="/family-packages/">Family Packages</a>
@@ -69,9 +69,9 @@
       <h1>Eat Well, Stay Happy in China 🍜</h1>
       <p class="lead">Hand-picked hotel buffets, family resort escapes and kid-approved packages across China — curated in English for expats and travelers.</p>
       <div class="promo">
-        <div class="t">🎉 National Day Week Deals are live</div>
-        <div class="d">Subsidized buffets, resort stays & family attractions for Oct 1–7 — with real guest reviews.</div>
-        <a class="btn" href="/national-day/">See National Day deals</a>
+        <div class="t">🍂 Autumn Deals are live</div>
+        <div class="d">Resort stays, ocean parks & seasonal feasts for Oct–Nov — with real guest reviews.</div>
+        <a class="btn" href="/autumn-deals/">See autumn deals</a>
       </div>
       <a class="btn" href="/buffets/" style="background:#fff;color:var(--accent-dark);border:2px solid var(--accent);">Browse This Week's Deals</a>
     </div>
@@ -102,7 +102,7 @@
 
   <section class="deals">
     <h2>Latest Deals</h2>
-    {{ range first 8 (where .Site.RegularPages "Section" "in" (slice "national-day" "buffets" "resorts" "family-packages")) }}
+    {{ range first 8 (where .Site.RegularPages "Section" "in" (slice "autumn-deals" "buffets" "resorts" "family-packages")) }}
     {{ $p := . }}
     <div class="deal">
       {{ with $p.Params.cover.image }}
