@@ -1,7 +1,7 @@
 ---
 title: "Fliport Portman Xiamen — Seaview Room + Magic Academy"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥699 (≈$97)"
 was_price: "¥2,399"

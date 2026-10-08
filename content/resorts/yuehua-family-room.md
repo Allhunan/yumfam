@@ -1,7 +1,7 @@
 ---
 title: "Yuehua Hotel — Courtyard Family Room"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥599 (≈$83)"
 was_price: "—"

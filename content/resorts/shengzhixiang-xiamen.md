@@ -1,7 +1,7 @@
 ---
 title: "Shengzhixiang Xiamen — Hot Spring Family Stay, 2 Nights"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥499 (≈$69)"
 was_price: "¥999"

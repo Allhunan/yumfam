@@ -1,7 +1,7 @@
 ---
 title: "Beihaiwan Hotel Xiamen — 2 Nights + Water Parks, Zero Surcharge"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥629 (≈$87)"
 was_price: "¥1,999"

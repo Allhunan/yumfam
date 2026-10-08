@@ -1,7 +1,7 @@
 ---
 title: "Le Meridien Xiamen — Balcony Room + Family Perks"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥668 (≈$93)"
 was_price: "¥1,999"

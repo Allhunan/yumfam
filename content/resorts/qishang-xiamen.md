@@ -1,7 +1,7 @@
 ---
 title: "Qishang Hotel Xiamen — Waterside Family Suite, 2 Nights"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥4,588 (≈$637)"
 was_price: "¥5,328"

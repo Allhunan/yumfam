@@ -1,7 +1,7 @@
 ---
 title: "Riyuegu Hot Spring Resort — Day Pass"
 date: 2026-09-30
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥149 (≈$21)"
 was_price: "¥228"
