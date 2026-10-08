@@ -7,7 +7,7 @@ price: "from ¥39.9 (≈$5.60)"
 was_price: "¥168"
 coupon: "Xialv Money-Saver Card — ¥30 off this product + ¥50 welcome bonus on signup"
 valid_until: "2026-12-31"
-description: "Jimei Guole Park, Xiamen: a 40,000㎡ outdoor kids' park — 14-item ticket (gate entry + 11 rides + 3 animal-feeding experiences) for 2 adults + 2 kids at ¥149 (76% off). Buy-and-use, refundable anytime, auto-refund on expiry."
+description: "Jimei Guole Park, Xiamen: a 40,000㎡ outdoor kids' park — 14-item ticket (gate entry + 11 rides + 3 animal-feeding experiences) for 2 adults + 2 kids at ¥149 (11% off ¥168). Single tickets from ¥39.9 (76% off). Buy-and-use, refundable anytime, auto-refund on expiry."
 cover:
   image: "https://img.xialv.com/uploads/2025/11/25/item_pic1764058487619712.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Jimei Guole Park — outdoor kids' park"
