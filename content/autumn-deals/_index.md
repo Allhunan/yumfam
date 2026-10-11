@@ -32,10 +32,6 @@ Here's the lineup:
 <a href="/buffets/hna-westin-guangzhou-buffet/"><img src="https://img.xialv.com/uploads/2025/12/29/item_pic176698717413734.jpeg" alt="HNA Westin Guangzhou Fish and Crab Feast Buffet" loading="lazy" referrerpolicy="no-referrer"></a>
 <div><a href="/buffets/hna-westin-guangzhou-buffet/"><strong>HNA Westin Guangzhou — "Fish &amp; Crab Feast" Buffet, 2 Adults + 2 Kids from ¥348</strong></a><br>hairy crab season done right, with live band dinners on weekends. Running through Dec 31.</div>
 </div>
-<div class="autumn-item">
-<a href="/resorts/fragrant-hill-hotel-beijing/"><img src="https://img.xialv.com/uploads/2026/03/20/item_pic1773989221917742.jpeg?imageView2/1/w/1050/h/588" alt="Fragrant Hill Hotel Beijing" loading="lazy" referrerpolicy="no-referrer"></a>
-<div><a href="/resorts/fragrant-hill-hotel-beijing/"><strong>Fragrant Hill Hotel Beijing — Autumn Stay Inside the Park, from ¥569</strong></a><br>wake up to red autumn leaves with free park entry included. ⚠️ Ends Oct 11 — book this one soon.</div>
-</div>
 </div>
 <style>
 .autumn-list { display:flex; flex-direction:column; gap:18px; margin:20px 0; }

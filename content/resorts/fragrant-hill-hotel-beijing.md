@@ -1,7 +1,7 @@
 ---
 title: "Fragrant Hill Hotel Beijing — Autumn Stay Inside the Park, from ¥569"
 date: 2026-10-01
-draft: false
+draft: true
 location: "Beijing"
 price: "¥569 / night (≈$79)"
 was_price: "¥1,256"
