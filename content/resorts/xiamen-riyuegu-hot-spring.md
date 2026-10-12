@@ -1,7 +1,7 @@
 ---
 title: "Xiamen Riyuegu Hot Spring Resort — 1 Night + Breakfast & Hot Springs for 2 Adults + 2 Kids, from ¥666 (≈$94)"
 date: 2026-10-09
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "from ¥666 (≈$94)"
 was_price: "¥1,988"
