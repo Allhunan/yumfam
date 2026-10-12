@@ -9,8 +9,8 @@ coupon: "Xialv Money-Saver Card — ¥30 off this product + ¥50 welcome bonus o
 valid_until: "2026-12-31"
 description: "Two nights at Yangzhou's Slender West Lake Huijing Hotel with three buffet meals a day — breakfast, lunch and dinner — plus free pickup between the hotel and the train station or the 5A Slender West Lake scenic area. From ¥579 for 2 nights."
 cover:
-image: "https://img.xialv.com/uploads/2026/09/23/item_pic179014011741639.jpeg?imageView2/1/w/1050/h/588"
-alt: "Slender West Lake Huijing Hotel Yangzhou — hotel room"
+  image: "https://img.xialv.com/uploads/2026/09/23/item_pic179014011741639.jpeg?imageView2/1/w/1050/h/588"
+  alt: "Slender West Lake Huijing Hotel Yangzhou — hotel room"
 ---
 
 ![Slender West Lake Huijing Hotel Yangzhou — hotel room](https://img.xialv.com/uploads/2026/09/23/item_pic179014011741639.jpeg?imageView2/1/w/1050/h/588)

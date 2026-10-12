@@ -9,8 +9,8 @@ coupon: "Xialv Money-Saver Card — ¥30 off this product + ¥50 welcome bonus o
 valid_until: "2026-10-31"
 description: "Kaiyuan Senbo Resort （嘉兴开元森泊）: 1-night stay with breakfast for 2, 2 park tickets of your choice, and a handicraft workshop — on top of a 31,000㎡ water park (indoor open year-round) and a 2,300㎡ indoor kids' playground. From ¥818."
 cover:
-image: "https://img.xialv.com/uploads/2025/10/22/item_pic_origin1761119236519721.jpeg?imageView2/1/w/1050/h/588"
-alt: "Jiaxing Kaiyuan Senbo Resort — 1-night family stay"
+  image: "https://img.xialv.com/uploads/2025/10/22/item_pic_origin1761119236519721.jpeg?imageView2/1/w/1050/h/588"
+  alt: "Jiaxing Kaiyuan Senbo Resort — 1-night family stay"
 ---
 
 ![Jiaxing Kaiyuan Senbo Resort — 1-night family stay](https://img.xialv.com/uploads/2025/10/22/item_pic_origin1761119236519721.jpeg?imageView2/1/w/1050/h/588)

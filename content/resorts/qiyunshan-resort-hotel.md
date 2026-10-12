@@ -9,8 +9,8 @@ coupon: "Xialv Money-Saver Card — ¥30 off this product + ¥50 welcome bonus o
 valid_until: "2026-12-31"
 description: "Autumn 'shaiqiu' promo at Qiyun Mountain Resort Hotel near Huangshan: 2 nights plus scenic-area tickets for two (bamboo raft, campsite), intangible-heritage night shows, hanfu dress-up and free room upgrade on non-holidays — from ¥839 for 2 nights, no weekend surcharge."
 cover:
-image: "https://img.xialv.com/uploads/2026/09/14/video_cover_pic1789352855415197.jpeg"
-alt: "Qiyun Mountain Resort Hotel — resort view"
+  image: "https://img.xialv.com/uploads/2026/09/14/video_cover_pic1789352855415197.jpeg"
+  alt: "Qiyun Mountain Resort Hotel — resort view"
 ---
 
 ![Qiyun Mountain Resort Hotel — resort view](https://img.xialv.com/uploads/2026/09/14/video_cover_pic1789352855415197.jpeg)
