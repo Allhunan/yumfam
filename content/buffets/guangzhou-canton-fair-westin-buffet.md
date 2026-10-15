@@ -1,7 +1,7 @@
 ---
 title: "Guangzhou Westin Pazhou — 2 Adults + 1 Child Lunch ¥299 (≈$42), 2 Adults + 2 Kids Dinner ¥499 (≈$70)"
 date: 2026-10-12
-draft: false
+draft: true
 location: "Guangzhou, Guangdong — Pazhou (Canton Fair Complex)"
 price: "¥299 (≈$42)"
 was_price: "¥1,298"
