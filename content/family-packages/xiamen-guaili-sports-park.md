@@ -1,7 +1,7 @@
 ---
 title: "Xiamen Monster Power Sports Park — Indoor Play: Trampolines + Climbing Tower, 1 Adult + 1 Kid ¥89 (≈$13)"
 date: 2026-10-09
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "from ¥59 (≈$8)"
 was_price: "¥188"
