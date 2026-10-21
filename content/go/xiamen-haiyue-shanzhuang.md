@@ -1,9 +1,9 @@
 ---
-title: "Xiamen Haiyue Shanzhuang — Family Resort"
-date: 2026-10-09
+title: "Xiamen Haiyue Shanzhuang — booking page"
+date: 2026-10-21
 draft: false
 layout: "go"
-target_url: "https://m.xialv.com/xianlu/153105?a=union/b8v537pf"
+target_url: "https://m.xialv.com/xianlu/153238?a=union/b8v537pf"
 description: "Deal redirect page."
 ---
 
