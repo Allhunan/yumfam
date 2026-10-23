@@ -13,27 +13,39 @@ cover:
   alt: "Latin Restaurant Guangzhou — Brazilian BBQ buffet"
 ---
 
-**Deal price: weekday all-you-can-eat Brazilian BBQ — from ¥106 (≈$15)/person** (was ¥138) · Bookable Sep 10 – Oct 31, 2026, weekdays only · ⏰ valid through Oct 31, 2026
+**Deal price: weekday all-you-can-eat Brazilian BBQ — from ¥106 (≈$15)/person** (was ¥138) · Weekdays only, Sep 10 – Oct 31, 2026 · Lunch 11:00–15:30 · Dinner 17:00–23:59 · No reservation needed — buy and use on the spot
 
-A Guangzhou institution for over a decade: the **Latin Restaurant** （拉丁餐厅） at Grandview Plaza （正佳广场， 4F, 228 Tianhe Road, near the Sports Center) serves an immersive Brazilian-style churrasco — **30+ kinds of grilled meats** carved right at your table, plus **100+ buffet items**, samba dancers, and guests are even invited on stage during the show. Kids get pasta and a chocolate fountain of their own.
+A Guangzhou institution for over a decade, the **Latin Restaurant** （拉丁餐厅） on the 4th floor of Grandview Plaza runs a full-throttle Brazilian churrasco: Brazilian chefs work the grills and passadores circulate with skewers of **30+ grilled meats**, carved straight onto your plate. The signatures are worth pacing yourself for — the tri-tip seasoned with coarse sea salt and garlic juice, best eaten at medium-rare while the fat cap is still crisp; the beef shoulder, wrapped in foil and roasted for three to four hours until it turns soft and juicy; flank steak with its loose, beefy grain; and chuck cuts sliced thin with garlic. Around the meat parade sits a **100+ item buffet**: Brazilian specialties, salads, fruit, seasonal seafood, Chinese and Western hot dishes, desserts and drinks — plus the **chocolate fountain** that kids make a beeline for.
 
-One person can bring one child under 1.1 m for free; 1.1–1.3 m kids pay ¥58 at the door. No reservation needed (walk in, buy and use immediately); refundable anytime.
+The room leans all-in on the theme: Brazil's yellow and green everywhere, murals, stone statues, crystal and toucan decorations. Between seatings the entertainment kicks in — live band, bossa nova, Latin jazz and samba dancers who pull guests up on stage, which families consistently say is the high point of the night for kids. It's loud, cheerful and deliberately unpretentious: come for a carnivore feast with a show attached, not a quiet dinner.
+
+⚠️ **Check the calendar before you go:** these vouchers are **weekdays only** and the whole promotion ends **Oct 31, 2026**. The dinner vouchers carry an extra blackout — **not usable Oct 15–31** (Canton Fair period) — so dinner is effectively down to its last weekdays; the lunch vouchers' blackout dates (Sep 25–27, Oct 1–7) have already passed. One voucher per table, dine-in only, no splitting the bill across vouchers, and each phone number can buy at most 2 vouchers across the whole sale.
 
 **Packages**
-- Weekday buffet lunch, 1 person (1 child under 1.1 m free) — **¥106** (≈$15)
-- Weekday buffet dinner, 1 person — **¥126** (≈$18)
-- Weekday buffet lunch, 2 people — **¥192** (≈$27)
-- Weekday buffet dinner, 2 people — **¥232** (≈$33)
+- Weekday buffet lunch, 1 person — **¥106** (≈$15, was ¥138)
+- Weekday buffet dinner, 1 person — **¥126** (≈$18, was ¥168) · not usable Oct 15–31
+- Weekday buffet lunch, 2 people — **¥192** (≈$27, was ¥276)
+- Weekday buffet dinner, 2 people — **¥232** (≈$33, was ¥336) · not usable Oct 15–31
+- Every voucher includes **one child under 1.1 m free**; kids 1.1–1.3 m pay **¥58** at the door, taller kids are charged as adults
 
-Xialv Money-Saver Card holders save an extra ¥30. One voucher per table, dine-in only, max 2 vouchers per phone number for the whole sale period.
+**Good to know:** the restaurant is at Grandview Plaza （正佳广场）, 4F northwest atrium, 228 Tianhe Road, Tianhe District — right by the Sports Center. No booking is required and unused vouchers are refundable anytime, but expect a queue at peak hours. Reservations/info: (020) 3833 0052. Xialv Money-Saver Card holders save an extra ¥30.
 
 ---
 
 ## What guests say
 
-The merchant has 8 historical reviews. Families with kids aged 3–6 and 10–12 both recommend it 100%. One meat-loving guest called the grilled meats and roast okra "a must for carnivores" — fresh ingredients, meat arriving hot at the table, and unlimited-time dining. Another parent noted the decor is ordinary but the atmosphere carries the night: "the kids' favorite part was showtime — customers can go up on stage, and that's when the energy peaks."
+**8 historical merchant reviews** on the booking platform. Representative guest reviews (translated from Chinese):
 
----
+> "The grilled meats are great — the roast pineapple and roast king oyster mushrooms are amazing. Service is good too; I'll definitely be back."
+> — f***n · stayed Sep 2025
+
+> "My favorite is Latin Restaurant's grilled meat and grilled okra — an absolute must for carnivores. It's an unlimited-time buffet, everything is fresh, the meat comes off the grill perfectly seasoned and still hot when it reaches your table. The kids even get pasta and a chocolate fountain!"
+> — E***H · stayed Feb 2022
+
+> "An old-name restaurant that's been open in Guangzhou for over ten years. The dining room itself is ordinary, but the atmosphere makes up for it. The kids were happiest at showtime — guests can go up on stage, and that's when the energy peaks. I went on a weekday; weekends must be even livelier."
+> — 呼***拉 · stayed Jan 2022
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ## 📸 Photos
 

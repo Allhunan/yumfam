@@ -15,23 +15,25 @@ cover:
 
 **Deal price: ¥39.9 (≈$5.50) kids early-bird** · Adult early-bird ¥88 (≈$12) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
-Chunfeng Campsite runs two outdoor BBQ campsites in Shanghai — Chunfeng Heyuan in Minhang (Luheng Road) and Chunfeng Jiayuan in Jiading (Jiabei Country Park) — and this early-bird ticket is an all-you-can-eat BBQ with **30+ ingredients**, plus a pile of free playground games for the kids. A great National Day outdoor option.
+Chunfeng Campsite （椿风营地） runs two outdoor BBQ campsites in Shanghai, and this early-bird ticket turns either one into a full day out rather than just a meal. The core of it is a **three-hour all-you-can-eat grill session with 30+ ingredients** — beef and lamb, chicken wings, pork belly, small yellow croaker, tenderloin and fresh vegetables — with the grill, charcoal, tools and seasonings all provided. Around the BBQ, both sites pile on **free games**: billiards, badminton, table tennis, outdoor karaoke, lawn frisbee and board games (Chinese chess, Go, gomoku, Three Kingdoms Kill, Werewolf), so kids and grandparents both have something to do between skewers.
 
-Buy and use immediately; refundable if you haven't reserved. Call one day ahead to reserve your grill (Heyuan: 13162283561 / Jiayuan: 15527135008). Stove fee: free when 5+ people share a table (tables can be combined); +¥50/table for 1–2 people, +¥30/table for 3–4. Drinks aren't included — buy on site or bring your own. Open 9:00–20:00, valid through Oct 31.
+The two sites have different personalities. **Chunfeng Heyuan** in Minhang (inside Zhongdongyuan Farm, 1255 Luheng Road) is the city-side one: it adds unpowered play kit — climbing frames, multi-person bikes, kids' tricycles, slides, a sand pit and seesaws — plus farm fruit-and-vegetable picking through the year and scheduled agriculture science sessions for kids. It's also **pet-friendly** (dogs under 20 jin / ~10 kg, kept on a leash) and parking is free. **Chunfeng Jiayuan** in Jiading sits inside Jiabei Country Park (5051 Huyi Highway, by Gate 1's big lawn), a much larger green setting; paid extras there include a jungle trek, pedal boats and an ATV track.
 
-Seasonal perks: the Jiading site hosts a **free Straw Culture Festival** (Sep 23–Oct 31); the Minhang site runs **stream fish-catching** on weekends and holidays (11:00 & 13:00 — keep what you catch) and is pet-friendly (dogs under 20 jin on leash). Parking is free at Minhang; ¥15/visit at Jiading (park rate).
+⚠️ **Timing:** these early-bird prices are only valid through **Oct 31, 2026**, and both sites require a **phone reservation one day ahead** (Heyuan: 13162283561 / Jiayuan: 15527135008). Unreserved tickets are refundable, but once a reservation goes through it can't be refunded — so lock the date before you call. Sites are open 9:00–20:00 daily.
 
 **Packages**
-- Kids early-bird BBQ ticket (Heyuan or Jiayuan) — **¥39.9** (≈$5.50)
-- Adult early-bird BBQ ticket (Heyuan or Jiayuan) — **¥88** (≈$12)
+- Kids early-bird BBQ ticket (children 1–1.3m tall; Heyuan or Jiayuan) — **¥39.9** (≈$5.50, was ¥99)
+- Adult early-bird BBQ ticket (Heyuan or Jiayuan) — **¥88** (≈$12, was ¥198)
+- Both include the 3-hour all-you-can-eat BBQ (30+ ingredients), grill tools, charcoal and seasonings, plus the free games listed above
+- Seasonal extras included: **stream fish-catching** at Heyuan on weekends and holidays (two sessions, 11:00 & 13:00 — keep what you catch) and **free entry to the Straw Culture Festival** at Jiayuan (Sep 23–Oct 31)
+
+**Good to know:** each BBQ table seats 8–10. The stove fee is **free when 5+ people share a table** (you can merge with other groups on site to reach five); it's +¥50/table for 1–2 people and +¥30/table for 3–4. Drinks are not included — buy on site or bring your own. Parking at Jiayuan is free for the first 2 hours, then ¥10/hour (2–3 hrs) and ¥2.5/half-hour (3–7 hrs), capped at ¥30/day; parking at Heyuan is free. Bring your booking voucher code and phone number for entry.
 
 ---
 
 ## What guests say
 
-A recently listed product — **no written reviews yet**, but 70+ tickets have already been booked. Check the booking page for fresh reviews.
-
-*No reviews displayed on the product page as of 2026-10-04.*
+No guest reviews are available for this listing yet — the booking platform's review pool for this merchant is still empty, and we couldn't find verifiable reviews for the campsites on other platforms either. What's solid from the terms: the ticket genuinely bundles the BBQ with the games (they're listed as included, not upsells), the fish-catching catch is yours to take home, and tickets stay refundable until the moment you reserve — so there's little risk in booking ahead of a weekend plan.
 
 ## 📸 Photos
 

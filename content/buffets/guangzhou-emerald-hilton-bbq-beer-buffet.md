@@ -13,17 +13,22 @@ cover:
   alt: "Guangzhou Emerald Hilton buffet — Ice BBQ & Beer Food Festival spread"
 ---
 
-**Deal price: 1 adult + 1 kid lunch buffet — from ¥218** (≈$30, was ¥416, about 53% of list) · Valid Jul 10 – Nov 30, 2026 · **weekends only (Sat/Sun), no surcharge** · ⏰ refundable anytime if unreserved
+**Deal price: 1 adult + 1 kid buffet — from ¥218** (≈$30, was ¥416) · Lunch Sat/Sun from ¥218 · Dinner Tue–Sun from ¥228 · Valid Jul 10 – Nov 30, 2026 · ⏰ refundable anytime if unreserved
 
-The **Guangzhou Emerald Hilton** (28 Ningcai Road, Science City, Huangpu District) is running its **"Ice BBQ & Beer Food Festival"** theme buffet: **charcoal-grilled oysters, thick-cut salmon, grilled skewers, sliced roast beef** and **free-flow drinks** across the hall. With 40+ vouchers already grabbed, it's the weekend family table locals are booking right now.
+The **Guangzhou Emerald Hilton** (Hilton Guangzhou Science City, 28 Ningcai Road, Huangpu District) is running its **"Ice BBQ & Beer Food Festival"** theme buffet, and the grill station is the headline: **charcoal-grilled Rushan oysters from Yantai**, shucked and roasted to order, alongside roughly 22cm grilled squid skewers, satay skewers and slow-roasted beef leg. The crab lineup alone runs six ways — curry crab, black-pepper crab, typhoon-shelter crab, ginger-scallion crab, cheese-baked crab and a Luzon-sauce crab — and the cold side counters with **thick-cut salmon** and 5+ sashimi varieties over 10+ live-cooking stations and 100+ dishes in total.
+
+It's built with families in mind rather than as an afterthought. There's a mini hotpot station (coconut-chicken or mala broth), a cheese-wheel pasta, Thai teh tarik, and a dessert counter with a My Little Pony theme, the hotel's signature durian cake made with real fruit pulp, bear-shaped jelly and **6 ice-cream flavours**. At dinner, **beer is free-flow**. The 2-adults-2-kids tiers are where the maths gets silly: on other platforms two adults alone run ¥476+ at lunch before adding a child, while here the full family set is ¥418.
+
+⚠️ **Timing & booking:** lunch runs **Sat/Sun only (11:45–14:30)**; dinner runs **Tuesday–Sunday (17:45–21:30)**. You must reserve the same day — by **13:00 for lunch, 18:00 for dinner** (restaurant: 020-88800999) — and bring your voucher code, phone number and ID. The theme ends **Nov 30, 2026**, menus rotate with the season, and the vouchers aren't valid for groups of 10 or more.
 
 **Packages**
-- 1 adult + 1 kid, lunch — **¥218** (≈$30)
-- 1 adult + 1 kid, dinner — **¥228** (≈$32)
-- 2 adults + 2 kids (under 1.4 m / 1.2 m), lunch — **¥418** (≈$58)
-- 2 adults + 2 kids (under 1.4 m / 1.2 m), dinner — **¥438** (≈$61)
+- 1 adult + 1 kid (under 1.2m), lunch (Sat/Sun) — **¥218** (≈$30, was ¥416)
+- 1 adult + 1 kid (under 1.2m), dinner (Tue–Sun) — **¥228** (≈$32, was ¥416)
+- 2 adults + 2 kids (one under 1.4m + one under 1.2m), lunch (Sat/Sun) — **¥418** (≈$58, was ¥931)
+- 2 adults + 2 kids (one under 1.4m + one under 1.2m), dinner (Tue–Sun) — **¥438** (≈$61, was ¥1,040)
+- All packages: full buffet spread; free-flow beer at dinner; weekends at no surcharge
 
-**Terms:** reserve ahead of your visit; unreserved vouchers are refundable anytime. Weekends only — plan a Saturday or Sunday.
+**Good to know:** kids 1.2–1.4m pay half the walk-in price; over 1.4m it's cheaper to add a single-person set than to pay the supplement. Dining includes **4 hours of free parking**. Getting there is easy: Metro Line 21 to Science City station is a 5-minute walk, or Line 6 to Xiangang station, about 10 minutes on foot.
 
 Xialv Money-Saver Card holders save an extra ¥30.
 
@@ -31,9 +36,18 @@ Xialv Money-Saver Card holders save an extra ¥30.
 
 ## What guests say
 
-Family recommendation runs 50% for ages 3–6, 75% for 7–9, and **100% for 10–12** (4 votes each) — older kids are the happiest campers here. One reviewer: "Very satisfied — the staff are warm and the food quality is excellent. Recommended!" Another praised the restaurant manager by name: "great service, sashimi, roast lamb skewers and desserts all tasted wonderful — they even surprised us with a birthday cake for grandma. Full of heart, we'll be back!"
+**9 historical merchant reviews** on the booking platform. Representative guest reviews (translated from Chinese):
 
----
+> "Great value, really worth bringing the kids for — and the staff's attitude was excellent throughout."
+> — 136****0866 · Dec 2023
+
+> "Very satisfied — the staff are warm and helpful, and the food quality is genuinely good. Recommended!"
+> — 152****4625 · Jan 2023
+
+> "The service was great — the restaurant manager was so warm and proactive, bringing us lots of good things to try: sashimi, roast lamb skewers, all delicious, and the desserts were lovely too. We'd mentioned it was grandma's birthday, and they surprised us with a one-pound cake. Full of heart — we'll be back!"
+> — 紫***来 · Sep 2022
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ## 📸 Photos
 

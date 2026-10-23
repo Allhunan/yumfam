@@ -13,25 +13,25 @@ cover:
   alt: "Beijing Xiangshan family hotel — water park and family stay"
 ---
 
-**Deal price: family play package, 1 night — ¥599** (≈$85) (was ¥1,896, 32% of list) · **All-inclusive, 2 nights — ¥1,098** (≈$155) (was ¥3,936) · Valid Aug 20 – Dec 31, 2026 · usable any day of the week
+**Deal price: family play package, 1 night — ¥599 (≈$85)** (was ¥1,896) · **All-inclusive, 2 nights — ¥1,098** (≈$155) (was ¥3,936) · Valid Aug 20 – Dec 31, 2026, any day of the week · Book by 23:00 the day before
 
-Right by **Xiangshan (Fragrant Hills)** in Haidian, this is the autumn trip Beijing families book: the red-foliage season comes with **zero weekend surcharge**, and the 2-night all-inclusive package covers a Hollywood-themed family room, breakfast for 2 adults + 1 child each night, **unlimited water-park play** (09:00–21:00), a light meal for two, **3 tickets to the National Botanical Garden** (~10 min drive), and the on-site **petting park**.
+This is the autumn trip Beijing families book: a hotel at the foot of **Xiangshan (Fragrant Hills)** — about 1 km from the park gate, 350 m from the Xiangshan station exit — that spent the first half of 2026 renovating its rooms, water park, pet park and restaurant, then bundled everything into two family packages. You stay in a Hollywood-themed twin room, and the day runs itself: an **indoor heated water park** (constant temperature, weather-proof, open all year) with a dedicated kids' splash zone and unlimited re-entry during your stay; a forest-style **petting park** where deer and goats wander among the trees and kids can get up close; and **3 tickets to the National Botanical Garden** (north garden, ~2 km away — flat paths, huge plant coverage, ideal for a stroller-friendly wander). Xiangshan Park itself is the headline act in red-leaf season — roughly late October to mid-November — and the Summer Palace is about 9 km away if you want a second big garden day.
+
+The 2-night all-in price is the one the hotel itself recommends: it adds a **light set meal for two** at the renovated Hongbinyuan western restaurant & café (mango prawn avocado salad, Margherita pizza, spaghetti Bolognese, fries and drinks), a stocked **minibar each night**, and feeding packs for the pet park. Each night includes breakfast for 2 adults + 1 child, a tea gift, and **14:00 late checkout** when occupancy allows, plus free parking and WiFi throughout.
+
+⚠️ **The fine print is mostly good news:** weekends, Mid-Autumn and the whole red-leaf season carry **zero surcharge** — rare for Xiangshan in autumn. The only uplift in the entire validity window is Oct 1–7 (National Day), already past, at ¥200/room/night. Book by **23:00 the day before** — inventory is first-come, first-served, and confirmed bookings are generally non-refundable, while unbooked vouchers refund anytime. Check-in 14:00, standard checkout 12:00. Bring ID for every guest: adults check in with their ID card, and children (including infants) need the household register （户口簿） — driving licences aren't accepted.
 
 **Packages**
-- Family play package, 1 night — **¥599** (≈$85), was ¥1,896
-- All-inclusive, 2 nights (1 room × 2 nights, or 2 rooms × 1 night) — **¥1,098** (≈$155), was ¥3,936
+- **Family play package, 1 night — ¥599** (≈$85, was ¥1,896): Hollywood twin room · breakfast for 2 adults + 1 child (under 1.5 m) · unlimited indoor pool & kids' water park for 2 adults + 1 child during the stay · petting park day pass (feeding packs not included) · 3 National Botanical Garden tickets · tea gift · 14:00 late checkout (subject to availability) · free parking & WiFi
+- **All-inclusive, 2 nights — ¥1,098** (≈$155, was ¥3,936): Hollywood twin room for 2 nights in one room, or 2 rooms for 1 night · breakfast for 2 adults + 1 child **per night** · one light set meal for two · unlimited water park per night · petting park per night **with 2 feeding packs included** · 3 National Botanical Garden tickets · minibar per night · tea gift · 14:00 late checkout (subject to availability) · free parking & WiFi
 
-**Included:** room · breakfast for 2 adults + 1 child per night (kids under 1.5 m free) · unlimited water-park entry during stay · light meal for 2 · 3 National Botanical Garden tickets · petting park (feeding 09:00–11:00 / 16:00–18:00) · 14:00 late checkout (subject to availability) · free parking & WiFi
-
-**Terms:** reserve by 23:00 the day before use; unreserved vouchers are refundable. Check-in 14:00, check-out 12:00 next day. Weekends, Mid-Autumn and the red-foliage season carry **no surcharge**; only the Oct 1–7 National Day week adds ¥200/room/night (live surcharge page governs).
-
-Xialv Money-Saver Card holders save an extra ¥30.
+**Good to know:** the hotel is at 59 North Zhenghuangqi, Haidian. Driving from central Beijing takes about 45 minutes (30 km); by transit, ride the **Xijiao Line** — Beijing's little sightseeing tram through the western hills, nicknamed the "Xiangshan mini train" — to Xiangshan station, then walk 350 m (or about 10 minutes from the tram stop area). Free parking makes driving painless outside red-leaf weekends, when the tram is the calmer choice. Xialv Money-Saver Card holders save an extra ¥30.
 
 ---
 
 ## What guests say
 
-No written reviews have been published for this package yet — the listing is relatively new. The page shows a 5-star prompt and the hotel's own facilities (water park, petting park, botanical-garden tickets) are the verifiable value: even the ¥599 single-night play package prices below the water park's own ¥188/adult door rate once breakfast and tickets are counted.
+No guest reviews are available for this property yet — the booking platform's review pool is still empty, and we couldn't verify quotes on other platforms either. What's verifiable from the package terms: the water park is indoor and heated (so the "unlimited play" promise holds in December, not just summer), the 2-night tier genuinely includes a meal and minibar rather than just the room, and with calendar rooms at the hotel running about ¥800 a night on their own, the ¥1,098 two-night bundle works out to roughly ¥549 a night with breakfast, tickets and activities folded in.
 
 ---
 

@@ -13,17 +13,21 @@ cover:
   alt: "Qiandaohu Lichen Ruixuan Hotel — lakeside stay with all meals"
 ---
 
-**Deal price: mountain-view room, 4 nights with 3 meals/day — ¥698** (≈$98) · 3 nights ¥598 (≈$85) · 2 nights ¥498 (≈$70) · 1 night ¥249 (≈$35) (63% of list) · Valid Sep 1, 2026 – Mar 31, 2027 · usable any day of the week, **no weekend surcharge**
+**Deal price: mountain-view room, 4 nights with 3 meals/day — ¥698** (≈$98) · 3 nights ¥598 (≈$84) · 2 nights ¥498 (≈$70) · 1 night ¥249 (≈$35, was ¥399) · Valid Sep 1, 2026 – Mar 31, 2027 · Usable any day of the week, **no weekend surcharge**
 
-A slow-travel deal on **Qiandaohu (Thousand-Island Lake)** in Chun'an: the Lichen Ruixuan sits in the central lake resort area, a short walk from the **night-cruise pier** and the **fish-street food quarter**. Every package includes **daily breakfast, lunch and dinner for two**, free parking, the gym, laundry room, kids' playground and a games room.
+A slow-travel deal on **Qiandaohu (Thousand-Island Lake)** in Chun'an, Hangzhou. The **Lichen Ruixuan Hotel (Central Lake branch)** — 丽呈睿轩酒店， 427-4 Nanjing Road, Qiandaohu Town — sits on the resort shoreline with the forested Menggutang hills behind it and the lake in front: the **night-cruise pier is a short walk away**, and so is the **Fish Street food quarter**, so evenings out take no planning at all. The hotel has 116 rooms; the ones in this deal are the **35㎡ mountain-view rooms** — twin (two 1.3 m beds, floors 2–5) or the "zero-pressure" king (1.8 m bed, floors 3–5), windowed, non-smoking, free Wi-Fi.
 
-**Packages** (mountain-view room, meals for 2/day)
-- 1 night — **¥249** (≈$35)
-- 2 nights — **¥498** (≈$70)
-- 3 nights — **¥598** (≈$85)
-- 4 nights — **¥698** (≈$98)
+What makes the math unusual is the board basis: **every tier includes three meals a day for two** — a buffet breakfast built on Qiandaohu local specialties, plus a set light lunch and dinner daily. Add free parking, the gym, the 24-hour self-service laundry, the kids' playground and a shallow **children's paddling pool** (non-slip surround, water regularly purified), and a four-night stay becomes close to fully catered: ¥698 works out to about **¥175 a night for the room and six meals a day for a couple**. The games room sweetens group trips — a party of four gets one free chess-and-cards room session, first come first served.
 
-**Terms:** reserve by 17:00 the day before use; unreserved vouchers are refundable. Check-in 14:00, check-out 12:00 next day. Weekdays and weekends carry **no surcharge**. Mid-Autumn (Sep 25–26) adds ¥100/room/night, National Day (Oct 1–5) adds ¥500/room/night; Jan 1, 2027 and Feb 5–10, 2027 are blacked out. Lake-view upgrade +¥100/room/night.
+⚠️ **Dates to watch:** no weekend surcharge at all, and the 2026 holiday uplifts (Mid-Autumn +¥100, National Day +¥500) are already past — but **Jan 1, 2027 and Feb 5–10, 2027 (Spring Festival) are blacked out**. Book by **17:00 the day before**; check-in 14:00, check-out 12:00. Unreserved vouchers refund anytime. If you'd rather wake up over the water, the **lake-view upgrade is +¥100/room/night**.
+
+**Packages** (mountain-view room; daily breakfast + lunch + dinner for two on every tier)
+- 1 night — **¥249** (≈$35, was ¥399)
+- 2 nights — **¥498** (≈$70, was ¥666)
+- 3 nights — **¥598** (≈$84, was ¥888)
+- 4 nights — **¥698** (≈$98, was ¥888)
+
+**Good to know:** lunch and dinner are set light meals （简餐）, not banquets — the value is in never having to think about food, with Fish Street a walk away when you want the famous Qiandaohu fish-head splurge instead. The longer tiers only make sense as consecutive nights in the same room.
 
 Xialv Money-Saver Card holders save an extra ¥30.
 
@@ -31,9 +35,14 @@ Xialv Money-Saver Card holders save an extra ¥30.
 
 ## What guests say
 
-Only one written review so far — a five-star "pretty good" — but the family recommendation rate sits at 100% for the 10–12 age group. The verifiable value is in the math: ¥698 for four nights with three daily meals for two is a rate the hotel's own front desk can't touch.
+The booking platform's own pool for this hotel is still tiny — **1 historical merchant review**, a brief five-star note:
 
----
+> "Pretty good."
+> — 191****2676 · stayed Nov 2024
+
+The fuller picture sits on Trip.com, where the hotel (listed as Rezen Select Qiandao Lake Central Dock — same property, same address) carries a **4.7/5 rating from 2,200+ guest reviews** and is flagged as a consistently popular pick for family travelers. Between the two sources the honest summary is: a well-regarded lakeside hotel whose xialv review pool simply hasn't filled in yet — the deal's value rests on the verifiable inclusions above rather than on testimonials.
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ## 📸 Photos
 

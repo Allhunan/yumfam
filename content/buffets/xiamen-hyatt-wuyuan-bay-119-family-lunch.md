@@ -1,36 +1,49 @@
 ---
-title: "Hyatt Regency Xiamen Wuyuan Bay Family Lunch — ¥119 (≈$17) for 1 Adult + 1 Kid, was ¥198"
+title: "Hyatt Regency Xiamen Wuyuan Bay Family Lunch — ¥119 (≈$17) for 1 Adult + 1 Kid, was ¥228"
 date: 2026-10-13
 draft: false
 location: "Huli, Xiamen, Fujian"
 price: "¥119 (≈$17)"
-was_price: "¥198"
+was_price: "¥228"
 coupon: "Xialv Money-Saver Card — ¥30 off this product + ¥50 welcome bonus on signup"
-valid_until: "2027-02-27"
-description: "Hyatt Regency Xiamen Wuyuan Bay （厦门五缘湾凯悦酒店） Double-11 early deal: weekday lunch for 1 adult + 1 kid under 6 at ¥119 (50% off ¥198) — seafood hot dishes, teppanyaki grills and fresh sashimi, all-you-can-eat. Valid through Feb 27, 2027."
+valid_until: "2027-01-31"
+description: "Hyatt Regency Xiamen Wuyuan Bay （厦门五缘湾凯悦酒店） Double-11 early deal: weekday lunch for 1 adult + 1 kid under 6 at ¥119 (was ¥228) — seafood hot dishes, teppanyaki grills and fresh sashimi, all-you-can-eat. Valid through Jan 31, 2027."
 cover:
   image: "https://img.xialv.com/uploads/2025/12/24/item_pic1766541435569520.jpeg?imageView2/1/w/1050/h/588"
   alt: "Hyatt Regency Xiamen Wuyuan Bay buffet lunch"
 ---
 
-**Deal price: weekday lunch, 1 adult + 1 kid under 6 — ¥119 (≈$17)** (was ¥198, 50% off) · Bookable Oct 10, 2026 – Feb 27, 2027 · ⏰ valid through Feb 27, 2027
+**Deal price: weekday lunch, 1 adult + 1 kid under 6 — ¥119 (≈$17)** (was ¥228) · Valid Oct 10, 2026 – Jan 31, 2027 · ⏰ refundable if unreserved, auto-refunded on expiry
 
-**Hyatt Regency Xiamen Wuyuan Bay** （厦门五缘湾凯悦酒店， near the Bayview City mall, Huli, Xiamen) runs a Double-11 early-bird deal on its buffet lunch: seafood hot dishes, teppanyaki grills, sweet sashimi and more — eat as much as you like. 500+ vouchers already sold.
+The **Hyatt Regency Xiamen Wuyuan Bay** （厦门五缘湾凯悦酒店） was Xiamen's first Hyatt-branded hotel, set on Wuyuan Bay — the bay locals call the prettiest in the city — and connected directly to the Bayview City shopping mall. Its Marketplace Café on the first floor runs an open-kitchen buffet built around a "freshly made" idea: dishes are stir-fried, pan-fried and grilled to order rather than sitting under heat lamps. Expect **seafood hot dishes, a live teppanyaki station, sashimi, roast duck, sushi and a noodle bar**, plus a dessert run that punches above lunch-buffet weight — lemon Basque cheesecake, cherry chocolate cake and yuzu cheesecake among them.
+
+At ¥119 for an adult with a child under 6 eating free, this is one of the easiest weekday family lunches in Xiamen: the hotel is a short walk from Wuyuan Bay Wetland Park, so the standard local play is a park stroll followed by lunch, or lunch first and the mall afterwards. The room itself helps — a high-ceilinged lobby and dining space with Minnan touches (Chinese lattice screens, classic red brick) rather than generic hotel beige. Prices include tax and service charge.
+
+⚠️ **Booking & surcharges:** you must book **at least one day ahead, by 21:00**, by phone (0592-6069391) — once a booking is confirmed it can't be refunded, though unreserved vouchers refund anytime and auto-refund on expiry. The lunch voucher is a weekday price: using it on a **Saturday, Sunday or public holiday adds ¥20 per person**. Dine-in only, no takeaway packing.
 
 **Packages**
-- Weekday lunch, 1 adult + 1 kid under 6 — **¥119** (≈$17)
-- Weekend child lunch (ages 6–12) — **¥99** (≈$14)
-- Weekend breakfast, 1 adult + 1 kid under 6 — **¥111** (≈$16)
+- Weekday lunch, 1 adult + 1 kid under 6 — **¥119** (≈$17, was ¥228) · 11:30–14:00 daily
+- Weekend child lunch, ages 6–12 (with an accompanying adult) — **¥99** (≈$14, was ¥198)
+- Weekend breakfast, 1 adult + 1 kid under 6 — **¥111** (≈$16, was ¥198) · 6:30–10:00 weekdays, 6:30–10:30 weekends & holidays
 
-Terms: lunch served 11:30–14:00; book at least 1 day ahead by phone. Refundable anytime; auto-refunded on expiry. Blackout dates: Dec 24–26 2026, Jan 1–3 2027, Feb 15–20 2027.
+**Good to know:** the hotel is at the junction of Zhongzhai West 3rd Road and Fanghu Road in Huli, with metro, BRT and bus stops nearby — one reviewer notes the BRT Administration Center station is about a 10-minute walk. Child pricing at lunch: each adult brings one child under 6 free; kids 6–12 pay ¥99 on weekdays or ¥119 on weekends on site; ages 13+ are charged as adults. At breakfast, 6–12s are half price.
 
 ---
 
 ## What guests say
 
-The merchant has 479 historical reviews with solid family scores: 69.2% recommend for ages 3–6, 52.3% for 7–9, and 91.9% for 10–12. One 5-star guest praised the elegant classic-Chinese decor, spotless dining room ("you could see your reflection in the floor"), fast serving, warm service and beautifully plated dim sum — "having tried several places, Hyatt's dim sum really stands out." Another simply called it "非常棒" (fantastic).
+**479 historical merchant reviews** on the booking platform. Representative guest reviews (translated from Chinese):
 
----
+> "Really good value — I went on the Monday/Thursday deal and everything that should be there was there. Lunch doesn't have salmon, but there is tuna sashimi, plus roast duck, sushi and a live noodle station. The room is spacious and the setting is lovely. Dinner has more, of course, but at this price lunch is very acceptable."
+> — 程*** · Sep 2025
+
+> "I've eaten here many times. The seafood and the desserts are the standouts — good quality, lots of variety, and the hot dishes are well made too. Great value!"
+> — 谢***燕 · Mar 2025
+
+> "A really good weekday lunch — excellent value, nice environment and good service. I'll definitely be back."
+> — 安***鱼 · Apr 2026
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ## 📸 Photos
 

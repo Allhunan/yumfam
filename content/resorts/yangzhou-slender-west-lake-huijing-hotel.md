@@ -13,23 +13,28 @@ cover:
   alt: "Slender West Lake Huijing Hotel Yangzhou — hotel room"
 ---
 
-**Deal price: 2 nights + daily buffet breakfast, lunch & dinner for two — ¥579 (≈$82)** (was ¥399/night) · Bookable Oct 10 – Dec 31, 2026, any day of the week · ⏰ valid through Dec 31, 2026
+**Deal price: 2 nights + daily buffet breakfast, lunch & dinner for two — ¥579 (≈$81)** (was ¥798) · 1-night version ¥299 (≈$42) · Bookable Oct 10 – Dec 31, 2026, any day · ⏰ valid through Dec 31, 2026
 
-This is the "livestream special" we've been waiting for in Yangzhou: the **Slender West Lake Huijing Hotel** （瘦西湖汇璟酒店） sits at the foot of Daming Temple right next to the 5A-rated **Slender West Lake** scenic area. Two nights in an elegant comfort room (28㎡, king or twin) with **three buffet meals a day** — breakfast, lunch and dinner — plus a free ride between the hotel and **Yangzhou / Yangzhou East train station** or the scenic area itself.
+The **Slender West Lake Huijing Hotel** （瘦西湖汇璟酒店） sits at the foot of Daming Temple, just north of the 5A-rated **Slender West Lake** — you can walk to the lake's north gate. It is a fitting base for Yangzhou, the Grand Canal city shaped by 2,500 years of waterborne trade, salt merchants and poets. The hotel itself is built as a Ming/Qing-style private garden: eight classic buildings linked by covered corridors over bridges, streams and rockeries, pairing Jiangnan garden quiet with modern facilities. Your room is a 28㎡ elegant comfort room (1.8 m king or two 1.2 m twins), and the bundle's real headline is the food: **three buffet meals a day for two — breakfast, lunch and dinner**, with Yangzhou specialties on the breakfast spread.
 
-Kids eat almost free: under 1.2 m free at all three meals; 1.2–1.4 m pay ¥28–38 depending on the meal. A second room-night setup is also available — book one room for 2 nights or two rooms for 1 night.
+Also included: one round of **free pickup** between the hotel and Yangzhou or Yangzhou East station (or the Slender West Lake scenic area), the indoor gym, free on-site parking — and even a complimentary car wash.
+
+⚠️ **Surcharges & timing:** Friday and Saturday nights add **¥50/room/night**; New Year's Eve night (Dec 31) adds **¥350/room/night**. The pickup needs a call to the front desk **a day ahead**. Check-in 14:00, check-out 12:00, ID required; book by **17:00 on the day of use**. An extra bed costs ¥198/person/night (no breakfast included).
 
 **Packages**
-- 28㎡ elegant comfort room 1 night + 3 daily buffets (breakfast/lunch/dinner) + station/scenic-area pickup — **¥299** (≈$42)
-- 28㎡ elegant comfort room 2 nights + 3 daily buffets + station/scenic-area pickup — **¥579** (≈$82)
+- 1 night, 28㎡ elegant comfort room (king or twin) + buffet breakfast, lunch & dinner for two + station/scenic-area pickup — **¥299** (≈$42, was ¥399)
+- 2 nights (1 room × 2 nights, or 2 rooms × 1 night) + three buffets daily for two + pickup — **¥579** (≈$81, was ¥798)
 
-Xialv Money-Saver Card holders save an extra ¥30. Book by 5 PM on the day of use; unreserved bookings are refundable. Note: New Year's Eve night (Dec 31) carries a ¥350/night surcharge.
+**Good to know — kids eat almost free**
+- Under 1.2 m: free at all three buffets. 1.2–1.4 m: breakfast ¥28, lunch ¥28, dinner ¥38. Over 1.4 m: breakfast ¥38, lunch ¥48, dinner ¥68.
+- Xialv Money-Saver Card holders save an extra ¥30 on this product. Unreserved vouchers are refundable.
+- Address: No. 3 Pingshantang East Road, Hanjiang District — at the foot of Daming Temple, beside Slender West Lake.
 
 ---
 
 ## What guests say
 
-This is a fresh listing with no guest reviews yet — the merchant's rating page shows no scores as of today. We'll update this section once the first reviews come in.
+This is a fresh listing with no guest reviews on the booking platform yet, so here is what can be verified from the package details instead: all three daily meals are buffets for two (not just breakfast), the pickup service covers both train stations and the scenic area on one round trip, Friday/Saturday nights carry only a ¥50 surcharge (not the ¥350 that applies on Dec 31), and kids under 1.2 m eat free at every meal — with 1.2–1.4 m priced at ¥28–38 per meal. We will update this section once the first platform reviews come in.
 
 ---
 

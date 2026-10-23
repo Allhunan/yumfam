@@ -13,25 +13,27 @@ cover:
   alt: "Wuyuan Mingyu Hotel — Huizhou-style courtyard hotel"
 ---
 
-**Deal price: 1 night in a Huizhou-style courtyard hotel + breakfast, from ¥299 (≈$42)** (was ¥699, about 43% of list) · Bookable through Dec 31, 2026, weekends included · ⏰ valid through Dec 31, 2026
+**Deal price: 1 night in a Huizhou-style courtyard hotel + breakfast for 2, from ¥299 (≈$42)** (was ¥699) · Valid Aug 31 – Dec 31, 2026, any day of the week · Book by 17:00 on the day of arrival · Unbooked vouchers refundable
 
-A first for this site: Jiangxi's Wuyuan — the "most beautiful countryside in China" county, famous for its rapeseed fields and white-walled Huizhou villages. Mingyu Hotel sits **right inside the Wangkou 4A scenic area**, wrapped by two rivers, built as a Huizhou-style courtyard with the classic "thousand-gold gatehouse, four-tael house" (千金门楼、四两屋) layout. The hotel even has its own **Hui-carving art museum** by master Yu Youhong, with an interactive experience zone and evening guided tours (8:00 pm).
+A first for this site: Jiangxi's Wuyuan — the "most beautiful countryside in China," famous for rapeseed terraces and white-walled Huizhou villages. The **Mingyu Hotel** （婺源明煜酒店， No. 1, National Road 237, Wangkou) sits **right inside the Wangkou 4A scenic area**, embraced by two rivers at the heart of the ancient village, built as an enclosed Huizhou courtyard under the classic "thousand-gold gatehouse, four-tael house" （千金门楼、四两屋） layout — original-wood tones, lattice windows and the region's famous "three carvings" worked into the walls.
 
-The surrounding area does the heavy lifting: Wangkou scenic area is walkable, Jiangwan 5A is 7 km away, Huangling 15–18 km, Wunüzhou resort 20 km — and Wuyuan high-speed rail station is about 20 minutes by car. The 112 rooms come with a 270㎡ mountain-flavor restaurant (Shanye Yuanwei).
+The hotel's signature is cultural: it houses master **Yu Youhong's Hui-carving art museum** with an interactive experience zone, and every package includes the master's **guided talk at 20:00** — an unusually rich evening program for a ¥299 room. Days, the location does the heavy lifting: Wangkou's old trees and ancient bridges are a walk away, Jiangwan 5A is about 7 km (10–12 minutes' drive), Huangling 15–18 km (25–30 minutes), the Wunüzhou resort about 20 km, and Wuyuan high-speed rail station roughly 20 minutes by car. The 112 rooms are served by the 270㎡ **Shanye Yuanwei restaurant** (76 seats, mountain-flavor cooking), and every tier includes the **laundry room, gym, yoga room and parking, all free**.
 
-**Packages**
-- Elegant room (25–32㎡), 1 night + 2 breakfasts + art museum + 30%-off Wangkou tickets — **¥299** (≈$42)
-- River-view room (35–45㎡), 1 night + 2 breakfasts + art museum + 30%-off Wangkou tickets — **¥499** (≈$70)
-- Elegant room, 2 nights + 2 breakfasts + art museum + Wangkou tickets — **¥699** (≈$99)
-- Loft family room, 2 nights + 4 breakfasts + art museum + Wangkou tickets — **¥999** (≈$141)
+⚠️ **The fine print is friendly.** Booking stays open until **17:00 on the day you arrive** — genuinely last-minute friendly — and unbooked vouchers refund anytime (once confirmed, bookings are generally non-refundable). The only surcharge window in the whole run was Oct 1–6 (+¥400/night), already past: **every remaining date through Dec 31, 2026, weekends included, costs the listed price.** Check-in 15:00, check-out 12:00; bring ID for every guest (household register for children). The two 2-night tiers can be split as 2 rooms × 1 night if you're traveling as a group.
 
-Xialv Money-Saver Card holders save an extra ¥30. Check-in 3:00 pm, checkout noon. No surcharges outside holiday weeks.
+**Packages** — all include breakfast, the 20:00 Hui-carving museum talk, free laundry room, gym, yoga room and parking
+- **Elegant room (25–32㎡, king or twin), 1 night — ¥299** (≈$42, was ¥699): 2 breakfasts · **30% off Wangkou scenic-area tickets**
+- **River-view room (35–45㎡; 1.8 m king or two 1.2 m twins), 1 night — ¥499** (≈$70, was ¥899): 2 breakfasts · 30% off Wangkou tickets
+- **Premium room (25–32㎡), 2 nights — ¥699** (≈$98, was ¥1,299): 2 breakfasts daily · **2 Wangkou scenic-area tickets included** · splittable as 2 rooms × 1 night
+- **Loft family room, 2 nights — ¥999** (≈$140, was ¥1,699): **4 breakfasts daily** · 2 Wangkou tickets included · splittable as 2 rooms × 1 night
+
+Xialv Money-Saver Card holders save an extra ¥30.
 
 ---
 
 ## What guests say
 
-Review volume on the platform is still thin for this hotel — just one family with a 7–9-year-old gave it a 100% recommendation, and no group-buy reviews are on the page yet. We're listing it on the strength of the location (inside a 4A scenic area, walkable to Wangkou) and the price; if you go, we'd love to hear how it was.
+Honest note: this hotel is new to the booking platform — its merchant review pool is still empty, and we couldn't find verifiable guest reviews for this specific property on Ctrip or other major platforms yet (several similarly named Wuyuan inns are different hotels). One family rating on the platform does recommend it 100% for ages 7–9. We're listing it on the strength of what's verifiable: a location inside the Wangkou 4A scenic area, an in-house intangible-heritage museum with a nightly master talk, free laundry/gym/yoga/parking, and same-day booking with refundable unbooked vouchers. If you go, we'd love to hear how it was.
 
 ---
 

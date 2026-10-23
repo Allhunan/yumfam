@@ -13,25 +13,38 @@ cover:
   alt: "Xiamen Yuzhou Wyndham — buffet plus Adventure Island"
 ---
 
-**Deal price: 1 adult + 1 kid buffet + Adventure Island ¥198 (≈$28)** (was ¥298) · Weekend dinner + park ¥268 (≈$37) · 5-visit cards ¥898/¥1,198 · ⏰ valid Wed/Thu/Sat/Sun through Dec 31, 2026
+**Deal price: 1 adult + 1 kid buffet + Adventure Island ¥198 (≈$28)** (was ¥298) · Weekend dinner + park ¥268 (≈$38) · 5-visit cards ¥898/¥1,198 · ⏰ Valid through Dec 31, 2026
 
-Freshly revamped: Yuzhou Wyndham Xiamen pairs its buffet with the on-site **Adventure Island** play zone — one ticket covers **weekday dinner or weekend lunch for 1 adult + 1 kid (under 1.2 m) plus a full play session**. The spread runs to 30+ live-steamed seafood dishes, with **garlic baby lobster** on weekend dinners and **Inner Mongolia lamb** as a signature roast.
+The pairing is the point at the **Yuzhou Wyndham Grand Xiamen** (882 Zhongzhai Road, Huli — the Wuyuan Bay hotel): its **Stellar buffet restaurant** on one side, a **400㎡ Adventure Island** kids' park on the other, bundled into one ticket for **1 adult + 1 kid (under 1.2 m)**. The park is a genuine energy-burner across four themed zones: a wonderland adventure area (rock climbing, zip lines, pulley rides), a relic forest (big slides, ball-pit castle), a hands-on flint workshop, and a treasure valley of hoops, claw machines and challenge games. The package even throws in a **bonus extra child's play pass** — same-day use only.
+
+The buffet holds up its end: **30-plus seafoods** steamed or in chilled sauce (river prawns, black tiger prawns, abalone, bamboo clams, oysters, red snails), a Japanese counter (mango-pomelo sushi, sturgeon-caviar buns), a grill station (steaks, lamb chops, local balang fish, baby pomfret), hand-pulled noodles, ten seasonal fruits, and a dessert zone built for kids. Weekend dinners add two signature serves: **garlic baby lobster**, roasted fresh so the garlic soaks in, and slow-roasted **Ujimqin lamb from Inner Mongolia**. The dining room has floor-to-ceiling windows over the gardens, high chairs ready, and 500-plus free parking spaces outside.
+
+⚠️ **Days and booking:** the ¥198 tier covers **weekday dinners (Wed/Thu, 17:30–21:00) or weekend lunches (Sat/Sun, 11:30–14:00)**; the ¥268 tier is the **weekend dinner (Fri–Sun)**. Book by **19:00 the day before** (and at least 4 hours ahead — 0592-8752222 ext. 8999). Blackout: **Dec 24–25** (the May 20 and Aug 19 dates are already past). Unreserved vouchers are refundable.
 
 **Packages**
-- Weekday dinner or weekend lunch (1 adult + 1 kid) + Adventure Island play — **¥198** (≈$28)
-- Weekend dinner (1 adult + 1 kid) + Adventure Island play — **¥268** (≈$37)
-- 5-visit card (weekday dinner/weekend lunch) — **¥898** (≈$125)
-- 5-visit card (weekend dinner) — **¥1,198** (≈$166)
+- Weekday dinner or weekend lunch (1 adult + 1 kid under 1.2 m) + Adventure Island play — **¥198** (≈$28, was ¥298)
+- Weekend dinner (1 adult + 1 kid) + Adventure Island play — **¥268** (≈$38, was ¥358)
+- 5-visit card, weekday dinner/weekend lunch version, splittable — **¥898** (≈$126, was ¥1,490)
+- 5-visit card, weekend dinner version, splittable — **¥1,198** (≈$168, was ¥1,790)
 
-Valid Wednesday, Thursday, Saturday and Sunday through Dec 31, 2026; blackout dates May 20, Aug 19, Dec 24–25. Reserve ahead; refundable if you haven't reserved.
+**Good to know:** bring **anti-slip socks** for the play park — they're required, and you'll pay for a pair on site if you forget. The bonus child play pass is same-day only and can't be split off; the 5-visit cards can be split across visits. If you step out mid-meal, tell the staff — they'll hold your table rather than clear it.
 
 ---
 
 ## What guests say
 
-The venue's merchant history runs to 220 reviews. One recent guest noted the weekend crowds but praised the pretty setting, the rich spread and the baby lobster — worth booking an off-peak slot if the kids don't love queues.
+**220 historical merchant reviews** on the booking platform. Representative guest reviews (translated from Chinese):
 
----
+> "Weekend buffet with the kids — a superb experience! The dishes are fresh and varied, and the adults ate properly. Best of all there's a children's playground that's clean and safe — the kids had a wonderful time and we could actually eat in peace. A first choice for a family outing with dining built in."
+> — 林***敏 · stayed Mar 2026
+
+> "The lunch buffet is abundant — the seafood and fresh-cut steak are good quality, the desserts commendable. Comfortable, spacious setting, prompt service, fair price. Not showy, but solid across the board — good for a weekend family get-together."
+> — 吃***乐 · stayed Feb 2026
+
+> "I've tried a lot of hotel buffets through this platform and this is the first one I felt I had to review. The desserts use good chocolate, the strawberry ones are sweet-tart (the staff said they're baked in-house, and I believe it — pretty and delicious), and the lamb chops are outstanding, still chewable at medium-rare. Even my picky husband couldn't find fault. We'll be back!"
+> — I***呐 · stayed Feb 2026
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ## 📸 Photos
 

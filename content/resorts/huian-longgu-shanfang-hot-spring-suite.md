@@ -34,7 +34,18 @@ The soaking happens at the shared **Julong Hot Spring Park**, whose water is **m
 
 ## What guests say
 
-No guest reviews on the booking platform for this listing yet — it launched for the autumn season on Sep 23, 2026. What's verifiable from the terms: the ¥488 covers a suite (not a standard room) for a family of four with breakfast, park tickets and the kids' zone all in, the weekend price is flat in writing, and the family-room upgrade is a fixed ¥100 rather than a re-quote at the desk.
+This listing's own review pool on the booking platform is still empty, so here is what verified guests say about the hotel on Trip.com (Ctrip's international site), where Longgu Shanfang holds **9.5/10 across 296 reviews**:
+
+> "The room was clean and tidy with complete facilities. The staff were wonderful — they helped with our luggage and patiently gave us tips. The place is quiet with beautiful surroundings; put on the floral hairpins and matching outfits and the photos come out gorgeous."
+> — M597127**** · review on Trip.com · Oct 2025
+
+> "Staying at Longgu Shanfang in Julong Town was a perfect experience. The moment you step in, the quiet, elegant environment relaxes you — antique-style architecture full of charm, a warm and exquisite room, every facility you need and clearly high quality. Outside the window it's picturesque nature, like living in a paradise. The service is impeccable: warm, thoughtful, every request answered. And it's only a short hop to the hot-spring hotel, with sightseeing carts picking you up anytime — the spring area is clean and tidy, the pools nicely arranged, the water temperature just right and the water itself clear and smooth; soak and the fatigue and stress just melt away. Staff keep bringing tea and towels. Highly recommended."
+> — M759070**** · review on Trip.com · Dec 2024
+
+> "The air really is oxygen-rich, and the room's cleanliness and facilities are good — in the family room the kids can entertain themselves for a long time. Two honest caveats: walking up and down the hillside with small kids is a bit tiring, and with a big suitcase staff may not proactively offer to carry it up (though requests like the shuttle or room supplies are answered fast, and the attitude is good). There's also almost no food delivery out here."
+> — M841236**** · review on Trip.com · May 2025
+
+*Reviews as published on Trip.com (hotel stays generally, not this specific package); translated from Chinese.*
 
 ---
 

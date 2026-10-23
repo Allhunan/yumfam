@@ -13,24 +13,40 @@ cover:
   alt: "Xiamen Science Museum — exhibition halls"
 ---
 
-**Deal price: multi-hall tickets from ¥80 (≈$11)** · 4-hall adult ticket **¥139** (≈$20) / discounted **¥119** (≈$17) · Valid Oct 13 – Nov 30, 2026 · **Tuesday–Sunday only** · Buy-and-use, refundable anytime, auto-refund on expiry
+**Deal price: multi-hall tickets from ¥80 (≈$11)** · 4-hall adult ticket **¥139** (≈$20) / discounted **¥119** (≈$17) · Valid Oct 13 – Nov 30, 2026 · **Tuesday–Sunday only** · Buy-and-use, refundable anytime, auto-refund on expiry · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
-The **Xiamen Science Museum** （厦门科技馆， 95 Tiyu Road, Siming — inside the Xiamen Culture & Arts Center) is a classic family day out, and these combo tickets bundle its headline halls at a discount. The **4-hall ticket** covers the **main exhibition hall, the Sea Monster exhibition, the kids' zone and the flying cinema**; the current **Mars exhibition** is the star draw. One combo even includes the **Chengyi Nature Exploration Museum** halls for a full multi-museum day.
+The **Xiamen Science Museum** （厦门科技馆， 95 Tiyu Road, Siming — inside the Xiamen Culture & Arts Center) is the island's default rainy-day family plan: a big hands-on main hall, a dedicated kids' zone and a flying cinema. The current headline is the **"Hi! Sea Monsters" special exhibition** (running Apr 2026 – Mar 2027), a Triassic fossil show built like a giant pop-up book — nearly 1,500 fossil fish on a single slab, a 4-metre ichthyosaur being prepped live in an open fossil lab, 1:1 scientific reconstructions you can actually touch, a naked-eye 3D tank of trilobites, and live exhibits from hagfish and crinoids to rare velvet worms. These combo tickets bundle the halls at below-gate prices: pick 2, 3 or all 4 halls depending on how much day you have.
+
+Ticket types are simple. The **adult ticket** is the standard entry; the **discounted ticket** covers minors over 1.2 m, full-time students up to bachelor's level, seniors 60+, veterans and teachers (with certificate) — and children **under 1.2 m enter free** with a guardian (they'll just need a ¥30 on-site ticket if they want the flying cinema). The flying cinema runs on booked sessions: after purchase, an SMS lets you reserve your slot in advance.
+
+⚠️ **Two quirks to plan around:** the museum is **closed on Mondays**, and last entry/ticketing is **16:00** (doors 09:00–17:00) — don't roll up late afternoon with a 4-hall ticket. Also, **each order is limited to a single ticket**: a family of four checks out four times (split orders also protect you, since a partly-used order can't be refunded). Entry is real-name — bring ID and scan the merchant QR code at the door.
 
 **Packages**
-- 4-hall ticket (main hall + Sea Monster + kids' zone + flying cinema) — adult **¥139** (≈$20), discounted **¥119** (≈$17)
-- 3-hall ticket (main hall + Sea Monster + kids' zone) — adult **¥120** (≈$17), discounted **¥115** (≈$16)
-- 2-hall ticket (main hall + Sea Monster) — adult **¥99** (≈$14), discounted **¥80** (≈$11)
+- 4-hall ticket (main hall + Sea Monster + kids' zone + flying cinema) — adult **¥139** (≈$20, was ¥190), discounted **¥119** (≈$17, was ¥150)
+- 3-hall ticket (main hall + Sea Monster + kids' zone) — adult **¥120** (≈$17, was ¥160), discounted **¥115** (≈$16, was ¥115)
+- 2-hall ticket (main hall + Sea Monster) — adult **¥99** (≈$14, was ¥140), discounted **¥80** (≈$11, was ¥100)
 
-Terms: usable Tuesday–Sunday; buy-and-use, refundable anytime, auto-refund on expiry.
-
-Xialv Money-Saver Card holders save an extra ¥30.
+**Good to know**
+- Validity: Oct 13 – Nov 30, 2026, Tuesday–Sunday
+- Unused vouchers refund anytime; unused expired orders auto-refund
+- Museum phone: 0592-5148555 / 5147666 / 5371522
 
 ---
 
 ## What guests say
 
-The merchant has 131 historical reviews, and the family index is strong: 100% recommendation from families with 3–6-year-olds (5 votes) and 10–12-year-olds (14 votes), 81.8% for 7–9-year-olds (11 votes). One parent brings the kids several times a year and rushed to the new Mars exhibition to "walk into Mars" together. Another said three halls easily fill a whole day — "a great place to wear the kids out." One dissenting voice found the Mars hall itself underwhelming, though the museum overall got their thumbs-up.
+From **131 historical merchant reviews** for the museum:
+
+> "The science museum is a great place for learning through play! We bring the kids several times a year to build their interest in science. This time we came first thing for the Mars exhibition — 'walking into Mars' together with my child, learning about the planet and feeling the endless charm of science fiction!"
+> — **顾\*\*\*念** · visited May 2024
+
+> "The Mars special exhibition — strongly recommended! Educational and fun; the kids learned so much space knowledge, and there were teachers leading science experiments. My child played from opening to closing and still didn't want to go home, hugging the teaching kit the teacher gave out all evening. First choice for a rainy-day outing."
+> — **一\*\*\*！** · visited May 2024
+
+> "The kids had a great time — we toured all four halls."
+> — **徐\*\*\*音** · visited Jan 2025
+
+*Reviews above are from guests who booked this museum through the platform; names are shown as masked by the platform.*
 
 ---
 

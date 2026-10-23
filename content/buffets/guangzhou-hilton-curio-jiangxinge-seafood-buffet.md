@@ -13,27 +13,31 @@ cover:
   alt: "Guangzhou Hilton Curio Jiangxin Ge seafood buffet — fresh seafood spread"
 ---
 
-**Deal price: 1 adult + 1 kid (under 1.4 m) lunch buffet — ¥168** (≈$24, was ¥308, 45% off) · Valid through Nov 30, 2026 · **weekends only (Sat/Sun), no weekend surcharge** · ⏰ not usable Oct 17, 18, 24, 25; also closed during the Canton Fair (Oct 16 – Nov 1) — usable again from Nov 5
+**Deal price: 1 adult + 1 kid lunch buffet — ¥168** (≈$24, was ¥308, 45% off) · Dinner ¥228 (≈$32) · Valid Aug 29 – Nov 30, 2026 · **Lunch Sat/Sun only, dinner Fri–Sun, no weekend surcharge** · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
-At **Jiangxin Ge (匠心阁)** on the 3rd floor of the **Curio Collection by Hilton Guangzhou** (Yuexiu district, metro-accessible near Beijing Road), the opening-wave pricing covers **1 adult + 1 kid under 1.4 m** — note the free-kid height has been **raised from 1.2 m to 1.4 m** for this promo (limited availability). Lunch runs 12:00–14:30, dinner 18:00–21:30.
+**Jiangxin Ge （匠心阁）**, on the 3rd floor of the **Curio Collection by Hilton Guangzhou**, is the in-house buffet of the Greater Bay Area's first Curio hotel — opened in March 2026 inside the reborn Guangzhou Building （广州大厦）, a Beijing Road landmark in Yuexiu District, right next to the Museum of the Nanyue King. Hilton's Curio brand skips the cookie-cutter formula, and this one leans into Cantonese flavors: live-cooked Chaoshan fish, a Chinese noodle station, dim sum and the signature Hainan qingbuliang dessert soup alongside the international stations.
+
+Lunch (12:00–14:30) centers on **fresh-cut salmon sashimi** with herring and whelk, a chilled-seafood counter (prawns, scallops, mussels, emerald snails), pan-fried steak and chicken from the grill, made-to-order pasta and free-flow soft drinks, coffee and tea. Dinner (18:00–21:30) is the bigger production: the sashimi counter adds **tuna, octopus and sweet shrimp**, the carving station does roast lamb leg and German pork knuckle, chefs cook seafood — prawns, clams, razor clams, **oysters** — to order in a zaopo-vinegar broth, and drinks go properly free-flow with **red and white wine and beer included**. Both seatings finish with a dessert counter of cakes, handmade ice cream and qingbuliang. Menus rotate with the season, so treat the list as the shape of the spread rather than a guarantee.
+
+⚠️ **Timing and the kid-height catch:** the headline tiers are a limited promo that **raises the free-child cutoff from 1.2 m to 1.4 m** — quantities are limited and once that wave sells out, the same ¥168/¥228 prices remain but the free kid is back to under 1.2 m. Everything ends **Nov 30, 2026**. Book by 14:00 on the day for lunch, by 18:00 for dinner; unreserved vouchers refund anytime.
 
 **Packages**
-- 1 adult + 1 kid (under 1.4 m), lunch — **¥168** (≈$24)
-- 1 adult + 1 kid (under 1.4 m), dinner — **¥228** (≈$32)
-- 2 adults + 2 kids, lunch — **¥338** (≈$48)
-- 2 adults + 2 kids, dinner — **¥458** (≈$65)
+- 1 adult + 1 kid (under 1.4 m on promo tiers), lunch Sat/Sun — **¥168** (≈$24)
+- 1 adult + 1 kid (under 1.4 m on promo tiers), dinner Fri–Sun — **¥228** (≈$32)
+- 2 adults + 2 kids (one under 1.4 m + one under 1.2 m), lunch — **¥338** (≈$48)
+- 2 adults + 2 kids (one under 1.4 m + one under 1.2 m), dinner — **¥458** (≈$65)
+- Every tier includes 3 hours of free parking
 
-**Food:** lunch highlights are fresh-cut **salmon**, chilled seafood, pan-fried steak, Chaozhou-style fish and Hainan desserts; dinner adds **tuna sashimi**, roast lamb leg, seafood congee, Cantonese roast meats, oysters — and **free-flow red/white wine and beer**. Extra kids 1.2–1.4 m: +¥88 lunch / +¥138 dinner; kids under 1.2 m free.
-
-**Terms:** reserve by 14:00 on the day of use; unreserved vouchers are refundable anytime. 3 hours of free parking included.
-
-Xialv Money-Saver Card holders save an extra ¥30.
+**Good to know**
+- Extra kids beyond the package: under 1.2 m free; 1.2–1.4 m +¥88 at lunch / +¥138 at dinner; over 1.4 m pays the adult price
+- Redeem with your phone number after booking; reservation line 020-39637318
+- The promo doesn't stack with other restaurant offers or Hilton Honors discounts/points, and it isn't intended for groups of 10+
 
 ---
 
 ## What guests say
 
-This is an opening promo, so the page shows no guest reviews or family-recommendation scores yet — but **200+ vouchers have already been grabbed**, which for a brand-new buffet listing is the early signal that matters. The honest caveat: this is a soft-opening deal, so the spread may still be finding its rhythm (the dinner's free-flow drinks and oyster bar are the strongest draws on paper). With weekend-only availability and the Canton Fair blackout, book a November weekend as soon as your dates are firm.
+No guest reviews yet on the booking platform — this is a March 2026 opening and the listing is still collecting its first reviews, and we couldn't find verifiable reviews for this specific restaurant on other platforms yet either. What's checkable before you go: the hotel is a genuine new-build opening inside a landmark building (the Guangzhou Building on Beijing Road, next to the Nanyue King museum), the dinner seating really does include free-flow wine and beer in the voucher price, and the promo tiers stretch the free-child height to 1.4 m while they last — for families with a taller six- or seven-year-old, that's the detail that makes this deal work.
 
 ---
 

@@ -12,26 +12,36 @@ cover:
   alt: "Xiamen Marco Polo Oriental Hotel buffet"
 ---
 
-**Deal price: ¥1,380 for 10** — works out to **¥138/person** (≈$19, was ¥198) · ⏰ Valid through Jan 31, 2027 · ⏰ No surcharge on weekends or public holidays
+**Deal price: ¥1,380 for 10** — works out to **¥138/person** (≈$19, was ¥198) · ⏰ Valid Oct 23, 2026 – Jan 31, 2027 · ⏰ No surcharge on weekends or public holidays
 
-The **Marco Polo Oriental Hotel's buffet** has been a Xiamen landmark for over 20 years, and in Xiamen "Marco Polo" is practically shorthand for its **Napoleon pastry** — the flaky, cream-layered signature that fans come back for again and again. The spread runs to a hundred-plus dishes: **steamed seafood** (shrimp, mussels, oysters, scallops, clams — picked fresh and steamed to order), **unlimited sashimi** from the hotel's own Japanese restaurant chefs, a **teppanyaki grill station**, and every lunch guest gets a complimentary **Buddha Jumps Over the Wall** (佛跳墙) soup. Each adult may bring **one child under 1.2m free**.
+The **Marco Polo Oriental Hotel's buffet** (8 Jianye Road, Siming District) has been a Xiamen institution for over 20 years, and in Xiamen "Marco Polo" is practically shorthand for its **Napoleon pastry** — the flaky, cream-layered signature that locals swear by and that here you can eat without limit. The spread runs to a hundred-plus dishes built around live cooking: **steamed seafood** (shrimp, mussels, oysters, scallops, clams and razor clams — pick what you like and it's steamed on the spot), a **Japanese sushi and sashimi station** run by the chefs of the hotel's Shogun Japanese restaurant (lunch sashimi is unlimited, per long-standing guest reports), a **charcoal grill station** doing meat the hearty way, a made-to-order noodle bar (noodles, rice noodles or rice cakes with your choice of broth and toppings), plus Chinese and Western hot and cold dishes, salads, puddings, cakes, yogurt and mousse. The café-style dining room runs an open kitchen, so the cooking happens in front of you.
+
+The format is a **10-person voucher — and it can be split across visits**, so a family doesn't need to assemble ten people at once: bring six this Saturday, four the next. Every adult may bring **one child under 1.2m free**, which makes it a natural multi-family gathering ticket.
+
+⚠️ **Days and booking:** lunch runs Wednesdays to Sundays (11:30–14:00); dinner runs Thursdays to Sundays (18:00–21:30). The dinner voucher **can't be used on Dec 24, 2026**, and both vouchers pause during major hotel events and conferences. You must **book by phone (0592-5091188) at least a day ahead, by 19:00 the day before** — once a booking is confirmed it can't be refunded, though unreserved vouchers refund anytime. Partially used vouchers can't be refunded for the remaining uses, and the vouchers don't apply to team/group banquets.
 
 **Packages**
-- 10-person buffet lunch (valid weekends & holidays, kids under 1.2m free) — **¥1,380** (≈$193, about ¥138/person)
-- 10-person buffet dinner (valid weekends & holidays, kids under 1.2m free) — **¥1,580** (≈$221, about ¥158/person)
+- 10-person buffet **lunch** (Wed–Sun; splittable across visits; one kid under 1.2m free per adult) — **¥1,380** (≈$193, about ¥138/person, was ¥1,980)
+- 10-person buffet **dinner** (Thu–Sun; splittable; same kids' rule; not valid Dec 24) — **¥1,580** (≈$221, about ¥158/person, was ¥2,380)
 
-**Terms:** Menu rotates with the season — the day's actual lineup rules. No surcharge on weekends or public holidays. Reserve ahead; the restaurant is popular at peak times.
+**Good to know:** children 1.2–1.4m tall pay a ¥98 top-up on site; kids 1.4m and above pay the adult rate. The hotel is right by **Metro Line 2, Jianye Road station (Exit 4)**. The menu rotates with the season, so the day's actual lineup rules — but the Napoleon, the steam baskets and the grill station are the permanent fixtures guests plan around.
 
 ---
 
 ## What guests say
 
-With 260+ reviews on the listing, this is one of the most-booked buffets on the platform:
+**260 historical merchant reviews** on the booking platform. Representative guest reviews (translated from Chinese):
 
-- *"The Marco Polo Oriental's buffet has a great environment — clean and hygienic, good service! The dishes are fresh and tasty with lots of variety, especially the steamed seafood! Lunch sashimi is unlimited, and every guest gets a Buddha Jumps Over the Wall. My family and I love it — we come often!"* — guest review
-- *"Fresh food! Good quality, lots of variety, unlimited salmon! My favorite buffet — there's even a play area for kids!"* — guest review
+> "Of all the hotel buffets I've tried in Xiamen, the Marco Polo is still my favorite — no contest. The dining environment, the variety, the hygiene, the service — all praiseworthy. My beloved desserts never change, especially the signature Napoleon and the red velvet. Absolutely worth it!"
+> — 雪*** · Jun 2025
 
----
+> "The Marco Polo Oriental's buffet has a great environment — clean and hygienic, good service! The dishes are fresh and tasty with lots of variety, especially the steamed seafood! Lunch sashimi is unlimited, and every guest gets a Buddha Jumps Over the Wall. My family and I love it — we come often!"
+> — 香***】 · Apr 2024
+
+> "Everything was delicious. The famous Napoleon needs no recommendation, and the other dishes were great too. Special mention for Zheng Fushun, who recommended a special 'Afu' cinnamon ice-cream coffee — incredibly tasty and unusual. Warm, attentive service. We'll be back, and I'll be recommending it to people around me. Genuinely good."
+> — 159****4262 · Aug 2025
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ## 📸 Photos
 

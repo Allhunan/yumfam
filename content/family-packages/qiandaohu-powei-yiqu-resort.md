@@ -6,7 +6,7 @@ location: "Alpha City, Pearl Peninsula, Qiandaohu, Hangzhou, Zhejiang"
 price: "¥299 (≈$42) per night with meals"
 was_price: "¥899"
 valid_until: "2027-01-01"
-description: "Qiandaohu Powei Yiqu Resort from ¥299 (≈$42)/night: a brand-new Pierre & Vacances (法国太阳季) resort in Qiandaohu's Alpha City — 1 night with 3 meals for 2 adults + 1 child, unlimited kids' park, and the 4-night autumn bundle at ¥699 (12 meals included). No surcharge on weekends or New Year's Day; valid through Jan 1, 2027."
+description: "Qiandaohu Powei Yiqu Resort from ¥299 (≈$42)/night: a brand-new Pierre & Vacances (法国太阳季） resort in Qiandaohu's Alpha City — 1 night with 3 meals for 2 adults + 1 child, unlimited kids' park, and the 4-night autumn bundle at ¥699 (12 meals included). No surcharge on weekends or New Year's Day; valid through Jan 1, 2027."
 cover:
   image: "https://img.xialv.com/uploads/2026/04/27/item_pic_origin177728395113577.jpeg?imageView2/1/w/1050/h/588"
   alt: "Qiandaohu Powei Yiqu Resort"
@@ -14,21 +14,30 @@ cover:
 
 **Deal price: from ¥299/night** (≈$42, was ¥899) · ⏰ Valid through Jan 1, 2027 · ⏰ No surcharge on weekends or New Year's Day · ⏰ Limited free upgrade to family/parent-child rooms
 
-The **Powei Yiqu Resort** is French group **Pierre & Vacances' (太阳季)** brand-new resort in **Qiandaohu's Alpha City** — a futuristic island-style complex of four modern buildings on the Pearl Peninsula, where most rooms come with private balconies facing the lake. Dining covers several restaurants serving local Qiandaohu cuisine, and the resort packs in a **kids' park, water world, gym, chess rooms and table tennis**. The headline bundle: **4 nights with 3 meals a day for ¥699** — a stay where you never have to think about where to eat.
+The **Powei Yiqu Resort** is French group **Pierre & Vacances' （太阳季）** brand-new resort in **Qiandaohu's Alpha City** — a futuristic island-style complex of four modern buildings on the Pearl Peninsula, where most rooms come with private balconies facing the lake. Dining covers several restaurants serving local Qiandaohu cuisine, and the resort packs in a **1,000㎡+ kids' park, gym, chess rooms, table tennis and billiards**, plus craft workshops like glass lampwork and pottery (some paid). The headline bundle: **4 nights with 3 meals a day for ¥699** — a stay where you never have to think about where to eat.
 
-**Packages**
-- 1 night + 3 meals for 2 adults + 1 child + unlimited kids' park (limited free room upgrade) — **¥299** (≈$42)
-- 2 nights + 6 meals for 2 adults + 1 child + unlimited kids' park (limited free room upgrade) — **¥499** (≈$70)
-- 4 nights + 12 meals for 2 (limited free room upgrade, stay 4 nights in 1 room or split across 4 rooms) — **¥699** (≈$98)
+How the meals actually work: breakfast is a buffet; lunch and dinner are a **¥50 per-meal order credit** for the family tiers (¥40 on the 4-night tier), served as a buffet instead when occupancy is high. The 1- and 2-night tiers include all three meals for **2 adults + 1 child** and unlimited kids'-park entry during the stay; the 4-night tier covers meals for **two** and swaps the kids' park for a daily activity program — morning Alpha City hike (07:30–08:30), twist-flower crafts (15:00–16:00), dusk square dancing (18:30–19:30), African-drum sessions on odd days, a sing-along meetup on even days, and card/chess rooms 10:00–19:00 — plus free parking, Chun'an Museum and Science Museum perks, and a laundry room.
 
-**Terms:** No surcharge on weekends or New Year's Day. Free upgrade to family or parent-child rooms while the limited quota lasts. Reserve in advance.
+⚠️ **The one surcharge:** Spring Festival nights (Feb 7–10) add **¥300/room/night** — weekends and New Year's Day are genuinely surcharge-free. Check-in 14:00, check-out 12:00; unreserved vouchers are refundable. The "child" in the meal plan means under 1.5 m: breakfast for a 1.2–1.5 m child costs ¥10 extra, over 1.5 m ¥32.
+
+**Packages** (room pick-1: Powei twin 31㎡ / Yiqu twin 33㎡ / Yiqu king 33㎡; limited free upgrade to a family or parent-child room, 36–37㎡)
+- 1 night + 3 meals for 2 adults + 1 child + unlimited kids' park — **¥299** (≈$42, was ¥899)
+- 2 nights (1 room × 2 nights or 2 rooms × 1 night) + 6 meals for 2 adults + 1 child + unlimited kids' park — **¥499** (≈$70, was ¥899)
+- 4 nights (splittable: 1 room × 4 nights or 4 rooms × 1 night) + 12 meals for two + daily activity program — **¥699** (≈$98, was ¥899)
 
 ---
 
 ## What guests say
 
-- *"Really great for a family trip — tons of parent-child activities. Even a rainy day is fine: glass painting, clown shows, street dance. The kids' activities were great and the food wasn't expensive. This Qiandaohu trip was excellent."* — guest review
-- *"Perfect for traveling with kids — eating and playing are all covered. The kids couldn't get enough of the fountain pool, the room had a balcony with a drying rack, and the water world tickets were included. Great value."* — guest review
+**2 historical merchant reviews** on the booking platform — both from family stays (translated from Chinese):
+
+> "Really great for traveling with kids — food and play are all covered. The kids couldn't get enough of the fountain pool. The room had a balcony with a drying rack, which was handy, and the water world tickets were included too. Great value."
+> — 阳***媚 · Aug 10, 2026
+
+> "This place is perfect for a family trip, with tons of parent-child activities. Even a rainy day is fine — glass painting, clown shows, street dance. The Children's Day activities were plentiful and things weren't expensive. This Qiandaohu trip was really good."
+> — 小***点 · Jun 1, 2025
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ---
 

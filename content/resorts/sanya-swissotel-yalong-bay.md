@@ -13,24 +13,34 @@ cover:
   alt: "Swissôtel Yalong Bay Sanya — Beach Resort Deal"
 ---
 
-**Deal price: ¥1,299 (≈$179) for 2 nights** · Family room 2 nights ¥1,599 (≈$221) · Suite 2 nights ¥2,399 (≈$331) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
+**Deal price: ¥1,299 (≈$179) for 2 nights** · Family room 2 nights ¥1,599 (≈$221) · Two-room suite 2 nights ¥2,399 (≈$331) · Valid Aug 1 – Oct 31, 2026 · Book by 23:59 the day before · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
-Swissôtel Yalong Bay brings Accor's Swiss hospitality to Sanya's best-known beach. The headline package: **2 nights in a Swiss-style family room**, **daily breakfast for 2 adults + 2 kids** (kids under 1.4m), **one buffet dinner for two**, free rein in the **800㎡ kids club**, the lagoon-style pool — and the beach is about a **5-minute walk** away.
+Yalong Bay is Sanya's postcard beach, and the **Swissôtel Sanya Yalong Bay** (Accor) sits in its national resort district at 112 Yalong Bay Road — a classical Chinese garden estate of pavilions and courtyards tucked into the tropics, right by the Baihua Valley shopping-and-dining village and a **5-minute walk to the sand**, where the hotel lays out free parasols, loungers and towels for guests. The water centerpiece is a **2,800㎡ emerald lagoon "reef" pool** (plus a dedicated kids' pool), and for children the headline is the **800㎡ space-themed kids club** — normally ¥198 per entry, here unlimited during your stay.
 
-Refundable if you haven't reserved; reserve by 23:59 the day before. Holiday surcharges: +¥200/night Oct 1–5, +¥100/night Oct 6–7. Check-in 15:00, check-out 12:00. Address: No. 112 Yalong Bay Road, Yalong Bay National Resort District.
+Every tier is built the same generous way: two nights, daily buffet breakfast scaled to your party (kids under 1.4 m), **one buffet dinner** during the stay, and the full play package — kids club, lagoon pool, gym, a round-trip **shuttle to Sanya International Duty-Free City** with 5–15% off selected goods there (both need booking a day ahead, the shuttle by 18:00), and five free professional photo prints on the two family-room tiers. Extension nights are charged at the package's nightly average, but the meals and one-off perks don't repeat.
+
+⚠️ **The clock is the catch: this promotion's stay window closes Oct 31, 2026.** The good news is that every remaining date is surcharge-free — the October uplifts (Oct 1–5 and 6–7, ¥100–500/night depending on tier) are already behind us. Book by **23:59 the day before** arrival; unbooked vouchers are refundable. Check-in 15:00, check-out 12:00.
 
 **Packages**
-- Swiss-style family room, 2 nights + daily breakfast for 2 adults + 2 kids + 1 buffet dinner for two — **¥1,299** (≈$179)
-- Swiss family room, 2 nights — **¥1,599** (≈$221)
-- Swiss suite, 2 nights — **¥2,399** (≈$331)
+- **Swiss-themed family room, 2 nights — ¥1,299** (≈$179, was ¥2,999): daily breakfast for **2 adults + 2 kids** (under 1.4 m) · one buffet dinner for 2 · unlimited 800㎡ space kids club · 2,800㎡ lagoon pool · duty-free shuttle + discounts · 5 free photo prints · gym
+- **Swiss family room, 2 nights — ¥1,599** (≈$221, was ¥3,066): daily breakfast for **3 adults + 2 kids** · one buffet dinner for 3 · same play package incl. photo prints
+- **Swiss-themed suite (two rooms), 2 nights — ¥2,399** (≈$331, was ¥4,599): daily breakfast for **4 adults + 2 kids** · one buffet dinner for 4 · same play package
+
+**Good to know:** the hotel neighbors Yalong Bay Central Square, the International Rose Valley, Underwater World and the Tropical Paradise Forest Park; the duty-free mall over in Haitang Bay is an easy shuttle ride. Families on the booking platform rate it strongly — 100% recommend for ages 3–6 and 10–12, 77.8% for ages 7–9 (21 ratings). Xialv Money-Saver Card holders save an extra ¥30.
 
 ---
 
 ## What guests say
 
-Family recommendation scores are strong — **100% recommend for ages 3–6 and 10–12**, 77.8% for ages 7–9 (21 ratings total).
+This listing's own review pool on the booking platform is still empty, so here is what verified guests say on Trip.com (Ctrip's international site):
 
-*No written reviews quoted on the product page as of 2026-10-04 — ratings only.*
+> "I've stayed here when it was the former Huayu Resort, and now it's the Swissôtel Yalong Bay. Every visit is a joy and I'm always very satisfied. The beach is just a few minutes' walk away, and the Yalong Bay Central Avenue shopping street is right nearby. The public areas feature traditional Chinese architecture, the pool water is crystal clear, and there are exclusive loungers on the beach. The rooms are spacious and comfortable, the staff are very friendly — absolutely satisfied!"
+> — Guest User · review on Trip.com · Oct 2026
+
+> "The hotel has all the amenities you need, and the environment is unique — an overall garden style. Our room was large and spacious, service was attentive, and the room was cleaned daily. A very satisfying experience. It's surrounded by the lively Baihua Valley commercial street with plenty of delicious dining options, and there are shuttle buses to the airport and the duty-free shop, which is extremely convenient. I would love to stay here again."
+> — Douerdou · review on Trip.com · Oct 2026
+
+*Reviews as published on Trip.com; translated where applicable.*
 
 ## 📸 Photos
 

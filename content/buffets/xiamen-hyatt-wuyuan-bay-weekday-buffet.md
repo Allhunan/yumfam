@@ -13,26 +13,42 @@ cover:
   alt: "Hyatt Regency Xiamen Wuyuan Bay buffet — restaurant spread"
 ---
 
-**Deal price: weekday lunch, 1 adult + 1 kid under 6 — ¥168 (≈$24)** (was ¥228, ~26% off) · Bookable Jan 21 – Dec 31, 2026, weekdays only · ⏰ valid through Dec 31, 2026
+**Deal price: weekday lunch, 1 adult + 1 kid under 6 — ¥168 (≈$24)** (was ¥228, ~26% off) · Weekend tier ¥188 (≈$26) · Bookable Jan 21 – Dec 31, 2026 · ⏰ Lunch 11:30–14:00, reserve by 21:00 the day before
 
-The Hyatt Regency at Wuyuan Bay (湖里区钟宅西三路与枋湖路交叉路口, near Wanyuecheng business district) keeps its weekday lunch buffet at a fixed ¥168 for **1 adult + 1 child under 6** — over 1,000 vouchers sold, so this one is well battle-tested. Expect **seafood hot dishes, teppan grills, fresh sashimi and 100+ dishes**, plus juices, tea, coffee and a full salad bar.
+The **Market Café** on the ground floor of the **Hyatt Regency Xiamen Wuyuan Bay** — Xiamen's first Hyatt-branded hotel, attached to the Wanyuecheng mall in Huli District and a short walk from Wuyuan Wetland Park — runs its lunch buffet (11:30–14:00) as a big, open-kitchen spread of **100+ dishes**: seafood hot dishes, a teppanyaki grill working steaks and skewers to order, fresh sashimi, roast duck, sushi and live noodle stations, plus juices, tea and coffee. The room is designed as a Minnan "market" with retro patterned floor tiles and open cooking stations, so the meal has some theatre to it.
 
-The family math is the selling point: every adult can bring one child under 6 free, and kids 6–12 top up just ¥99 on site. Weekends have their own ¥188 tier.
+Dessert is a genuine strength here rather than an afterthought: lemon Basque cheesecake, cherry chocolate cake, yuzu cheesecake and a much-praised Dahongpao tea pudding all rotate through the counter, and repeat guests consistently single the cakes out. The family math is simple and generous — **every adult brings one child under 6 free**, and kids 6–12 top up just ¥99 on site, with tax and service already inside the voucher prices.
+
+⚠️ **Blackout dates still ahead in 2026:** the vouchers can't be used on **Oct 31, Dec 24 or Dec 25** (holiday windows earlier in the year have passed). Book by **21:00 the day before** on 0592-6069391 — unreserved vouchers refund anytime and unused ones auto-refund after expiry, but once a booking is confirmed it can't be refunded. Dine-in only; no takeaway packing.
 
 **Packages**
-- Weekday lunch, 1 adult + 1 kid (under 6) — **¥168** (≈$24)
-- Weekend lunch, 1 adult + 1 kid (under 6) — **¥188** (≈$26)
-- Lunch, 2 adults + 2 kids (one under 12, one under 6) — **¥428** (≈$60)
+- Weekday (Mon–Fri) lunch, 1 adult + 1 kid under 6 — **¥168** (≈$24)
+- Weekend (Sat–Sun) lunch, 1 adult + 1 kid under 6 — **¥188** (≈$26)
+- Any-day lunch, 2 adults + 2 kids (one under 12 + one under 6) — **¥428** (≈$60)
 
-Xialv Money-Saver Card holders save an extra ¥30. Reserve by 9 PM the day before your visit (call 0592-6069391); expired vouchers auto-refund. Not valid on Oct 31, Dec 24–25 and listed holidays.
+**Good to know**
+- Extra kids: ages 6–12 top up **¥99** on site; 13 and up pays the adult price
+- The restaurant is the hotel's Market Café, 1F — address: junction of Zhongzhai West 3rd Road and Fanghu Road, Huli District
+- Parking is easy on site, per repeat guests; metro and BRT stops are nearby
+
+Xialv Money-Saver Card holders save an extra ¥30.
 
 ---
 
 ## What guests say
 
-12 group-buy reviews, 100% positive; the merchant's 467 historical reviews show 91.9% family recommendation for ages 10–12 (74 ratings). One guest called the **dishes consistently good with quick plate clearing and friendly service**; another chose it for **brand-hotel reliability** — safe ingredients, a wide spread, and dishes like spare-rib soup, fresh shrimp, steamed green mussels and salmon sashimi.
+**468 historical merchant reviews** on the booking platform. Representative guest reviews (translated from Chinese):
 
----
+> "I've eaten here many times. Today they were serving crab stewed with duck — the seafood and the desserts impress me most: good quality, lots of variety, and the hot dishes are proper quality too. Really worth it — for a five-star hotel buffet in Xiamen, the Hyatt is my first choice."
+> — 谢***燕 · Mar 2025
+
+> "Great value — everything you'd expect was there. The lunch buffet had no salmon, but there was tuna sashimi; roast duck, sushi and a live noodle station too. I thought there were no hot drinks at first, then found the coffee at the bar opposite the fruit counter. Big space, good environment — an enjoyable meal. Dinner would have more, but at this price, thumbs up."
+> — 程*** · Sep 2025
+
+> "Parking is easy, the facilities are complete and the spread is rich — there were even cold-pot skewers! The cakes are made with real cream, so at this price it's a steal. I regret not stocking up on more vouchers — really excellent."
+> — 吃***游 · Sep 2024
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ## 📸 Photos
 

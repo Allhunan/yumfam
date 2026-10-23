@@ -13,27 +13,40 @@ cover:
   alt: "Xiamen Millennium Harbourview Hotel buffet restaurant"
 ---
 
-**Deal price: 1 adult + 1 kid buffet (lunch or dinner) — ¥198 (≈$28)** (was ¥255, about 51% of list) · Bookable through Dec 31, 2026 · ⏰ valid through Dec 31, 2026 (not usable Dec 24–25)
+**Deal price: 1 adult + 1 kid buffet (lunch or dinner) — ¥198 (≈$28)** (was ¥265) · Solo ¥168 · 2 adults ¥320 · Kid ¥128 · Bookable through Dec 31, 2026 · **Fri–Sun and holidays, no surcharge**
 
-The **Millennium Harbourview** (海景千禧大酒店) sits right by the Zhonghua City shopping district — take Metro Line 1 to Zhenhai Road station and walk over. Its all-you-can-eat buffet voucher covers **lunch or dinner**, usable **Friday through Sunday and public holidays with no surcharge** — a rare no-weekend-markup deal.
+The **Millennium Harbourview** （海景千禧大酒店， 12-8 Zhenhai Road, Siming) sits right by the Zhonghua City shopping district — Metro Line 1 to Zhenhai Road station, then a short walk. Its **Harbour Café** on the ground floor is done in soft Morandi tones with marble counters and rose-gold lighting, and the buffet runs to roughly **a hundred dishes**: a hot-dish line whose theme rotates weekly (cream-garlic cheese-baked mussels, French red-wine pear with honey-glazed goose steak, rosemary lamb chops, ham-and-mushroom lasagna), a grill station working through ten-plus seasonal seafoods and meats — small yellow croaker, baby squid, T-bone steak, chicken chops, skewers — cooked on the iron plate in front of you, and a proper Xiamen showing in the cold seafood: prawns, crabs, scallops, oysters, plus local specialties like **tusundong (sea-worm jelly)**, aged razor clams and marinated fish skin. There's a noodle station with your pick of ingredients in clear or spicy broth, thick-cut sashimi and handmade sushi, and a dessert wall of **20-plus sweets** — signature cheesecake, Napoleon, crème brûlée, mango pomelo sago, milk-tea mousse, fruit tarts.
 
-Lunch runs 11:30–14:00, dinner 17:30–21:00. Book ahead (0592-2023333); unreserved orders are refundable anytime with auto-refund on expiry.
+The voucher covers **lunch or dinner** and is usable **Friday through Sunday and public holidays at the same price** — the regular run is Friday dinner through Sunday lunch. That no-surcharge weekend policy is the heart of the deal: most Xiamen hotel buffets charge more exactly when families can go.
 
-**Packages**
-- 1 adult + 1 kid (under 1.4 m), lunch or dinner — **¥198** (≈$28)
-- Solo lunch or dinner — **¥168** (≈$23)
-- 2 adults, lunch or dinner — **¥320** (≈$44)
-- Kid (under 1.4 m) — **¥128** (≈$18)
+⚠️ **Two conditions to plan around:** book by **20:00 the day before** (reservations 0592-2023333 — the hotel asks for at least a day's notice by phone), and note the vouchers **can't be used Dec 24–25**. Unreserved orders refund anytime, with auto-refund on expiry.
 
-Xialv Money-Saver Card holders save an extra ¥30. Buy-and-use, refundable anytime, auto-refund on expiry.
+**Packages** (all include 4 hours of free parking)
+- 1 adult + 1 kid (under 1.4 m), lunch or dinner — **¥198** (≈$28, was ¥265)
+- Solo lunch or dinner — **¥168** (≈$24, was ¥255)
+- 2 adults, lunch or dinner — **¥320** (≈$45, was ¥510)
+- Kid (1.2–1.4 m), lunch or dinner — **¥128** (≈$18, was ¥255)
+
+**Good to know:** the child math is written down — each adult can bring one child under 1.4 m on the family voucher; a child of 1.2–1.4 m beyond that pays ¥138 at the venue, and kids 1.4 m and over need an adult ticket. Lunch runs 11:30–14:00, dinner 17:30–21:00.
+
+Xialv Money-Saver Card holders save an extra ¥30.
 
 ---
 
 ## What guests say
 
-100+ vouchers already grabbed. Review volume is still thin (the 7–9 and 10–12 age groups each show 100% family recommendation, but from only 1 and 3 votes), with 27 merchant reviews. Early feedback: "tasty, want to come back" — and one honest note that "it's a great food experience, just that some kids were noisy — parents, keep an eye on your little ones and it's very nice."
+**27 historical merchant reviews** on the booking platform. Representative guest reviews (translated from Chinese):
 
----
+> "A really pleasant experience — we ate at a relaxed pace. King crab legs, river prawns, lamb chops and plenty more."
+> — 136****2493 · stayed Aug 2024
+
+> "The desserts and the pan-fried steak were excellent — and very good value!"
+> — 丽*** · stayed Mar 2022
+
+> "A great food experience overall — just note some kids were a bit noisy. Parents, keep an eye on your little ones and it's lovely."
+> — 杨***华 · stayed Nov 2021
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ## 📸 Photos
 

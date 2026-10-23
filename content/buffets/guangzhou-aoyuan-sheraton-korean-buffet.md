@@ -13,25 +13,39 @@ cover:
   alt: "Guangzhou Aoyuan Sheraton — Korean-themed buffet dinner"
 ---
 
-**Deal price: 2 adults + 2 kids ¥368 (≈$51)** (comparable value ¥664 — save ¥216) · 1 adult + 1 kid ¥188 (≈$26) · 5-person ¥888 (≈$123) · kids' dinner from ¥78 (≈$11) · ⏰ valid through Dec 31, 2026 (not valid Dec 24)
+**Deal price: 2 adults + 2 kids ¥368 (≈$52)** (comparable value ¥664 — save ¥216) · 1 adult + 1 kid ¥188 (≈$26) · 5-person dinner ¥888 (≈$125) · kids' dinner ¥78 (≈$11) · ⏰ valid through Dec 31, 2026 (not valid Dec 24)
 
-Sheraton Guangzhou Panyu just launched a **"Korean flavor" themed buffet dinner**: Korean BBQ, crispy Korean fried chicken, Korean tempura, Norwegian salmon, fresh seafood — plus **free-flow red and white wine**. The 2-adults-2-kids combo is the headline: ¥368 against a ¥664 walk-in value. It's right by the metro, so getting there is easy.
+The Linlanghui restaurant on the 2nd floor of the **Sheraton Guangzhou Panyu** (Aoyuan Sheraton, at Nancun Wanbo metro station in Panyu) is running a **"Korean flavor" themed buffet dinner** — Korean BBQ and fried chicken headline a spread that also runs to fresh-cut Norwegian salmon and sashimi, river prawns and tiger crab, a grill station doing steak, lamb and chicken to order, and individual beef hotpots with three broths (coconut chicken, spicy, beef bone) and 20-plus ingredients including fresh-cut beef and Clearwater chicken. Desserts are a station of their own: chocolate fountain, nine rotating cakes, six ice-cream flavors and churros made on the spot. Red and white wine, beer and sparkling wine are all **free-flow**, alongside juices, sodas and handmade Hong Kong milk tea.
+
+The family arithmetic is the headline: the **2-adults-2-kids set is ¥368 against a ¥664 walk-in value**, and weekends carry no surcharge, so this is a rare Panyu family dinner where Saturday costs the same as Tuesday. The room seats 142 with floor-to-ceiling windows and open-kitchen stations, so it feels like a proper night out rather than a canteen run.
+
+⚠️ **Booking & timing:** dinner runs **17:30–21:00**. Reserve by 18:00 on the day at the latest — for weekends the restaurant asks for a day's lead and seats go first-come, so don't leave a Saturday to chance. The one blackout date is **Dec 24**. Vouchers are refundable if you haven't reserved. Note the promotion doesn't stack with other restaurant offers and doesn't earn Marriott Bonvoy points.
 
 **Packages**
-- 2 adults + 2 kids (1.4 m + 1.2 m) buffet dinner — **¥368** (≈$51)
-- 1 adult + 1 kid buffet dinner — **¥188** (≈$26)
-- 5-person buffet dinner — **¥888** (≈$123)
-- Kids' buffet dinner — **¥78** (≈$11)
+- 2 adults + 2 kids (one under 1.4 m + one under 1.2 m) buffet dinner — **¥368** (≈$52, value ¥664)
+- 1 adult + 1 kid (under 1.2 m) buffet dinner — **¥188** (≈$26, value ¥268)
+- 5-person buffet dinner (single seating, can't be split) — **¥888** (≈$125, value ¥1,340)
+- Kids' buffet dinner (child 1.2–1.4 m) — **¥78** (≈$11, value ¥199)
 
-Valid Monday–Sunday through Dec 31, 2026; blackout on Dec 24. Refundable if you haven't reserved; book ahead.
+**Good to know**
+- **Address:** Linlanghui Restaurant, 2F, Sheraton Guangzhou Panyu, 46 Wanhui 1st Road, Panyu — right at Nancun Wanbo metro station. Diners get **3 hours of free parking**.
+- **Child pricing beyond the sets:** under 1.2 m eats free; 1.2–1.4 m is ¥128 at the door (or the ¥78 platform kids' ticket above); over 1.4 m pays the adult rate.
+- **Group limit:** the offer isn't valid for groups of 10 or more.
+- **Reservation line:** 020-39308299 — after booking, just show your phone number at the door.
 
 ---
 
 ## What guests say
 
-Early merchant reviews are positive — guests describe the output as consistently solid with good service, and one reviewer noted a quiet pre-holiday visit with a thoughtful mooncake gift. Expect a classic Sheraton buffet done well rather than a reinvented one.
+**2 historical merchant reviews** on the booking platform. Guest reviews (translated from Chinese):
 
----
+> "Came just before Mid-Autumn Festival, so it wasn't crowded. The setting is nice and the food is as consistently solid as ever — they even gave us a mooncake. Genuinely good."
+> — 吴***华 · Oct 5, 2025
+
+> "Klenin Yang's service was great. The hotpot and desserts are all-you-can-eat."
+> — 147****4088 · Jul 19, 2025
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ## 📸 Photos
 

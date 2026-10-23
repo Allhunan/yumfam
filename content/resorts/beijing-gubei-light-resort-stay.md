@@ -13,27 +13,37 @@ cover:
   alt: "Gubei Light Resort — hotel exterior at Gubei Water Town"
 ---
 
-**Deal price: Superior room, 1 night — ¥1,099** (≈$153, was ¥1,550, about 29% off) · Valid Oct 22 – Dec 31, 2026 · ⏰ refundable if unreserved
+**Deal price: Superior room, 1 night — ¥1,099** (≈$154, was ¥1,550, about 29% off) · Family room ¥1,488 (≈$209) · Valid through Dec 31, 2026 · ⏰ refundable if unreserved
 
-The **Gubei Light Resort** sits in the prime "C-position" of **Gubei Water Town**, the canal town beneath the Simatai Great Wall — and this package bundles the whole experience: **2 water-town scenic-area tickets**, **2 hot-spring tickets**, plus your choice of a **Great Wall day or night tour with round-trip cableway** or a **dinner for two** (3 options to pick from). Weekend stays are possible with a surcharge, so this works for a Saturday escape too.
+The **Gubei Light Resort** （古北之光） is the big full-service hotel at the center of **Gubei Water Town** — 319 rooms, 50 meters from the snack street, next to the music-and-water show, with the rooftop infinity pool that shows up in everyone's photos. Staying inside the scenic area changes the trip: this package includes **multiple re-entry to the water town** during your stay and **unlimited rides on the in-park shuttle buses**, so you can wander the canals by day, head back for a nap, and return for the lanterns at night.
+
+And the bundle is properly stacked: **water-town tickets, hot-spring tickets and breakfast are all included**, plus a pick-one bonus — a **Great Wall day tour with round-trip cableway**, a **Great Wall night tour with round-trip cableway** (Simatai is the only Great Wall section open at night), or a **set dinner at the hotel**. Autumn is peak season here: the Simatai Outdoor Festival is running with a fish festival across the town's restaurants, markets and night events under the red-leaf wall.
+
+⚠️ **Surcharges & booking:** reserve by **23:59 two days before** your stay — inventory is first-come and confirms only once the hotel accepts. **Saturdays and Dec 31 carry a +¥300/room/night surcharge.** Check-in is 15:00, check-out 12:00, and you'll need your ID plus the voucher code and booking phone number at the desk. Once a reservation is confirmed, the room is held all day and is generally non-refundable.
 
 **Packages**
-- Superior room, 1 night — **¥1,099** (≈$153, was ¥1,550)
-- Family room, 1 night — **¥1,488** (≈$207, was ¥2,230)
+- Superior twin room B, 1 night + breakfast for 2 + 2 water-town tickets + 2 hot-spring tickets + pick-1 bonus (Great Wall day tour & cableway for 2 / Great Wall night tour & cableway for 2 / dinner for 2) + hotel pool & gym — **¥1,099** (≈$154, was ¥1,550)
+- Family room A (1.5 m double + 1 m single), 1 night + breakfast for 3 + 3 water-town tickets + 3 hot-spring tickets + pick-1 bonus for 3 (day tour / night tour / dinner for 3) + hotel pool & gym — **¥1,488** (≈$209, was ¥2,230)
 
-Every package includes the water-town tickets, hot-spring tickets, and the 3-pick-1 Great Wall/dining option above.
-
-**Terms:** inventory calendar bookable Oct 22 – Dec 31, 2026; Saturdays carry a +¥300/room/night surcharge. Reserve ahead; unreserved vouchers are refundable.
-
-Xialv Money-Saver Card holders save an extra ¥30.
+**Good to know**
+- **Hot springs:** the tickets cover one of the town's bathhouses （御道 / 城上 / 御大， whichever is open that day).
+- **The dinner option:** the hotel set meal is a choice of Chinese (at Jiangnan Meishihui) or Thai (at Yuquan Western Restaurant).
+- **Getting there:** drive the Jingcheng Expressway to the Simatai exit — the water-town parking is about 2 minutes on (small cars ¥25 per entry). By train, the Huaimi line from Beijing North or Qinghe reaches Gubeikou station, where scenic-area shuttle buses meet arrivals; there's also a direct bus from Miyun high-speed rail station (¥25).
+- Xialv Money-Saver Card holders save an extra ¥30 on this product.
 
 ---
 
 ## What guests say
 
-Family recommendation is **100%** for ages 3–6 and 10–12 (early votes). Merchant reviews praise the practical side: "Plenty of availability, easy booking and very fast confirmation. Take the Huaimi-line train to Gubeikou station, then hop on the scenic-area shuttle — cheap tickets, and you can even tap a transit card for a discount. Very convenient both ways." Another guest kept it short: "Great-value package, recommended." Expect a well-run base for a Great Wall + water-town weekend — the bundled tickets are the real value here.
+**11 historical merchant reviews** on the booking platform. Representative guest reviews (translated from Chinese):
 
----
+> "Plenty of availability, booking was easy and confirmation very fast. Take the Huaimi-line train to Gubeikou station and there's a scenic-area shuttle right there — cheap tickets, and you can even tap a transit card for a discount. Very convenient both ways. The scenic area wasn't crowded, so we wandered slowly. Housekeeping was a bit slow, but the room isn't small and the stay was comfortable."
+> — 常***店 · Mar 11, 2022
+
+> "The package is a great fit — recommended."
+> — Y***O · Mar 30, 2022
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ## 📸 Photos
 

@@ -13,31 +13,34 @@ cover:
   alt: "Qiandaohu JunTing Hotel — guest room"
 ---
 
-**Deal price: 1 night + 3 buffet meals for two — ¥239** (≈$33, was ¥666, about 36% of list) · Valid Sep 8 – Dec 31, 2026 · ⏰ refundable if unreserved
+**Deal price: 1 night + 3 buffet meals for two — ¥239** (≈$33, was ¥666) · Up to 3 nights / 3 rooms · Valid Sep 8 – Dec 31, 2026 · ⏰ Refundable if unreserved
 
-The **JunTing Hotel** sits on the central-lake "Fish Street" of Qiandaohu (Thousand-Islet Lake), about 20 minutes from the high-speed rail station — and this package is built for slow family travel: a room, **three buffet meals a day** (breakfast, lunch 11:30–13:00, dinner 17:00–18:30), plus a stack of local freebies. The family room sleeps three (one king + one double bed, 40㎡) with a lake-view twin option, free Wi-Fi, free parking, an outdoor kids playground, ping-pong room and self-service laundry.
+The **JunTing Hotel** （千岛湖中心湖区鱼街君亭酒店， Building 3, 427 Nanjing Road, Qiandaohu Town) sits right on the lake's "Fish Street," steps from the central-lake pier and the night-cruise pier, about 20 minutes from Qiandaohu high-speed rail station. It's a compact 7,000㎡ hotel that leans into being a base rather than a destination: the lobby bar doubles as a book bar with welcome coffee or tea, there's a gym, and the kids' playground (ocean-ball pool, slide, climbing frame) is built to burn off a full day. The headline, though, is the math — every tier bundles **three buffet meals a day** in the hotel's ground-floor restaurant (breakfast, lunch and dinner), so a 3-night superior-room stay with nine meals for two lands at ¥599, about ¥200 a night all-in.
 
-**Packages**
-- Superior room, 1 night + 3 meals for two — **¥239** (≈$33, was ¥666)
-- Family / lake-view twin room, 1 night + 3 meals for three — **¥339** (≈$47)
-- Superior room, 2 nights + 3 meals × 2 days for two — **¥439** (≈$61)
-- Family / lake-view twin room, 2 nights + 3 meals × 2 days for three — **¥639** (≈$89)
-- Superior room, 3 nights + 3 meals × 3 days for two — **¥599** (≈$83)
-- Family / lake-view twin room, 3 nights + 3 meals × 3 days for three — **¥899** (≈$125, was ¥1,199)
+The flexible structure is the other trick: multi-night tiers can be split — **1 room for 2–3 nights, or 2–3 rooms for one night** — which makes the 3-night tiers a cheap way to house a whole family group for a single reunion night. Rooms run on King Koil mattresses: the superior king is 25㎡ with a mini fridge; the superior twin is 35㎡ with two 1.35 m beds; the family room (40㎡) sleeps three on a king + double; and the balcony lake-view twin (35–38㎡) puts two 1.5 m beds behind a view. Every stay also throws in a **fish-head voucher**, a **BBQ voucher** and a **coffee buy-1-get-1** for the food street outside (vouchers have no cash value).
 
-Every stay throws in a **fish-head voucher**, a **BBQ voucher** and a **coffee buy-1-get-1 coupon** for the lakefront food street outside.
+⚠️ **Book by 18:00 the day before**; once reserved, the room is held for the full day and is generally non-refundable — unreserved vouchers refund freely. Holiday surcharges apply per the live page. Bring physical ID for every guest (adults: ID card; kids: hukou booklet).
 
-**Terms:** reserve by 18:00 the day before; check-in 14:00, check-out 17:00 the next day — a genuinely late checkout. One valid ID per person (adults: ID card; kids: hukou booklet). Unreserved vouchers are refundable; once reserved the room is held for the full day and generally non-refundable. Holiday surcharges apply per room/night (Mid-Autumn +¥50–100; National Day +¥100–500 — the 10-19 window has mostly passed).
-
-Xialv Money-Saver Card holders save an extra ¥30.
+**Packages** (all include 3 buffet meals per person per day + outdoor kids playground + ping-pong room + self-service laundry + free parking/Wi-Fi + the three gift vouchers)
+- Superior room, **1 night**, meals for 2 — **¥239** (≈$34, was ¥666)
+- Family room / balcony lake-view twin, **1 night**, meals for 3 — **¥339** (≈$48, was ¥666)
+- Superior room, **2 nights** (or 2 rooms × 1 night), meals for 2 × 2 days — **¥439** (≈$62, was ¥666)
+- Family / lake-view twin, **2 nights** (or 2 rooms × 1 night), meals for 3 × 2 days — **¥639** (≈$90, was ¥888)
+- Superior room, **3 nights** (or 3 rooms × 1 night), meals for 2 × 3 days — **¥599** (≈$84, was ¥666)
+- Family / lake-view twin, **3 nights** (or 3 rooms × 1 night), meals for 3 × 3 days — **¥899** (≈$126, was ¥1,199)
 
 ---
 
 ## What guests say
 
-Family recommendation is **100%** (ages 3–6, early votes). Group-buy reviews are 100% positive so far, and the merchant's track record across the JunTing brand's other properties is reassuring: one 5-star guest at their Shanghai house praised the convenient location near Shanghai South Station for traveling with elderly parents and kids, and a front desk that proactively arranged an elevator-accessible second-floor room. Expect a solid, unfussy lakeside base — the meals and the vouchers are the real value here.
+**10 historical merchant reviews** on the booking platform — most are brief or default ratings, and the one detailed review in the pool belongs to a JunTing sister hotel in Shanghai, so we won't pass it off as this property's. The one substantive review of this hotel (translated from Chinese):
 
----
+> "The guest rooms were clean and tidy, the hotel environment is good, and staff member Zheng Huaxiang's service attitude was excellent!"
+> — 沈*** · stayed Aug 2024
+
+What you can verify without reviews: the hotel sits on Fish Street between the central-lake and night-cruise piers (427 Nanjing Road), every tier's three daily buffet meals are served in the hotel's own ground-floor restaurant, and the headline 3-night tier works out to roughly ¥200/night including all meals for two — the value case rests on the location and the meal math, not on luxury.
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ## 📸 Photos
 

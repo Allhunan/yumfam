@@ -12,24 +12,38 @@ cover:
   alt: "Qingdao Oriental Movie Metropolis DoubleTree by Hilton"
 ---
 
-**Deal price: from ¥449** (≈$63, was ¥988, about 55% off) · ⏰ Valid through Oct 31, 2026 — only 9 days left · ⏰ Refundable if unreserved
+**Deal price: from ¥449** (≈$63, was ¥988, about 55% off) · ⏰ The whole promotion ends Oct 31, 2026 · ⏰ Refundable if unreserved
 
-In Qingdao's Huangdao district, next to the Oriental Movie Metropolis, the **DoubleTree by Hilton** is running an eat-stay-play bundle: **1 night in a deluxe room (king or twin) with breakfast for two**, plus one of five add-on options — from kids' park tickets to a hotpot dinner. Every stay also includes the famous warm DoubleTree cookie, plus free pool, gym and WiFi during the stay.
+The **DoubleTree by Hilton Qingdao Oriental Movie Metropolis** sits on Xingguang Island in Huangdao — surrounded by water on three sides, 388 rooms, with the Movie Metropolis film-city complex as its neighbor and the bay spread out in front. This bundle is a build-your-own: **1 night in a deluxe room (king or twin) with buffet breakfast for two**, the signature warm DoubleTree cookie on arrival, and free pool, gym and WiFi during the stay — then **one of five add-ons**, from an indoor kids' planet to a fresh-cut beef hotpot dinner.
 
-**Packages**
-- Deluxe room + breakfast for 2 + Ali's Adventure Planet 1-adult-1-kid ticket — **¥449** (≈$63, was ¥988)
-- Deluxe sea-view room + breakfast for 2 + beach digging & sand-play kit — **¥499** (≈$70, was ¥988)
-- Deluxe room + breakfast for 2 + 2 × Sunac Land 4-ride tickets — **¥519** (≈$73, was ¥988)
-- Deluxe room + breakfast for 2 + beef hotpot dinner for 2 — **¥559** (≈$78, was ¥1388)
-- Deluxe room + breakfast for 2 + buffet dinner for 2 — **¥639** (≈$89, was ¥1388)
+The family math favors the kids' options. The entry tier includes an **Ali's Adventure Planet 1-adult-1-kid day pass** with unlimited same-day re-entry across five zones — the harvest-barn interactive and sand pools, the soft maze with slides, the ocean ball pit, the soft-block dream workshop and the inflatable trampoline planet (the mini driving school and go-karts inside are small extras). The Sunac Land tier instead brings **two 4-ride tickets** for the theme park inside Sunac Mall next door — home to an indoor suspended coaster and a 16.6 m pendulum swing alongside the gentle rides.
 
-**Terms:** Valid through Oct 31, 2026 — the window is short, book soon. Reserve by 6pm on the day of use. Refundable if you never reserve. Kids under 1.2m eat breakfast free; 1.2–1.4m ¥48, 1.4m+ ¥68.
+⚠️ **Deadline discipline:** every tier **expires Oct 31, 2026** — a stay must happen by then, though you can book as late as **18:00 on the day itself**. The buffet-dinner tier is the fiddly one: the buffet only opens **Fridays and Saturdays**, so in practice that means Oct 24, 30 or 31. Confirmed bookings are generally non-refundable; unreserved vouchers refund anytime. Bring ID for every guest (household register for children).
+
+**Packages** (every tier: deluxe room 1 night + breakfast for two + welcome cookie + pool/gym/WiFi)
+- \+ Ali's Adventure Planet 1-adult-1-kid day pass (5 zones, unlimited same-day entry) — **¥449** (≈$63, was ¥988)
+- Deluxe **sea-view** room + beach digging & sand-play tool kit — **¥499** (≈$70, was ¥988)
+- \+ 2 × Sunac Land 4-ride tickets (collect at check-in, use during the stay) — **¥519** (≈$73, was ¥988)
+- \+ fresh-cut beef hotpot buffet dinner for two at Zhizaoju — **¥559** (≈$79, was ¥1,388)
+- \+ buffet dinner for two (Fri/Sat seatings) — **¥639** (≈$90, was ¥1,388)
+
+**Good to know**
+- **Kids at breakfast:** under 1.2 m free; 1.2–1.4 m ¥48; 1.4 m and up ¥68. At the hotpot dinner, under-1.2 m kids are free and taller kids pay the adult rate.
+- **Address:** 788 Xinghaiwan Road, Huangdao District, Qingdao — on the Movie Metropolis island, with sea views from the sea-view rooms and a back garden with animals for kids to visit.
 
 ---
 
 ## What guests say
 
-No guest reviews on this listing yet — it's a brand-new offer. Five add-on choices at the same base price make it flexible, but the Oct 31 expiry means deciding fast if Qingdao is on your list.
+**18 historical merchant reviews** on the booking platform. Representative guest reviews (translated from Chinese):
+
+> "Second stay at this hotel, and the service really is in the details — the warm valet-parking uncle, the homemade cookie from the front desk, the lovely manager in the buffet restaurant — this is what 'feels like home' actually looks like. The park play passes were easy to collect, and the dinner buffet was great: steak, foie gras, salmon (unlimited). Extremely good value — strongly recommended!"
+> — L***u · Apr 6, 2025
+
+> "A good stay overall. The sea-view room isn't dead-on to the sea but you can see most of it. Breakfast was plentiful, service attitude good, and we happened to catch a hotel activity, which was thoughtfully run."
+> — 185****2181 · Mar 28, 2023
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ---
 

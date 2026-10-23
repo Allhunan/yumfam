@@ -13,24 +13,33 @@ cover:
   alt: "Banyue Mountain Hot Spring — Changtai"
 ---
 
-**Deal price: 1 adult + 1 child hot-spring ticket — ¥189 (≈$27)** (was ¥399, 48% off) · Bookable Jun 23 – Dec 31, 2026, any day of the week · ⏰ valid through Dec 31, 2026
+**Deal price: 1 adult + 1 child hot-spring ticket — ¥189 (≈$27)** (was ¥399) · Usable any day Jun 23 – Dec 31, 2026 · ⏰ Refundable anytime; auto-refund on expiry
 
-Hidden in a forested valley in Changtai （长泰半月山温泉）, about an hour's drive from Xiamen, Banyue Mountain is a **strontium-rich soda spring** （富锶苏打汤泉） done in wild-luxury style — soaking pools tucked into mountain woodland rather than concrete blocks. One ticket covers **1 adult plus 1 child**, usable **weekdays and weekends** (open 13:00–23:00).
+**Banyue Mountain Hot Spring** （长泰半月山温泉， County Road 594, Changtai, Zhangzhou) sits in a forested valley at the meeting point of Xiamen, Zhangzhou and Quanzhou — about an hour's drive from any of them, and ~45 km from Xiamen Gaoqi Airport. The water is the draw: a **self-flowing soda spring** emerging at 58 °C and roughly 5,000 m³ a day, mildly alkaline and rich in metasilicic acid (53.8 mg/L) and strontium — the "beauty spring" profile that Southeast-Asian and Japanese-style bathhouses chase. Around it, a castle-style hotel and **50+ soaking pools** spread through a thousand-mu mountain forest: themed pools (including a yoga pool), a big swimming pool with a children's shallow zone, tea corners and nature-styled rest areas worked into the landscaping.
 
-Getting there is easy: a **free scheduled shuttle bus** runs from Xiamen North Railway Station （厦门北站） — call 0596-6038888 ahead to reserve your seat. No ticket exchange needed: buy and soak immediately, refundable anytime before use, and auto-refunded after expiry.
+The ticket is deliberately simple: **one adult ticket, one child under 1.2 m rides free**, the SPA rest lounge included, **buy-and-use with no ticket exchange** — scan and soak. Open **13:00–23:00** daily, so an afternoon arrival still gets a full evening of pools lit in the valley. Blackout dates earlier in the season (Mid-Autumn and National Day weeks) have already passed; the remaining validity runs clean through Dec 31, 2026.
 
 **Packages**
-- Adult hot-spring ticket (1 adult + 1 child, any day) — **¥189** (≈$27)
+- Adult hot-spring ticket — 1 adult + 1 child under 1.2 m free + SPA rest lounge + free shuttle — **¥189** (≈$27, was ¥399)
 
-Kids policy: children 1.2–1.4 m need a ¥89 (≈$13) child ticket; over 1.4 m pays the adult price. Free bath towels provided; the spa rest lounge is free to use. Note that no outside food is allowed inside the park.
+**Good to know:** children 1.2–1.4 m buy a **¥89 child ticket on site**; over 1.4 m pays the adult price. The **free scheduled shuttle from Xiamen North Railway Station** needs a phone booking — call **0596-6038888** ahead. Bath towels are provided free, and outside food isn't allowed inside the park (the many free tea stations are the workaround guests praise). The shuttle, the towels and the tea are all in the ticket — bring swimwear and nothing else.
 
 ---
 
 ## What guests say
 
-The merchant has 28 historical reviews, with 92–94% of parents recommending it for kids aged 3–12. One parent praised the clean environment and huge shower area with no queues, free tea stations dotted around the park (no need to bring water), and pools warm enough for kids even in the big swimming pool. Another highlighted the well-kept grounds, new facilities, attentive staff, and the yoga-themed pools and nature-inspired rest corners.
+**28 historical merchant reviews** on the booking platform. Representative guest reviews (translated from Chinese):
 
----
+> "The water quality is good and the staff are all warm. Sister Liang greeted us at the gate; while we were soaking, Xiao Lian brought tea over just when we were thirsty; back in the changing room, Sister Gao helped spin my swimsuit dry and reminded us about the details. A very pleasant trip."
+> — 林***华 · visited Sep 2024
+
+> "Great environment, great service, so many pools, plus a swimming pool. Adults have somewhere to soak and kids have somewhere to play — the pool has both constant-temperature and warm-water sections and a children's shallow area. Swim rings in pretty styles are available to rent, there are plenty of tea stations, and towels are always enough that you don't catch a chill. A really good experience!"
+> — 小***s · visited Aug 2024
+
+> "The environment is lovely and clean. The shower area is huge, so there's none of the queueing hassle. There are lots of free tea points inside, so you don't need to bring water at all. No outside food is allowed — don't bring snacks in. Plenty here suits kids; even the big swimming pool is warm water, so there's no worry about them catching cold. Free bath towels are provided too."
+> — 西***咪 · visited Aug 2023
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ## 📸 Photos
 

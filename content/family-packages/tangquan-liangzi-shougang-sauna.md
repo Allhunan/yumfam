@@ -13,24 +13,42 @@ cover:
   alt: "Tangquan Liangzi Hot Spring Sauna — Beijing"
 ---
 
-**Deal price: from ¥19.9 (≈$2.75) for a 16-hour child ticket** · Adult 16-hour ticket ¥79.9 (≈$11) · Adult + body scrub ¥139.9 (≈$19) · Adult + 40-min lobby foot massage ¥169.9 (≈$23) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
+**Deal price: from ¥19.9 (≈$2.75) for a 16-hour child ticket** · Adult 16-hour ticket ¥79.9 (≈$11) · Adult + body scrub ¥139.9 (≈$19) · Adult + 40-min lobby foot massage ¥169.9 (≈$23) · Valid Mar 24 – Dec 30, 2026 · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
-Tangquan Liangzi at Shougang Park is a 6,000㎡ hot-spring and sauna complex spread over three floors — soak in the pools, hit the saunas, and stay as long as you like, because the ticket covers **16 hours** (open 00:00–02:00). Toiletries are provided, and beyond the baths there's a kids' play area, a PS5 gaming zone on the 6th floor, and hanfu costume try-on with photo spots — a very family-friendly setup for a sauna. **Buy and use immediately** (no reservation needed, show your Xialv voucher code + phone number at entry), and it's refundable anytime before use.
+**Tangquan Liangzi (Shougang Park store)** is Beijing's most photogenic bathhouse: some 6,000㎡ over floors 4–6 of the Liugonghui complex inside Shougang Park, Shijingshan, done up in industrial-chic style behind a giant glass curtain wall. The soaking pools come at several temperatures and face three ready-made landmarks — the green ridges of Shijingshan, the Winter Olympics Big Air jump, and Shougang's No. 3 blast furnace. Beyond the baths and saunas there are rest lounges, a chess corner, a kids' play area, PS5 and arcade gaming, billiards and movie space; lockers and lounge clothing are provided. The venue runs from midnight to 02:00 the next night, and the ticket isn't a day pass — it's a full **16 hours** from entry, so an afternoon arrival can stretch into a late-night soak.
 
-Kids policy: children 90–120cm use the child ticket; over 120cm pays the adult price. Note the ticket doesn't cover fruit, meals, or other extras. Address: 4F–6F, Building C1, Liugonghui, Qunminghu West Street, No. 68 Shijingshan Road, Shijingshan.
+It's also about as low-friction as Beijing leisure gets: **buy and use immediately**, no reservation, just show the voucher code and your phone number at the desk, and unused vouchers refund anytime before use.
+
+⚠️ **Know what's not in the ticket:** the entry price covers the baths, saunas and lounge facilities — **fruit, meals and the other on-site extras are charged separately**. The complex advertises a buffet restaurant, fruit and drinks bars, massages and spa treatments, karaoke and party rooms, mahjong, even alpaca petting and overnight stays; treat those as optional add-ons, not inclusions. The two upgrade tiers simply pre-bundle the most popular ones (a body scrub, or a 40-minute foot massage in the lobby).
 
 **Packages**
-- Child 16-hour ticket — **¥19.9** (≈$2.75)
-- Adult 16-hour ticket — **¥79.9** (≈$11)
-- Adult 16-hour ticket + body scrub — **¥139.9** (≈$19)
-- Adult 16-hour ticket + 40-min lobby foot massage — **¥169.9** (≈$23)
+- Child 16-hour ticket (90–120 cm) — **¥19.9** (≈$2.75, was ¥49)
+- Adult 16-hour ticket — **¥79.9** (≈$11, was ¥119)
+- Adult 16-hour ticket + body scrub — **¥139.9** (≈$19, was ¥189)
+- Adult 16-hour ticket + 40-min lobby foot massage — **¥169.9** (≈$23, was ¥219)
+
+**Good to know**
+- Kids policy: children 90–120 cm use the child ticket; over 120 cm pays the adult price
+- Opening hours: 00:00–02:00 (next day); your 16 hours start when you enter
+- Address: Floors 4–6, Building C1, Liugonghui, Qunminghu West Street, No. 68 Shijingshan Road, Shijingshan District, Beijing — inside Shougang Park
+- Invoices can be self-applied in the platform's user center (issued within 15 working days)
 
 ---
 
 ## What guests say
 
-- "Very Instagrammable and beautiful — got there early on a sunny day and every corner was photo-worthy, had such a fun time. The ¥99 lunch buffet is worth it, with hairy crab (limited) and crayfish." — 185****0158 (5 stars)
-- "Really good — nice environment, very new, the kids loved it, good service too." — H***
+From **10 historical merchant reviews** for this venue:
+
+> "Very Instagrammable and beautiful — got there early on a sunny day and every corner was photo-worthy, had such a fun time. The ¥99 lunch buffet is worth it, with hairy crab (limited) and crayfish."
+> — **185\*\*\*\*0158** · visited Mar 2023
+
+> "An elegant, quiet environment — and the scrub auntie's technique is superb."
+> — **马\*\*\*红** · visited Mar 2023
+
+> "Really good — nice environment, very new, the kids loved it, good service too."
+> — **H\*\*\*** · visited Jan 2023
+
+*Reviews above are from guests who booked this venue through the platform; names are shown as masked by the platform.*
 
 ## 📸 Photos
 

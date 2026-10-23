@@ -13,32 +13,28 @@ cover:
   alt: "Sanya Tianliwan Grand Hyatt — 2 Nights Family Package"
 ---
 
-**Deal price: from ¥1,188 (≈$164) for 3 days / 2 nights** · Up to sea-view Club room packages at ¥1,899 (≈$262) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
+**Deal price: from ¥1,188 (≈$164) for 3 days / 2 nights** · Club sea-view packages up to ¥1,899 (≈$262) · Valid through Oct 31, 2026 · Refundable before you reserve
 
-This is Hyatt's 2023 flagship in Sanya — a "one bay, one hotel" property on a pristine cove in Sanya Bay with its own private beach, a rare rocky coastline, and a signature **pink-sand beach** that the kids' photos will love. Rooms start at 50㎡ with balconies and bathtubs, and the resort runs a **2,800㎡ outdoor pool complex** (adult, kids' and whirlpool areas, 18m blue-whale slide, night light shows), an 800㎡ kids' camp for ages 3–12, a game/entertainment center and 24-hour gym. It's about 5 minutes from Tianya Haijiao and West Island, 7 km from the airport.
+Opened in 2023 at No. 699 Tongjing Road, Tianya District, the **Grand Hyatt Sanya Tianli Bay** is one of only three Sanya hotels with a whole bay to itself — 1,000 m of coastline with a rare rocky shore, its own private beach and the Instagram-famous **pink-sand beach** (pink whale photo spot included). It's about 7 km from Phoenix Airport and 15 km from downtown, roughly 5 minutes by car from Tianya Haijiao and the West Island ferry pier. Rooms start at **50 m²**, all with balconies, bathtubs as standard and colorful Hainan Li-brocade touches. Outside: a **2,800 m² pool complex** facing the South China Sea (adult, kids' and whirlpool pools, an 18 m blue whale with night light shows, rainbow boats and paddle boats), an **800 m² kids' camp** for ages 3–12 with a fresh activity schedule every day, a big dog park, tropical gardens, a spa and a 24-hour gym (with sauna, steam and jacuzzi in the changing rooms).
 
-The base ¥1,188 package (garden view, ~37% off the ¥1,888 rack rate) is stacked: **daily buffet breakfast for 2 adults + 2 kids under 12**, a free first-day minibar, an ice cream + fresh coconut (or craft beer tasting set), a **30-minute travel photoshoot with 5 edited photos + a 20-second video**, a 14-day VIP audiobook trial, shuttle buses to the airport/Tianya Haijiao/islands and the CDF duty-free mall (with mall discount coupons), and 8.5% off dining. Book anytime, refundable before use (unused and unbooked = full refund).
+Every tier below is 2 nights with the same core stack: **daily international buffet breakfast for 2 adults + 2 kids under 12**, first-day minibar free, **daily kids' camp activities**, a **30-minute one-to-one travel photoshoot** (5 retouched photos + a 20-second video; basic grooming included, outfits not; once per family per stay — book a day ahead on 18689598780), 15% off dining (some exclusions), 20% off the entertainment center's mahjong/KTV rooms, a 14-day Fanshu audiobook VIP trial, and **shuttle buses** — one looping the West Island pier, Tianya town, Tianya Haijiao and the airport, one running to the CDF Sanya duty-free mall, where the hotel's coupons unlock 5–15% off at six CDF Hainan stores (book shuttles a day ahead via the concierge, 0898-88681234).
 
-⚠️ **National Day surcharge warning:** this is a Golden Week deal with holiday price bumps on the garden-view package — **Oct 2–4 adds ¥600/night, Oct 1 & Oct 5 add ¥500/night, Sep 30 & Oct 6 add ¥250/night**. It's genuinely great value after the holiday week (valid through Oct 31); during Golden Week itself, do the math first. Also note the pet-room package is blacked out Sep 30–Oct 6. One ID per guest at check-in (adults: ID card; children including infants: household registration booklet).
+✅ **Price timing:** every surcharge window on this deal's calendar — the summer bumps and the Golden Week peak (up to +¥700/night) — ended on Oct 6. From now to the Oct 31 expiry, the rates below hold flat. Reserve by 23:59 the day before; one original ID per guest at check-in (children, infants included: household register). One honest footnote from the listing itself: the hotel sits under the airport's approach path, so daytime landings are audible around the main building; nights are much quieter.
 
-**Packages (all 3 days / 2 nights)**
-- Garden-view king/twin, 2 nights + daily 2A2K breakfast — **¥1,188** (≈$164), was ¥1,888
-- Luxury courtyard room + afternoon tea — ¥1,488 (≈$205)
-- Premium sea-view room + local "boji" set meal for two — ¥1,588 (≈$219)
-- Luxury pet-friendly room + fresh pet meal — ¥1,699 (≈$234), was ¥2,888 (blacked out Sep 30–Oct 6)
-- Club sea-view room + coconut-chicken or "zaopo vinegar" hotpot for two — ¥1,899 (≈$262)
+**Packages (all 3 days / 2 nights, core stack included)**
+- **Garden-view king/twin** + a Hyatt cultural ice cream & green coconut, or a craft-beer tasting set — **¥1,188** (≈$164, was ¥1,888)
+- **Luxury courtyard king/twin** + a takeaway afternoon tea (¥308 value; collect at the lobby bar, book 2 hours ahead) — **¥1,488** (≈$205, was ¥2,688)
+- **Premium sea-view king/twin** + a Li-style "boji" winnowing-basket set meal for two (¥576 value) — **¥1,588** (≈$219, was ¥2,888)
+- **Luxury pet-friendly dog room** + a fresh pet meal, pet bed, snacks, toys and lawn, plus one dog-park ticket — **¥1,699** (≈$234, was ¥2,888)
+- **Club sea-view king/twin** + Club privileges for 2 adults + 2 kids + a Hainan coconut-chicken *or* zaopo-vinegar hotpot set for two (¥598 value) — **¥1,899** (≈$262, was ¥3,288)
 
 ---
 
 ## What guests say
 
-**38 family ratings** on the booking platform — no written reviews are displayed, but the age-segment recommendation scores are strong:
+No guest reviews yet on the booking platform — its review pool for this hotel listing is currently empty, so there's nothing honest to quote. What's verifiable from the listing itself: the hotel opened in 2023 and is one of only three "one bay, one hotel" properties in Sanya; rooms start at 50 m² with bathtubs and balconies; and every package tier includes the full perk stack above (2A2K breakfast, kids' camp days, the photoshoot and both shuttle routes) rather than stripping it to the cheapest room. We'll update this section as real guest reviews come in.
 
-- Ages 3–6: **100% recommend** (5 ratings)
-- Ages 7–9: **84.6% recommend** (13 ratings)
-- Ages 10–12: **100% recommend** (20 ratings)
-
-*Recommendation scores from the booking platform; written reviews were not shown on the product page.*
+---
 
 ## 📸 Photos
 

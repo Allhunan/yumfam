@@ -13,22 +13,40 @@ cover:
   alt: "Wuhan Kaiyuan Senbo Resort — garden-view room"
 ---
 
-**Deal price: Superior garden-view room, 1 night — ¥599** (≈$84, was ¥1,298, about 54% off) · Valid through Mar 31, 2027 · ⏰ refundable if unreserved, auto-refund on expiry
+**Deal price: Superior garden-view room, 1 night — ¥599** (≈$84, was ¥1,298, about 54% off) · Valid Oct 22, 2026 – Mar 31, 2027 · ⏰ refundable if unreserved, auto-refund on expiry
 
-Rising on a peninsula in Houguan Lake, the **Wuhan Kaiyuan Senbo Resort** is a ¥2.2-billion, 128,000㎡ all-season family resort — and this Double-11 bundle is its strongest value yet. One price covers a **superior garden-view room**, **breakfast for two**, **your choice of 2 indoor-water-park or 2 Fantasy Island tickets**, and a **Yiqi travel-photography session**. Weekends carry **no surcharge** through the whole validity period.
+On a peninsula jutting into Houguan Lake in Wuhan's Caidian District, the **Wuhan Kaiyuan Senbo Resort** is a ¥2.2-billion, 128,000㎡ all-season family resort with 3.4 km of lakeshore and 585 rooms — and its Double-11 pricing undercuts rack rate by more than half. The headline bundle covers a **superior garden-view room**, **breakfast for two**, **your choice of 2 water-park or 2 Fantasy Island tickets** (unlimited re-entry from redemption until noon the next day), and a **Yiqi travel-photography session** (3 retouched photos + a 15-second video). Weekends carry **no surcharge** through the whole validity period; only Spring Festival dates (Feb 6–11) add ¥200–500 depending on the tier.
 
-**Packages**
-- Superior garden-view room, 1 night + breakfast for 2 + 2 water-park OR 2 Fantasy Island tickets + Yiqi photo session — **¥599** (≈$84, was ¥1,298)
+The two parks justify the trip on their own. The **indoor water park** (10,000㎡, heated year-round) packs a wave pool, surf simulator, slides and a kids' water fort — plus mixed-gender family changing rooms, a small mercy for solo parents. **Fantasy Island** is a 12,000㎡ indoor-outdoor space-themed playground: a five-storey spaceship installation, 20+ rides and climbing zones, plus the outdoor Alien Fort castle. Every tier also throws in the lakeside greenway hike, free daily self-service laundry, anti-slip socks for Fantasy Island and free water-park lockers. Upper tiers scale up: family twins with 3 tickets, a boathouse king, a star-themed room with bunks and 4 tickets, a treehouse with a 2.2-metre round bed plus set dinner — and a pet-friendly cabin tier (valid to Jun 30, 2027) with a breakfast and gift pack for the dog.
 
-**Terms:** Double-11 promo pricing; weekends at no extra charge. ⚠️ The indoor water park is closed for maintenance Nov 16 – Dec 25, 2026 (reopens Dec 26) — Fantasy Island tickets are the pick during that window. Unreserved vouchers are refundable and auto-refund after expiry.
+⚠️ **Two things to time right:** the indoor water park is **closed for maintenance Nov 16 – Dec 25, 2026** (reopens Dec 26) — pick Fantasy Island tickets in that window. And bookings close at **19:59 on the day of use**; check-in is 15:00, check-out 12:00, one ID per guest (children need the household-register booklet).
+
+**Packages** (all 1 night + breakfast + park tickets + Yiqi photo session; valid to Mar 31, 2027 unless noted)
+- Superior garden-view room (king/twin) + 2 tickets — **¥599** (≈$84, was ¥1,298)
+- Pet-friendly wooden cabin + breakfast for 2 + pet breakfast & gift pack — **¥749** (≈$105, was ¥1,598; valid to Jun 30, 2027)
+- Family twin room (1.5m + 1.35m beds) + breakfast for 3 + 3 tickets — **¥999** (≈$140, was ¥1,899)
+- Boathouse king room (57㎡) + 2 tickets — **¥999** (≈$140, was ¥1,988)
+- Star-theme room (king + bunk beds) + breakfast for 4 + 4 tickets — **¥1,299** (≈$183, was ¥2,598)
+- Treehouse round-bed room (55㎡) + Yanlaixuan set dinner for 2–3 + 2 tickets — **¥1,599** (≈$225, was ¥2,988)
+
+**Good to know:** dining runs from the Interstellar all-day restaurant (breakfast) and Yanlaixuan Chinese restaurant — whose windows overlook Fantasy Island — to La Mure, a French restaurant on the 17th floor with 270° lake views, a nod to the Sino-French Eco-City the resort sits in. Access is easy: about 40 minutes from Tianhe Airport, 30 minutes from Hankou Station, and 4 minutes from Metro Line 4's Xintian station.
 
 ---
 
 ## What guests say
 
-Recent merchant reviews praise it as a one-stop family base: "The scenery is superb — the kids'-club staff were attentive and patient, a real one-stop resort complex, perfect for an easy family getaway, highly recommended." Another: "The kids loved it, especially Fantasy Island — the facilities are comprehensive." Expect a big, purpose-built family resort rather than a city hotel with a pool.
+**6 historical merchant reviews** on the booking platform. Representative guest reviews (translated from Chinese):
 
----
+> "Superb scenery at the Wuhan Kaiyuan Senbo resort — the kids'-club staff (sister Kele) were conscientious and attentive, warm and patient. A proper one-stop resort complex, perfect for an easy family getaway. Strongly recommended."
+> — 153****5123 · Aug 2026
+
+> "The kids loved it here — especially Fantasy Island, and the staff member Bingbing was warm and responsible. The facilities are really comprehensive."
+> — 186****1557 · Jul 2026
+
+> "Raving about Senbo's travel-photography service! The photographer has a great eye, planned the route around the rainforest architecture and the Instagram staircase, and patiently coached poses for camera-shy people. The retouched shots are soft and fine, even the straight-out-of-camera ones look good — way beyond what we expected from a free extra."
+> — 微***户 · Jun 2026
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ## 📸 Photos
 

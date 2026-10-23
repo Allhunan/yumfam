@@ -6,31 +6,45 @@ location: "Xiamen, Fujian"
 price: "¥138 (≈$19)"
 was_price: "¥298"
 coupon: "Xialv Money-Saver Card — ¥30 off this product + ¥50 welcome bonus on signup"
-valid_until: "2027-01-10"
-description: "Xiamen Sheraton's 'Ocean Wave Pan-Asian' buffet by the SM City mall: 1 adult + 1 kid (under 1.3 m) lunch-or-dinner voucher for ¥138 (≈$19) — about 47% of list, usable weekends and holidays, valid through Jan 10, 2027."
+valid_until: "2026-12-30"
+description: "Xiamen Sheraton's 'Ocean Wave Pan-Asian' buffet by the SM City mall: 1 adult + 1 kid (under 1.3 m) lunch-or-dinner voucher for ¥138 (≈$19) — about 46% of list, usable Saturdays and Sundays, valid through Dec 30, 2026."
 cover:
   image: "https://img.xialv.com/uploads/2025/02/05/item_pic_origin1738736228310342.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Sheraton buffet — Ocean Wave Pan-Asian restaurant"
 ---
 
-**Deal price: 1 adult + 1 kid (under 1.3 m) buffet, lunch or dinner — ¥138 (≈$19)** (was ¥298, about 47% of list) · Bookable through Jan 10, 2027 · ⏰ valid through Jan 10, 2027 (not usable Dec 24–25)
+**Deal price: 1 adult + 1 kid (under 1.3 m) buffet — ¥138 (≈$19)** (was ¥298, about 46% of list) · Saturdays & Sundays · ⏰ valid through Dec 30, 2026
 
-The **Xiamen Sheraton** (湖里区嘉禾路, by the SM City mall) runs its all-you-can-eat at the **Ocean Wave Pan-Asian restaurant**. This voucher covers **1 adult + 1 kid under 1.3 m** for lunch (11:30–14:00) or dinner (17:30–21:00), usable **weekends and public holidays with no surcharge** — and with **1000+ vouchers already grabbed**, it's the crowd favorite of this week's batch.
+The **Xiamen Sheraton** on Jiahe Road in Huli — a 10-minute walk from the metro and right by the SM City mall — runs its all-you-can-eat at the **Ocean Wave Pan-Asian restaurant**. The format Xiamen families keep coming back for is the seafood: much of it is the day's catch, piled up at the seafood station — prawns, shellfish and scallops — next to a circular Japanese counter doing thick-cut sashimi (salmon, octopus, mackerel), a live teppanyaki grill station cooking skewers and meats to order, dozens of Chinese hot dishes and steamed dim sum, double-boiled soups, and a dessert spread with seasonal fruit to finish. Open kitchens and live-cooking counters keep it lively rather than hushed.
 
-Book ahead; unreserved orders are refundable anytime with auto-refund on expiry. Join the merchant group chat for extra ¥3–¥26 coupons before ordering.
+This voucher covers **1 adult + 1 kid under 1.3 m**, and the price stays ¥138 on weekends — no Saturday uplift. That makes it one of the simplest family meals in the city: eat, then wander SM City or Yundang Lake afterwards.
+
+⚠️ **Weekend-only, and dinner is Saturday-only:** the voucher works **Saturdays and Sundays for lunch (11:30–14:00)**; **dinner (17:30–21:00) runs on Saturdays only**. Reserve by phone (0592-5525888) **by 19:00 the day before** at the latest. The deal ends **Dec 30, 2026** — and unused vouchers refund automatically after expiry, or anytime before you reserve.
 
 **Packages**
-- 1 adult + 1 kid (under 1.3 m), lunch or dinner, weekends & holidays OK — **¥138** (≈$19)
+- 1 adult + 1 kid (under 1.3 m), lunch Sat–Sun or dinner Sat, no weekend surcharge — **¥138** (≈$19)
 
-Xialv Money-Saver Card holders save an extra ¥30. Buy-and-use, refundable anytime, auto-refund on expiry.
+**Good to know**
+- **Taller kids:** a child 1.3–1.4 m pays a top-up of ¥114 (half the door price); over 1.4 m, just grab a second voucher.
+- **Address:** Sheraton Xiamen Hotel, 386-1 Jiahe Road, Huli District — next to the SM City mall area, near Yundang Lake and Jiangtou Park, with metro and bus stops within a 10-minute walk.
+- Xialv Money-Saver Card holders save an extra ¥30 on this product.
 
 ---
 
 ## What guests say
 
-Family recommendation: 84.9% for kids 10–12 (53 votes), 77.8% for 3–6 (9 votes), 63.6% for 7–9 (33 votes); the 2 group reviews so far are 100% positive, against 452 merchant reviews. One honest note from a reviewer: "the salmon is decent quality, but the rest of the spread is really average — the promo brought the price down, and the quality and variety came down with it." Fair warning at this price — go for the seafood stations.
+**452 historical merchant reviews** on the booking platform. Representative guest reviews (translated from Chinese):
 
----
+> "Unlimited salmon sashimi, durian pizza too, and the Chinese dishes were good as well. Satisfied."
+> — 杨*** · Oct 25, 2025
+
+> "I've brought my family to the Sheraton buffet many times and they all love it — dishes, pastries, fruit and drinks are all well covered, the place is clean and tidy. It's one of the best-value buffets in Xiamen, and there are often promotions. We'll keep coming back."
+> — 134****8398 · Aug 18, 2025
+
+> "Four adults and four kids — we came down from hiking Xianyue Mountain and went straight to the buffet. Lots of variety, adults and kids all ate happily, service was good too. The actual dishes matched the listing, and the kids have already agreed to come back next time!"
+> — Y***i · Sep 6, 2025
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ## 📸 Photos
 

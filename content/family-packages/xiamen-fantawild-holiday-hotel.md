@@ -13,24 +13,38 @@ cover:
   alt: "Xiamen Fantawild Holiday Hotel — family hotel with theme park package"
 ---
 
-**Deal price: 1 night + 2-day unlimited park tickets for 2 — from ¥999 (≈$141)** (was ¥1,399, ~29% off) · Bookable Sep 16 – Oct 31, 2026 · ⏰ valid through Oct 31, 2026
+**Deal price: 1 night + 2-day unlimited park tickets for 2 — from ¥999** (≈$140, was ¥1,399) · Valid Sep 16 – Oct 31, 2026 · Refundable before you reserve; auto-refund if it expires unused
 
-A turnkey theme-park weekend for two: the Xiamen Fantawild Holiday Hotel (同安区石浔南路1111号), a newly opened family hotel ranked among Fujian's top 20 family resorts, bundles a **1-night stay with breakfast** and **unlimited 2-day entry for 2 to Dream Kingdom (梦幻王国) or Oriental Heritage (东方神画)** — Xiamen's answer to the Disney two-day playbook, minus the flight.
+A turnkey theme-park weekend on Zhongzhou Island, Tong'an (No. 1111 Shixun South Road): the **Xiamen Fantawild Holiday Hotel**, built by the Huaqiang Fantawild group beside its own theme-park resort, bundles **1 night with breakfast** and **2-day park tickets with unlimited re-entry during your stay**. The hotel itself covers nearly 40,000 m² in a new-Chinese style, with **365 rooms** — every one with a private viewing balcony, custom pillows and bedding, and bathrooms with both a separate shower and a bathtub — plus Boonie Bears theming in the lobby, a garden restaurant (Minnan and Western breakfast), an outdoor pool, a gym and a kids' playground. The two parks split the work: **Dream Kingdom** is the thrill-and-fairytale side (the heart-shaped "Eye of the Storm" coaster with 720° spins, a giant pendulum, pirate ship, Magic Castle, the Fly Over the Horizon simulator, a double-decker carousel), while **Oriental Heritage** runs on Chinese mythology — the Jungle Dragon coaster, Shenzhou Tower, and immersive motion rides like *Nezha Stirs the Sea* and *Nuwa Mends the Sky*. A shuttle train/cart runs between hotel and parks.
 
-Beyond the parks, the hotel adds a **kids playground, gym, pool, and a shuttle train/cart ride to the parks**, so non-ride days are covered too. National Day surcharges apply on Oct 1–5 (+¥400/night) and Oct 6–7 (+¥200/night); normal weekends carry no surcharge.
+⚠️ **The routine:** check in first (from 15:00) and collect your physical park tickets at the front desk — you can't enter the parks before that, and the shuttle needs the hotel-issued ticket. Reserve by 23:59 the day before. **Surcharges (per room-night, on site): Fridays and Saturdays +¥100**; Sep 30 and Oct 6–7 +¥200 (the National Day peak, Oct 1–5 at +¥400, has passed). Room upgrades if you want them: garden/courtyard rooms +¥100, family versions +¥200, castle-view +¥300–400.
 
 **Packages**
-- City-view king/twin room 1 night (incl. 2 breakfasts) + 2-person 2-day tickets to ONE park — **¥999** (≈$141)
-- City-view king/twin room 1 night (incl. 3 breakfasts) + 3-person 2-day tickets to ONE park — **¥1,339** (≈$189)
-- City-view king/twin room 1 night (incl. 2 breakfasts) + 2-person 2-day tickets to BOTH parks — **¥1,369** (≈$193)
+- **City-view king/twin, 1 night** (2 breakfasts) + **2-person 2-day tickets to ONE park** (Dream Kingdom *or* Oriental Heritage) + gym, pool, kids' playground & park shuttle — **¥999** (≈$140, was ¥1,399)
+- **City-view king/twin, 1 night** (3 breakfasts) + **3-person 2-day tickets to ONE park** — **¥1,339** (≈$188, was ¥1,999)
+- **City-view king/twin, 1 night** (2 breakfasts) + **2-person 2-day tickets to BOTH parks** — **¥1,369** (≈$192, was ¥1,399)
+- **City-view king/twin, 1 night** (3 breakfasts) + **3-person 2-day tickets to BOTH parks** — **¥1,859** (≈$261, was ¥2,999)
 
-Xialv Money-Saver Card holders save an extra ¥30. Reserve by 11:59 PM the day before your visit; unreserved bookings are refundable, and expired vouchers auto-refund.
+**Good to know**
+- Bringing extra kids? Each adult may bring **one child under 1.1 m into the park free**. Child 2-day top-up tickets: single-park tiers — 1.1–1.4 m ¥220, over 1.4 m ¥299; both-parks tiers — ¥350 / ¥450. Extra child breakfasts: under 1.2 m free, 1.2–1.4 m ¥49, over 1.4 m ¥98.
+- Some rides close for maintenance on rotation and shows can shift with the weather — the parks' official account has the day's actual schedule.
 
 ---
 
 ## What guests say
 
-The merchant has 63 historical reviews with 100% family recommendation for ages 3–6 and 7–9 (albeit small sample sizes). One guest praised the **brand-new facilities, kid-friendly design and attentive service**, noting the hotel's closeness to the park; another family topped up two kids' 2-day passes on site and found the arrangement easy.
+**63 historical merchant reviews** on the booking platform (10 with photos or video). Representative guest reviews (translated from Chinese):
+
+> "Our child's birthday — our family of three chose Fantawild here in our own city, and the experience was excellent. The kid had a blast: staying one night lets you play in the park for two days, plus there's a buffet breakfast. I especially recommend Fly Over the Horizon — we rode it three times in two days. Adults and child alike went home happy. Recommended!"
+> — 吴***琪 · Nov 2025
+
+> "The hotel environment is great, clean and hygienic, and breakfast is generous. Two parks over two days — really good value; I recommend buying it."
+> — 木***醇 · Mar 2023
+
+> "This hotel only opened last year — a well-equipped, brand-new family hotel. Our little one loved it, it's close to the parks, the service was attentive, and we stayed very happily. Worth recommending; we'll stay here again next time."
+> — M***i · Apr 2023
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ---
 
