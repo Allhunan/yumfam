@@ -15,21 +15,27 @@ cover:
 
 ![Anji Xingcheng Moroccan-style art resort hotel](https://img.xialv.com/uploads/2025/04/10/item_pic1744266475138978.jpeg?imageView2/1/w/1050/h/588)
 
-**Deal price: from ¥399** (≈$56, was ¥999, about 60% off) · 2-night bundle ¥629 − ¥30 coupon = **¥599** · ⏰ 1-week flash sale · Valid through Jan 31, 2027 · ⏰ refundable if unreserved, auto-refund on expiry
+**Deal price: from ¥399** (≈$56, was ¥999) · 2-night king-room bundle ¥629 − ¥30 coupon = **¥599** · Family-room tiers ¥499/¥799 with 3 Elf Hill tickets · ⏰ Double-11 flash sale, on sale one week only · Valid through Jan 31, 2027 · Refundable if unreserved, auto-refund on expiry
 
-Inside Anji's Hele Valley resort zone — between the Bamboo Museum and Lingfeng Mountain, 1.5h from Hangzhou and 2h from Shanghai — the **Xingcheng Moroccan-Style Art Resort** trades the usual bamboo aesthetic for something completely different: a high-design, gallery-like hotel wrapped in Moroccan romance. The bundle pairs the stay with **2 Elf Hill tickets with 2-day unlimited re-entry** and **daily breakfast for 2 adults + 1 kid**, plus the valley's activity program.
+Anji is Zhejiang's bamboo-and-mountains weekend county — about 1.5 hours' drive from Hangzhou and 2 hours from Shanghai — and inside the Hele Valley resort zone, the **Xingcheng Moroccan-Style Art Resort** (星橙·摩洛哥风情艺术度假酒店) goes completely against the local grain. Instead of bamboo courtyards, you get an 8,000㎡ North-African fever dream: a Moroccan landscape pool, a California-style rooftop built for photos, arched corridors and saturated tilework everywhere. The rooms are named after Moroccan cities — Ifrane and Casablanca king rooms, Essaouira twins, and a Majorelle family room — and the whole property doubles as a film-shoot location, which tells you how seriously it takes the visuals.
+
+The reason families book it is what's bundled in: **Elf Hill (精灵之丘)**, the capybara-themed park next door. Tickets included with the room carry **2-day unlimited re-entry**, so kids can bounce between the capybaras, the chicken yard, jungle nets, grass slides, the bouncing cloud and the sand pits, then come back after nap time and do it all again. On site there's also a garden outdoor pool, an outdoor camp lawn, a café (self-pay), and the Xiale horse club (self-pay — except the ¥799 tier, which throws in 3 riding vouchers).
+
+⚠️ **Timing:** this is a Double-11 flash price on sale for **one week only**, and every tier must be **booked by 23:59 the day before** your stay. Stays are valid any day of the week through **Jan 31, 2027**; weekend/holiday surcharges follow the booking page's fee notes. Unreserved vouchers refund anytime and auto-refund on expiry.
 
 **Packages**
-- Moroccan-style room, 1 night + 2 Elf Hill tickets (2-day unlimited entry) + breakfast for 2A1C — from **¥399** (≈$56, was ¥999)
-- 2-night bundle — **¥629** − ¥30 coupon = **¥599** after coupon (coupon applies to orders ¥629+)
+- **¥399** (≈$56, was ¥999) — Ifrane or Casablanca king room, 1 night + next-day breakfast for 2 adults + 1 kid + **2 Elf Hill tickets** (2-day unlimited entry) + resort activities
+- **¥499** (≈$70, was ¥1,099) — Essaouira twin or Majorelle family room, 1 night + next-day breakfast for 2 adults + 1 kid + **3 Elf Hill tickets** + resort activities
+- **¥629** (≈$88, was ¥1,899) — King room, **2 consecutive nights** + daily breakfast for 2 adults + 1 kid + 2 Elf Hill tickets + resort activities; ¥30 coupon applies → **¥599**
+- **¥799** (≈$112, was ¥1,799) — Twin/family room, **2 consecutive nights** + daily breakfast + 3 Elf Hill tickets + **3 horse-riding vouchers** + resort activities
 
-**Terms:** Double-11 flash sale — on sale for one week only. Unreserved vouchers are refundable and auto-refund after expiry.
+**Good to know:** the hotel sits inside the China Travel Hele Valley resort zone (Meiling Road No. 2, Lingfeng Street, Anji), with the Bamboo Museum to the east and Lingfeng Mountain to the west — both national 4A sights — about 2 km from the county center and roughly 30 minutes from the Yunshang Grassland. Driving is the practical way in; Hangzhou families treat it as a Friday-after-work run.
 
 ---
 
 ## What guests say
 
-No guest reviews on this listing yet — it's a brand-new offer. The Elf Hill 2-day unlimited tickets and the one-week-only pricing are the reasons to move fast if Anji is on your list.
+No guest reviews on the booking platform yet — this Double-11 listing only went live on Oct 21, 2026. What's verifiable from the ground: the Elf Hill tickets genuinely cover two full days with unlimited re-entry (not a single-entry pass), breakfast is included for 2 adults + 1 kid on every tier including the cheapest ¥399 one, and the family-room tiers add a third park ticket instead of charging for the extra child at the gate. If the Moroccan design is the draw, the rooftop and pool areas are the photo spots guests make a beeline for.
 
 ---
 

@@ -14,20 +14,24 @@ cover:
 
 ![Guangzhou Phoenix City Hotel](https://img.xialv.com/uploads/2025/04/15/item_pic1744696526408573.jpeg?imageView2/1/w/1050/h/588)
 
-**Deal price: ¥499** (≈$70, was ¥1088, about 54% off) · ⏰ Valid Sep 11–Dec 31, 2026 · ⏰ No surcharge on weekends, Mid-Autumn Festival or National Day · ⏰ Refundable if unreserved
+**Deal price: ¥499** (≈$70, was ¥1088, about 54% off) · ⏰ Valid Sep 11–Dec 31, 2026 · ⏰ No surcharge on weekends or holidays · ⏰ Refundable if unreserved
 
-Inside the Phoenix City (凤凰城) community in Zengcheng, Guangzhou — a garden-style resort hotel next to the Science City area — the **Phoenix City Hotel** is offering a straightforward family bundle: **1 night in a premium double/twin room, buffet breakfast for 2 adults + 1 kid (under 1.2m), and dinner for 2 adults + 1 kid** at either the Vienna western restaurant or the Chinese restaurant. During the stay you also get the **indoor swimming pool, the kids' building-block play zone, and the kids' water park**.
+Inside the Phoenix City (碧桂园凤凰城） mega-community in Zengcheng, Guangzhou — on Guangyuan East Road by the Xintang section, next to the Science City area — the **Phoenix City Hotel** is a garden-style resort hotel that locals use as their default family staycation. This bundle is admirably straightforward: **1 night in a premium king or twin room, buffet breakfast for 2 adults + 1 kid (under 1.2m), and dinner for the same three** — your choice of the Vienna western restaurant or the Chinese restaurant. During the stay you also get the **indoor swimming pool, the kids' building-block play zone, and the kids' water park**, so the evening runs itself: dinner, a swim or a splash session, and no need to leave the community for anything.
+
+The headline policy is the one in the title: **weekends and holidays cost the same ¥499** — no Saturday uplift, which is precisely when Guangzhou families can actually use it. The trade-off is inventory rather than price: no-surcharge rooms are limited and go first-come-first-served, so a Saturday in November wants booking earlier than a Tuesday does.
+
+⚠️ **Booking mechanics:** you can reserve as late as **17:00 on the day of use** — unusually flexible — but for weekends, treat that as a fallback rather than a plan, since the limited no-surcharge allocation sells out first. The only blackout dates were Oct 2–3, 2026, already past; every remaining day through **Dec 31, 2026** is open. Unreserved vouchers refund anytime.
 
 **Packages**
-- Premium room, 1 night + buffet breakfast for 2A1C + dinner for 2A1C + indoor pool & kids' play zones — **¥499** (≈$70, was ¥1088)
+- Premium room (king or twin), 1 night + buffet breakfast for 2 adults + 1 kid (under 1.2m) + dinner for 2 adults + 1 kid (Vienna western restaurant or Chinese restaurant) + indoor pool, kids' block-play zone and kids' water park — **¥499** (≈$70, was ¥1088)
 
-**Terms:** No surcharge on weekends, Mid-Autumn Festival or National Day (limited rooms, first come first served). Reserve by 5pm on the day of use. Refundable if you never reserve. Blackout: Oct 2–3, 2026 already passed.
+**Good to know:** Phoenix City is one of Guangzhou's biggest residential resort communities, so the hotel sits inside a lived-in neighborhood rather than a resort enclave — supermarkets, cafés and local restaurants are all a short walk away if you want a second dinner option. Zengcheng is Guangzhou's eastern district; from Tianhe it's roughly an hour's drive, and the hotel is a common base for families pairing the stay with a day in the surrounding lychee-country hills.
 
 ---
 
 ## What guests say
 
-No guest reviews on this listing yet — it's a brand-new offer. The no-weekend-surcharge policy and the included dinner are the reasons to move fast if Guangzhou is on your list.
+No guest reviews on the booking platform for this listing yet — it went live for the Sep–Dec season in 2026. What's verifiable from the terms: both meals genuinely cover 2 adults + 1 child under 1.2m (many comparable bundles price the child separately), the no-surcharge promise covers weekends *and* holidays in writing, and same-day booking until 17:00 makes it a realistic spontaneous Friday-night escape rather than a plan-two-weeks-ahead commitment.
 
 ---
 

@@ -17,14 +17,16 @@ cover:
 
 **Deal price: Superior king/twin, 1 night + breakfast for two — ¥699** (≈$97, was ¥1,198, about 42% off) · Valid Oct 15 – Dec 31, 2026 · ⏰ refundable if unreserved, auto-refund on expiry
 
-The **Langham Hotel Xiamen** — the Langham Hospitality Group's art-forward address in Huli, steps from the **Wanda Plaza** shopping district — is on limited flash sale: a **40㎡ superior room** with **breakfast for two** and **free parking**, and notably **no weekend surcharge**. Check-in 14:00, checkout noon.
+The **Langham Hotel Xiamen** （厦门朗豪酒店， 4668 Xianyue Road, Huli) is the fashionable younger sibling of The Langham, London — the brand traces back to that 1865 grand hotel — and it wears the brief proudly: a working art collection runs through the public spaces (look for 《红苹果》 *Red Apple*, 《以梦为马》 and *Saint-Saëns' Swan*), the design theme is "scales and rhythm," and local Xiamen cultural details are woven into the decor. There are **321 rooms and suites** with full-height windows over the city; the superior rooms in this deal run about **40㎡**, which for Xiamen at this price is genuinely generous. The Place café runs an open-kitchen buffet with a 360° circular grill station.
+
+Location is the practical half of the appeal: inside the **Wanda Plaza** shopping district in Huli, near Wutong ferry terminal (the Kinmen ferry), and a short hop from **Wuyuan Bay Wetland Park** — the city's green lung, where families feed the swans, picnic and cycle — and the Wuyuan Bay yacht marina. It's an island-side base that works for both a Gulangyu day and a concert night: Xiamen's Fenghuang stadium district is close enough that the hotel runs **concert shuttle buses**, and one of the ¥999 tiers below exists purely for concert-goers.
+
+⚠️ **The quotas are real:** these are limited welfare-price allocations — **7 vouchers** for the ¥699 one-night tier, **2 vouchers** for the plain ¥999 tier, **10** for the concert-shuttle tier. When a tier's quota sells out, it's gone rather than repriced. Book by 23:59 the day before; check-in 14:00, check-out 12:00 — though guests report late check-out to 14:00 being granted on request. Weekends carry no surcharge.
 
 **Packages**
 - Superior king/twin, 1 night + breakfast for two — **¥699** (≈$97, was ¥1,198; limited to 7 vouchers)
 - Superior room, 2 nights (or 2 rooms × 1 night) + daily breakfast for 2 adults + 1 child — **¥999** (≈$139, was ¥2,124; limited to 2 vouchers)
 - Same 2-night package + concert round-trip shuttle bus — **¥999** (≈$139, was ¥2,124; limited to 10 vouchers)
-
-**Terms:** reserve by 23:59 the day before; check-in 14:00, check-out 12:00. Weekends carry no surcharge. Unreserved vouchers are refundable and auto-refund after expiry.
 
 Xialv Money-Saver Card holders save an extra ¥30.
 
@@ -32,7 +34,21 @@ Xialv Money-Saver Card holders save an extra ¥30.
 
 ## What guests say
 
-Merchant reviews are **100% positive** (38 reviews). "Excellent value, very satisfied! The package included breakfast for two and executive afternoon tea. My husband had to take our kid to school early and missed breakfast, so they packed bread, milk and fruit for him! The hotel also runs a shuttle to the JJ Lin concert with free bottled water." Another guest: "Good service — they even secretly cleaned my car windshield!" Expect polished, thoughtful service in a genuinely convenient location.
+**38 historical merchant reviews** on the booking platform. Representative guest reviews (translated from Chinese):
+
+> "An absolutely superb stay — the room is big and comfortable. If it comes up again I'm grabbing ten vouchers without blinking."
+> — 186****4870 · stayed Oct 2025
+
+> "The room feels spacious and comfortable, and we could delay check-out to 2 p.m. My favorite part is the big bathroom — a proper soak in the tub was pure bliss."
+> — 186****4870 · stayed Sep 2025
+
+> "We chose this hotel for a concert. From check-in to leaving on the fifth day, front-desk Cheng Lin looked after us like a personal butler — arranging, caring, reminding, everything. Housekeeping and front-desk Sun too — like family, like a spring breeze. In short: five-star hardware, five-star-plus software, a great location and excellent value."
+> — 朱***清 · stayed Dec 2024
+
+> "Excellent value, very satisfied! The package included breakfast for two and executive afternoon tea. My husband had to take our kid to school early and missed breakfast, so they packed bread, milk and fruit for him! The hotel also ran a shuttle to the JJ Lin concert with free bottled water."
+> — 你***友 · stayed Oct 2024
+
+*Reviews translated from Chinese; nicknames masked for privacy.*
 
 ---
 

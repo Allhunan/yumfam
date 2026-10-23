@@ -7,7 +7,7 @@ price: "¥999 / 2 nights (≈$139)"
 was_price: "¥1,599"
 coupon: "Xialv Money-Saver Card — ¥30 off this product + ¥50 welcome bonus on signup"
 valid_until: "2026-11-16"
-description: "Two nights in a garden-view room with daily breakfast for 2, a free first-day minibar, daily kids' activities and an open-air garden cinema."
+description: "Two nights at Wanda Realm Haitang Bay Sanya from ¥999 (≈$139, was ¥1,599): garden-view room with daily breakfast for two on a 435m private beach — or upgrade to a sea-view room with a hotpot set for two at ¥1,188. Valid through Nov 16, 2026; book 3 days ahead."
 cover:
   image: "https://img.xialv.com/uploads/2023/02/16/item_pic167653295163985.jpeg?imageView2/1/w/1050/h/588"
   alt: "Wanda Realm Haitang Bay Sanya — 2 Nights from ¥999"
@@ -15,32 +15,28 @@ cover:
 
 ![Wanda Realm Haitang Bay Sanya — 2 Nights from ¥999](https://img.xialv.com/uploads/2023/02/16/item_pic167653295163985.jpeg?imageView2/1/w/1050/h/588)
 
-**Deal price: ¥999 (≈$139) for 2 nights** (was ¥1,599 — 37% off) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
+**Deal price: ¥999 (≈$139) for 2 nights** (was ¥1,599 — 37% off) · Sea-view upgrade ¥1,188 with a hotpot set for two · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
-Two nights at Wanda Realm on Sanya's Haitang Bay (18 Haitang North Road) for less than ¥500 a night: a garden-view room, daily buffet breakfast for two, a free minibar on your first day, daily family activities, and an open-air cinema in the mountain-sea garden every evening. The package is currently in a flash sale and refundable anytime before use; National Day dates are bookable with a surcharge.
+On Haitang Bay — Sanya's long, quiet resort strip, about 55 minutes from Phoenix Airport — the **Wanda Realm Resort (三亚海棠湾万达嘉华度假酒店， 18 Haitang North Road)** works hard for its "high value on the bay" reputation: 463 rooms set in tropical gardens, a **435-meter private stretch of white sand** with a guarded swim area steps from the lobby, a **2,400㎡ pool complex** with its own water park and kids' club, and a Wanda cinema right next door for a rainy evening. Breakfast is at Huiwan restaurant and it's a proper spread — congee, soy milk and fried dough sticks alongside breads, egg tarts and cakes, with a cook-to-order bowl of Baoluo noodles if you want the Hainan flavor. Haitang Bay's other draw is next door in spirit: the world's largest single-building duty-free mall sits on this strip, and Haichang's Dream Ocean Night City is about 2 km away.
 
-**What's included** (¥999 tier)
-- Garden-view room for 2 consecutive nights
-- Daily buffet breakfast for 2
-- Free minibar on arrival day
-- Daily family activities
-- Daily open-air cinema in the mountain-sea garden
-- Island photo shoot (5 e-photos)
-- Shuttle bus + ticket discount to Yanoda Rainforest
-- Shuttle bus + discount at Haitang Bay Duty-Free Shopping Center
-- E-discount vouchers for Atlantis C-Show, Waterpark and Aquarium
-- 2-person yacht outing (not valid on public holidays)
+⚠️ **Book ahead — this one has a lead time:** reservations must be made by **18:00, three days before** your stay, so it's not a spontaneous-weekend product. The stay window closes **Nov 16, 2026**. Unreserved vouchers refund anytime.
 
-**Good to know:** A ¥1,188 tier upgrades you to a luxury sea-view room plus a 2-person hotpot set if you'd rather face the ocean.
+**Packages**
+- **Garden-view room, 2 consecutive nights — ¥999** (≈$139, was ¥1,599): daily buffet breakfast for 2
+- **Luxury sea-view room, 2 consecutive nights — ¥1,188** (≈$167, was ¥1,599): daily buffet breakfast for 2 + **one hotpot set meal for two**
+
+**Good to know:** both tiers are breakfast-only for food — the sea-view tier's included hotpot set is the one sit-down meal in either package, and it's the main reason to take the ¥189 step up if you'll eat in anyway; pure beach-and-breakfast trips lose nothing on the ¥999 tier. Rooms come with balconies and tubs; the garden-view rooms look over the tropical planting toward the sea, the sea-view rooms face it directly.
 
 ---
 
 ## What guests say
 
-This deal is new on the platform, so it has no guest reviews yet. Platform family-recommendation stats for this stay (small sample):
+No guest reviews on the booking platform for this listing yet. Platform family-recommendation stats for this stay (small samples, treat as directional):
 - Ages 3–6: 25% recommend (4 ratings)
 - Ages 7–9: 100% recommend (6 ratings)
 - Ages 10–12: 66.7% recommend (3 ratings)
+
+What's verifiable from the ground: the 435m private beach and the 2,400㎡ pool complex are the hotel's own, breakfast for two is included on both tiers and both nights, and the 3-day booking lead time is the one condition that actually shapes how you buy this — decide the weekend three days out, not the night before.
 
 ## 📸 Photos
 

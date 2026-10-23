@@ -15,25 +15,28 @@ cover:
 
 ![Longgu Shanfang hot spring suite, Hui'an](https://img.xialv.com/uploads/2025/01/25/item_pic1737777866736542.jpeg?imageView2/1/w/1050/h/588)
 
-**Deal price: hot-spring suite, 1 night — ¥488 (≈$69)** (was ¥988, 50% off) · Bookable Sep 23 – Dec 30, 2026 · ⏰ valid through Dec 30, 2026 · **no surcharge on weekends**
+**Deal price: hot-spring suite, 1 night — ¥488 (≈$69)** (was ¥988, 50% off) · Valid Sep 23 – Dec 30, 2026 · Book by 23:59 the day before · **No surcharge on weekends** · Refundable if unreserved, auto-refund on expiry
 
-**Longgu Shanfang** （惠安龙谷山房， south of Longgu Shanfang, Hui'an County, Quanzhou) is a forest hot-spring retreat that bundles everything a family day needs into one voucher: soak, play and eat without leaving the property.
+Hidden in the green hills of Julong Town, Huian, **Longgu Shanfang** （龙谷山房） is the quiet, classical-Chinese sibling of the Julong hot-spring resort next door: an antique-style courtyard inn wrapped in forest, where the air carries a measured **5,000 negative oxygen ions per cm³** and every corner — carved screens, stone paths, mist over the valley — looks like a period drama set. Families come for the slow version of a hot-spring weekend: wander the grounds and classical gardens by day, let the kids loose in the play zones, then soak the tiredness off in the evening.
 
-**What's included (2 adults + 2 kids under 1.4 m)**
+The soaking happens at the shared **Julong Hot Spring Park**, whose water is **metasilicic fluorinated spring water drawn from 1,200 meters underground**, spread across **30-plus pools in seven zones** — kids' splash area, Chinese-herbal pools, flower-petal pools, warm stone slabs and a hydrotherapy pool. Your suite is one of two Chinese-style options, **Heyue （荷月） or Qingfeng （清风）**, and the voucher covers the full family kit for **2 adults + 2 kids (under 1.4m)**: the suite, buffet breakfast, spring-park tickets, and the **Pinecone Tribe** kids' zone with its slides — plus the free in-resort shuttle and free parking.
+
+⚠️ **The family-math details:** weekends are genuinely flat — the only surcharge on the books was National Day (Oct 1–6, ¥150, already past). Upgrading to a family room costs **¥100** per voucher if you want the bigger layout. Extra children pay at the venue: breakfast ¥38 (under 1.4m) / ¥48 (above), spring park ¥88 per person, Pinecone Tribe ¥38 / ¥10. Stay window is 15:00 to 12:00 next day, and unused items in the bundle aren't refunded piecemeal.
+
+**What's included (2 adults + 2 kids under 1.4m)**
 - 1 night in a Heyue or Qingfeng suite
 - Buffet breakfast for 2 adults + 2 kids
-- Hot-spring park tickets for 2 adults + 2 kids
+- Julong Hot Spring Park tickets for 2 adults + 2 kids
 - Pinecone Tribe （松果部落） kids zone for 2 adults + 2 kids
-- Forest adventure + hot-spring water park with slides (10:00–22:00)
-- Free shuttle within the resort
+- Free shuttle within the resort + free parking
 
-Terms: refundable anytime before use; auto-refunded on expiry. Weekend stays carry **no surcharge**. National Day Oct 1–6 carries a ¥150/voucher surcharge; upgrading to a family room costs ¥100 (¥250 during National Day).
+**Good to know:** Longgu Shanfang and the Julong Hot Spring Park Hotel share the same spring park and Pinecone Tribe — the difference is the room. Pick the Park Hotel if you want a private tub in the room; pick Longgu Shanfang if you'd rather sleep in a quiet courtyard suite in the forest and walk to the pools. The inn is in Julong Town, Huangtang, Huian — roughly 40 minutes from Quanzhou city, an easy Xiamen weekend run.
 
 ---
 
 ## What guests say
 
-Newly listed — no guest reviews yet. The 50%-off launch price and zero weekend surcharge make it one of the best-value hot-spring family packages in Fujian right now.
+No guest reviews on the booking platform for this listing yet — it launched for the autumn season on Sep 23, 2026. What's verifiable from the terms: the ¥488 covers a suite (not a standard room) for a family of four with breakfast, park tickets and the kids' zone all in, the weekend price is flat in writing, and the family-room upgrade is a fixed ¥100 rather than a re-quote at the desk.
 
 ---
 
