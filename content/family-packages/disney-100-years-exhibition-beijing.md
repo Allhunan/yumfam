@@ -21,7 +21,7 @@ The China premiere of *Disney 100 Years of Wonder* is now open at Beijing Chaoya
 
 **What's included**
 
-- **Night session single ticket — ¥108 (≈$15)**, was ¥188. Entry 18:00–22:00 (last entry 21:00). ⚠️ **Night tickets are only valid through October 31, 2026** — 9 days left at this price.
+- **Night session single ticket — ¥108 (≈$15)**, was ¥188. Entry 18:00–22:00 (last entry 21:00). ⚠️ **Night tickets are only valid through October 31, 2026** — 8 days left at this price.
 - **Adult day ticket — ¥160 (≈$22)**, was ¥188. Valid through March 31, 2027.
 - **Child day ticket — ¥128 (≈$18)**, was ¥148. Valid through March 31, 2027. Child ticket covers kids up to 1.3 m.
 - Day sessions run 10:00–22:00 (last entry 21:00), daily.
