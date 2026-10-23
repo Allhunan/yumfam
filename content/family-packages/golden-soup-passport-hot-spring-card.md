@@ -13,8 +13,6 @@ cover:
   alt: "Golden Soup Passport hot-spring card — 28 hot springs across 9 provinces"
 ---
 
-![Golden Soup Passport hot-spring card — 28 hot springs across 9 provinces](https://img.xialv.com/uploads/2026/06/04/UEditor_img1780561126896797.jpg?imageView2/2/w/750)
-
 **Deal price: one soak each at 28 hot springs — ¥168** (≈$23, was ¥1,969, about 9% of list) · Valid May 13 – Dec 31, 2026, any day of the week · ⏰ refundable anytime if unreserved
 
 The **"Golden Soup Passport" (金汤护照)** is a returning bestseller for hot-spring season: one **¥168** real-name card covers **one visit each at 28 well-known hot-spring resorts across 9 provinces** — Fujian and Guangdong are the densest clusters, which makes it a natural fit for families based in the southeast. Think of it less as a single ticket and more as a winter soaking itinerary: Xiamen's Riyuegu, Fuzhou's Minggu pavilion inside the Hot Spring Museum, the cave springs and forest springs scattered through Fujian, then Qingyuan's Xilegu and Huizhou's Nankunshan Yunding over the border in Guangdong. At ¥168 for the lot, using even four or five venues already beats paying gate prices.

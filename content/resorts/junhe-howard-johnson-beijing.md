@@ -13,8 +13,6 @@ cover:
   alt: "Beijing Junhe Howard Johnson — Hot Spring Resort Deal"
 ---
 
-![Beijing Junhe Howard Johnson — Hot Spring Resort Deal](https://img.xialv.com/uploads/2026/08/25/item_pic1787638199541877.jpeg)
-
 **Deal price: from ¥598 (≈$82) for 1 night** · 2-night stays from ¥998 (≈$138) · Family rooms from ¥898 (≈$124) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 Hot-spring season is on (Sep 1, 2026 – Mar 15, 2027) at the Beijing Junhe Howard Johnson, a full-service resort hotel on the banks of the Chaobai River in Shunyi — near the Hanshiqiao Wetlands and Beijing International Flower Port. The headline number: **3,000㎡ of indoor and outdoor hot-spring pools, unlimited entry during your stay**. The base ¥598 package (about 40% off the ¥999 rack rate) bundles a 45㎡ deluxe room, **buffet breakfast for two, two hot-spring tickets**, two tickets to the **Sacred Deer Forest theme park** (deer, alpacas, family rides), an **alpaca-feeding pack** for the kids, plus free parking, Wi-Fi, and a football play area.

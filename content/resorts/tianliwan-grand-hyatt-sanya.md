@@ -13,8 +13,6 @@ cover:
   alt: "Sanya Tianliwan Grand Hyatt — 2 Nights Family Package"
 ---
 
-![Sanya Tianliwan Grand Hyatt — 2 Nights Family Package](https://img.xialv.com/uploads/2024/08/27/item_pic172473040301229.jpeg)
-
 **Deal price: from ¥1,188 (≈$164) for 3 days / 2 nights** · Up to sea-view Club room packages at ¥1,899 (≈$262) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 This is Hyatt's 2023 flagship in Sanya — a "one bay, one hotel" property on a pristine cove in Sanya Bay with its own private beach, a rare rocky coastline, and a signature **pink-sand beach** that the kids' photos will love. Rooms start at 50㎡ with balconies and bathtubs, and the resort runs a **2,800㎡ outdoor pool complex** (adult, kids' and whirlpool areas, 18m blue-whale slide, night light shows), an 800㎡ kids' camp for ages 3–12, a game/entertainment center and 24-hour gym. It's about 5 minutes from Tianya Haijiao and West Island, 7 km from the airport.

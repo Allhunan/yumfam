@@ -13,8 +13,6 @@ cover:
   alt: "Guangzhou Santori Hot Spring Manor — resort and pools"
 ---
 
-![Guangzhou Santori Hot Spring Manor — resort and pools](https://img.xialv.com/uploads/2026/09/08/item_pic1788831202993753.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 night + meals + pools — ¥598 (≈$84)** (was ¥1,200, 50% off) · Valid Sep 6 – Dec 31, 2026 · Saturdays +¥100/room · Refundable if unreserved
 
 Nicknamed **"Guangzhou's Little Greece"** and the "Oriental Santorini," the **Santori Hot Spring Manor** （圣托利温泉庄园， 112 Wenquan East Road, Conghua) is a blue-and-white Mediterranean fantasy planted in Guangzhou's historic hot-spring town, on the banks of the Liuxi River. The geology underneath is the real luxury: the manor is built over a **rare radon soda spring** — one of the uncommon spring types in China — rich in calcium, potassium, strontium and 20-plus other mineral elements, feeding **50-plus outdoor garden soaking pools** scented and themed by the day: rose, lemon, apple, milk, geranium. The grounds run to over 30,000㎡ with about 5,000㎡ of water areas, 100-plus rooms, a constant-temperature pool and a kids' water park.

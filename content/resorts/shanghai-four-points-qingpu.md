@@ -13,8 +13,6 @@ cover:
   alt: "Shanghai Four Points by Sheraton Qingpu New Town"
 ---
 
-![Shanghai Four Points by Sheraton Qingpu New Town](https://img.xialv.com/uploads/2026/09/08/item_pic178883991726633.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 2 nights for ¥699 (≈$97)** · 1 night with breakfast + afternoon tea ¥399 (≈$55) · Family-themed room 1 night with breakfast for 2 adults + 1 kid ¥499 (≈$69) · Business suite 1 night ¥699 (≈$97) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 A newly opened **Four Points by Sheraton in Shanghai's Qingpu New Town** is running a grand-opening promo: no weekend or holiday surcharge, and validity runs all the way to **28 February 2027**. All 149 rooms come with the brand's Comfort Bed, a 65-inch TV and a standalone shower. The 5th floor houses the all-day restaurant, lobby lounge and a beer bar.

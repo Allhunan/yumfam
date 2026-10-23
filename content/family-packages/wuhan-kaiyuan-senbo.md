@@ -13,8 +13,6 @@ cover:
   alt: "Wuhan Kaiyuan Senbo Resort — Autumn Harvest Stay"
 ---
 
-![Wuhan Kaiyuan Senbo Resort — Autumn Harvest Stay](https://img.xialv.com/uploads/2026/09/17/item_pic1789625557556421.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥699 (≈$97)** (was ¥1,988 — 3.6折, 64% off) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 Wuhan's Kaiyuan Senbo — an all-in-one waterpark-and-fantasy-island resort in Caidian District — is running its autumn-limited **"Harvest Battle"** event. One night in a superior garden-view room, **2 buffet breakfasts**, and **2 single-day tickets** of your choice: the indoor water park *or* Fantasy Island (the indoor kids' park). The package also throws in travel photography (3 retouched photos + a 15-second video), welcome fruit, mini-bar drinks, free self-service laundry, non-slip socks for Fantasy Island, and free locker use at the water park. Reserve by 19:59 on the day of use; refundable before use. Note holiday surcharges: +¥300/room-night on Mid-Autumn (Sep 25–26) and Oct 1, +¥500 on Oct 2–5, +¥200 on Oct 6.

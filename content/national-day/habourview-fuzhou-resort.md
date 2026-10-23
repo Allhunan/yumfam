@@ -13,8 +13,6 @@ cover:
   alt: "Fuzhou Habourview Fliport Resort — 2 Nights, Zero Holiday Surcharge"
 ---
 
-![Fuzhou Habourview Fliport Resort — 2 Nights, Zero Holiday Surcharge](https://img.xialv.com/uploads/2024/08/13/video_cover_pic1723537887462217.jpeg?imageView2/2/w/1050/h/588/q/75)
-
 **Deal price: ¥729 (≈$101)** (was ¥1,028) · No coupon needed — zero National Day surcharge · ⏰ National Day special — ends Oct 7
 
 Two nights in a seaside resort with zero holiday surcharge is rare — Habourview Fliport is holding the line for Mid-Autumn and National Day. You get a high-floor standard twin room, breakfast for 2 adults + 2 kids, a sea-view mini train, and 10+ free activities.

@@ -13,8 +13,6 @@ cover:
   alt: "Yujian Minnan Cultural Show — 1 Adult + 1 Child"
 ---
 
-![Yujian Minnan Cultural Show — 1 Adult + 1 Child](https://img.xialv.com/uploads/2026/09/18/item_pic1789714022600366.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥188 (≈$26)** (was ¥286) · ¥40 off orders over ¥101 → as low as ¥148 (≈$20) · ⏰ National Day special — ends Oct 7
 
 Yujian Minnan is Xiamen's love letter to its own culture — and the 'Gulangyu Homecoming Season' adds a new themed show, garden treasure hunts and full-park NPC interactions. One ticket covers 1 adult + 1 child (ages 6–13).

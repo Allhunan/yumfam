@@ -13,8 +13,6 @@ cover:
   alt: "Thai food festival buffet Xiamen — garden hotel buffet spread"
 ---
 
-![Thai food festival buffet Xiamen — garden hotel buffet spread](https://img.xialv.com/uploads/2026/07/16/item_pic1784171157371523.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 adult + 1 kid under 1.3 m lunch — ¥118 (≈$17)** (was ¥298, 2.7折) · Bookable Jul 22 – Oct 31, 2026, weekends only · ⏰ valid through Oct 31, 2026
 
 This is the deepest discount in today's batch. An established garden-style hotel on 虎园路 in central Xiamen is running a **Thai food-festival theme buffet** — seafood, snacks, and teppan-grilled skewers coming off the iron in rotation — and the headline price works out to **under 40% of the original ¥298**. Kids between 1.3 m and 1.4 m have their own ¥78 tier. Over 600 vouchers have been sold.

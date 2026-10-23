@@ -13,8 +13,6 @@ cover:
   alt: "Hangzhou Rotten Apple Land — Family Theme Park Tickets"
 ---
 
-![Hangzhou Rotten Apple Land — Family Theme Park Tickets](https://img.xialv.com/uploads/2023/03/15/item_pic_origin1678865377727816.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥99.9 (≈$14) single ticket** · 1 adult + 1 kid ¥129.9 (≈$18) · family (2 adults + 1 kid) ¥199.9 (≈$28) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 Rotten Apple Land (烂苹果乐园) sits right across from Hangzhou Paradise in Xiaoshan — an indoor-style family park built around **high-tech rides, live performance shows, and kids' career-play zones**. Think "mini Disneyland" vibes for a fraction of the price. One ticket-buying adult can bring **one child under 1.1m free**. Note: under-3s and kids under 1m can't do about half the rides, so it's best for ages 3+.

@@ -13,8 +13,6 @@ cover:
   alt: "Southeast Asia food festival buffet Xiamen — buffet spread"
 ---
 
-![Southeast Asia food festival buffet Xiamen — buffet spread](https://img.xialv.com/uploads/2026/09/17/item_pic1789637091672756.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: single buffet lunch ¥108 (≈$15), dinner ¥118 (≈$17)** (was ¥198, 5.5折) · Bookable Oct 9 – Dec 31, 2026, weekends only · ⏰ valid through Dec 31, 2026
 
 The "bringing the flavors of Southeast Asia to Xiamen's table" festival buffet (湖里区长浩路18号) leans into tropical comfort food — think satay grills, laksa and coconut desserts — and every dining adult is handed **one free hairy crab** during the festival. That's a crab bonus on top of a buffet that already runs at about half price.

@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Monster Power Sports Park — indoor trampolines and climbing tower"
 ---
 
-![Xiamen Monster Power Sports Park — indoor trampolines and climbing tower](https://img.xialv.com/uploads/2026/07/03/video_cover_pic1783066176642471.jpeg?imageView2/2/w/1050/h/588/q/75)
-
 **Deal price: one ticket, four zones, all-day play — from ¥59 (≈$8)** (was ¥188, about 32% of list) · Bookable through Oct 15, 2026 · ⏰ valid through Oct 15, 2026
 
 When the autumn rain hits Xiamen, this is the kind of place you'll be grateful for: a **4,000㎡ indoor sports playground over two floors**, right at Huli Park metro (Line 4 exit). One ticket gets you into all four zones with **40+ activities** — a full-category trampoline arena, the Monster Cube climbing tower, the Monster Grid zone, plus a crawling-pet and cute-pet house — with no time limit on the day ticket.

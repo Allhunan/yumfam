@@ -13,8 +13,6 @@ cover:
   alt: "Xihe Mountain Resort — 2 Nights + Amusement from ¥299"
 ---
 
-![Xihe Mountain Resort — 2 Nights + Amusement from ¥299](https://img.xialv.com/uploads/2026/09/29/deco_page_179064290217241.jpg)
-
 **Deal price: ¥299 (≈$41)** (was ¥999) · Book by Sep 30 for a free park train + slide ticket · ⏰ National Day special — ends Oct 7
 
 Xihe Mountain is the 'tea village' hideaway you've seen in music videos — and autumn is its best season. The Minnan cultural life festival runs through October: tea tasting, intangible-heritage performances, rice-field activities, plus seas of rice, tea and flowers to wander.

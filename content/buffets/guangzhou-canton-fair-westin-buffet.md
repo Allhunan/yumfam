@@ -13,8 +13,6 @@ cover:
   alt: "Westin Pazhou Guangzhou — Canton Bazaar buffet"
 ---
 
-![Westin Pazhou Guangzhou — Canton Bazaar buffet](https://img.xialv.com/uploads/2021/04/28/video_cover_pic1619559061945336.jpeg?imageView2/2/w/1050/h/588/q/75)
-
 **Deal price: lunch 2 adults + 1 child — ¥299 (≈$42)** · **dinner 2 adults + 2 kids — ¥499 (≈$70)** · was ¥1,298 · Bookable May 9 – Oct 14, 2026, any day · ⚠️ **sale ends soon — valid through Oct 14, 2026**
 
 The **Westin Pazhou** （广交会威斯汀酒店， 1F, 681 Fengpu Middle Road, Haizhu, inside the Canton Fair Complex Area C) serves **100+ dishes** at its Canton Bazaar buffet — at up to 76% off the ¥1,298 list price. Directly on the metro line with 3 hours of free parking, so lunch blends easily into a day of sightseeing. Dinner runs 17:30–21:30.

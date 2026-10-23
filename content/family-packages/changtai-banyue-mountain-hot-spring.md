@@ -13,8 +13,6 @@ cover:
   alt: "Banyue Mountain Hot Spring — Changtai"
 ---
 
-![Banyue Mountain Hot Spring — Changtai](https://img.xialv.com/uploads/2022/04/25/video_cover_pic1650861778872735.jpeg?imageView2/2/w/1050/h/588/q/75)
-
 **Deal price: 1 adult + 1 child hot-spring ticket — ¥189 (≈$27)** (was ¥399, 48% off) · Bookable Jun 23 – Dec 31, 2026, any day of the week · ⏰ valid through Dec 31, 2026
 
 Hidden in a forested valley in Changtai （长泰半月山温泉）, about an hour's drive from Xiamen, Banyue Mountain is a **strontium-rich soda spring** （富锶苏打汤泉） done in wild-luxury style — soaking pools tucked into mountain woodland rather than concrete blocks. One ticket covers **1 adult plus 1 child**, usable **weekdays and weekends** (open 13:00–23:00).

@@ -13,8 +13,6 @@ cover:
   alt: "Tianmu Dusit Thani Hotel — garden-view room"
 ---
 
-![Tianmu Dusit Thani Hotel — garden-view room](https://img.xialv.com/uploads/2025/10/28/item_pic1761636787748649.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 night + breakfast + private hot-spring soak — from ¥599 (≈$84)** (was ¥1,999, 30% of list) · Bookable daily Oct–Dec 2026 · ⏰ valid through Dec 31, 2026
 
 An autumn hot-spring escape in the bamboo forests of Tianmu Mountain, about 60 minutes from downtown Hangzhou. Dusit Thani's Thai-hospitality property pairs a spacious **50㎡ garden-view twin room with balcony** and **daily breakfast for two** with a **30-minute private outdoor wellness hot-spring soak** — autumn in the mountains, steaming water, nobody queuing behind you.

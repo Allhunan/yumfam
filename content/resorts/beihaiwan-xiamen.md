@@ -13,8 +13,6 @@ cover:
   alt: "Beihaiwan Hotel Xiamen — 2 Nights + Water Parks, Zero Surcharge"
 ---
 
-![Beihaiwan Hotel Xiamen — 2 Nights + Water Parks, Zero Surcharge](https://img.xialv.com/uploads/2026/09/24/cover_pic1790244091572430.jpeg?imageView2/2/w/600/h/600/q/75)
-
 **Deal price: ¥629 (≈$87)** (was ¥1,999) · Zero National Day surcharge · ⏰ National Day special — ends Oct 7
 
 Beihaiwan packs a lot into two nights: a terrace room, two water/amusement parks, and daily breakfast for the family — with zero surcharge over National Day.

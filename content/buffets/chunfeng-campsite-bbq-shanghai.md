@@ -13,8 +13,6 @@ cover:
   alt: "Chunfeng Campsite BBQ — Shanghai"
 ---
 
-![Chunfeng Campsite BBQ — Shanghai](https://img.xialv.com/uploads/2026/09/14/item_pic1789371219886755.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥39.9 (≈$5.50) kids early-bird** · Adult early-bird ¥88 (≈$12) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 Chunfeng Campsite runs two outdoor BBQ campsites in Shanghai — Chunfeng Heyuan in Minhang (Luheng Road) and Chunfeng Jiayuan in Jiading (Jiabei Country Park) — and this early-bird ticket is an all-you-can-eat BBQ with **30+ ingredients**, plus a pile of free playground games for the kids. A great National Day outdoor option.

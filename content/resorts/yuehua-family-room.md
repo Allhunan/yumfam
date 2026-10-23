@@ -13,8 +13,6 @@ cover:
   alt: "Yuehua Hotel — Courtyard Family Room"
 ---
 
-![Yuehua Hotel — Courtyard Family Room](https://img.xialv.com/uploads/2026/09/29/cover_pic1790650525447388.jpeg?imageView2/2/w/600/h/600/q/75)
-
 **Deal price: ¥599 (≈$83)** (was —) · 2026 National Day Huli subsidy applied · ⏰ National Day special — ends Oct 7
 
 Yuehua's Haiyu Building courtyard family room is built for parents traveling with kids: a themed room, meals for two, a photo shoot, and a petting zoo — right next to the Minnan Culture Park.

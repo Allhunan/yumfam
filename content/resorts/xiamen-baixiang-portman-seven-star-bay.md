@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Baixiang Portman Seven Star Bay hotel"
 ---
 
-![Xiamen Baixiang Portman Seven Star Bay hotel](https://img.xialv.com/uploads/2026/10/14/item_pic1791948880942440.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: from ¥899** (≈$126, was ¥2,399, about 63% off) · Headline 2-night bundle **¥1,299** · Valid through Apr 30, 2027 · ⏰ refundable if unreserved, auto-refund on expiry
 
 "Apart from the price, there's nothing wrong with it" — that's the running verdict on the **Xiamen Baixiang Portman**, and at these Double-11 rates the price objection mostly evaporates. The resort does palace-scale grandeur properly: manicured grounds, a proper beach within reach, and service reviewers call out by name. The headline bundle covers **2 nights in a superior room**, a **weekday buffet dinner for two**, **daily buffet breakfast**, and **2 mini-club activities for the kids**. Autumn holidays and weekends carry **no surcharge**.

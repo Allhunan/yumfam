@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Millennium Harbourview Hotel buffet restaurant"
 ---
 
-![Xiamen Millennium Harbourview Hotel buffet restaurant](https://img.xialv.com/uploads/2026/07/13/item_pic1783912463470466.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 adult + 1 kid buffet (lunch or dinner) — ¥198 (≈$28)** (was ¥255, about 51% of list) · Bookable through Dec 31, 2026 · ⏰ valid through Dec 31, 2026 (not usable Dec 24–25)
 
 The **Millennium Harbourview** (海景千禧大酒店) sits right by the Zhonghua City shopping district — take Metro Line 1 to Zhenhai Road station and walk over. Its all-you-can-eat buffet voucher covers **lunch or dinner**, usable **Friday through Sunday and public holidays with no surcharge** — a rare no-weekend-markup deal.

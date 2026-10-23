@@ -13,8 +13,6 @@ cover:
   alt: "voco Sanya Bay — beachfront hotel exterior"
 ---
 
-![voco Sanya Bay — beachfront hotel exterior](https://img.xialv.com/uploads/2026/08/28/item_pic1787906197102750.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 2 nights, superior king/twin with balcony — ¥1,288** (≈$179, was ¥1,888, about 32% off) · Valid Aug 29 – Nov 30, 2026 · ⏰ refundable if unreserved, auto-refund on expiry
 
 **voco Sanya Bay** — the IHG brand's easygoing beachfront address on Sanya Bay — is running an off-peak island escape: a **balcony room for 2 nights**, **breakfast for 2 adults + 2 kids** (under 1.4m), a **fresh-coconut welcome for two**, **first-day minibar**, and a stack of on-property perks. Check-in is a relaxed 16:00, checkout noon.

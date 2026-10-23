@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Tianyuan Hotel seaview buffet"
 ---
 
-![Xiamen Tianyuan Hotel seaview buffet](https://img.xialv.com/uploads/2026/01/04/item_pic176750521096669.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: lunch, 1 adult + 1 kid under 1.2 m — ¥168 (≈$24)** (was ¥298, 27% off) · Bookable Jan 15 – Dec 31, 2026 · ⏰ valid through Dec 31, 2026 · **no surcharge on weekends**
 
 **Xiamen Tianyuan Hotel** （厦门天元酒店， 1813 Huandao East Road, Siming — the Huandao Road Convention Center branch, 1F Taste all-day restaurant) serves a seaview buffet with seafood, salmon, pan-seared foie gras and steak, plus a mini hot-pot station for cooler days. Every adult may bring **1 kid under 1.2 m free**. 400+ vouchers already sold.

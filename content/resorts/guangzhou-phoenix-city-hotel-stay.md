@@ -12,8 +12,6 @@ cover:
   alt: "Guangzhou Phoenix City Hotel"
 ---
 
-![Guangzhou Phoenix City Hotel](https://img.xialv.com/uploads/2025/04/15/item_pic1744696526408573.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥499** (≈$70, was ¥1088, about 54% off) · ⏰ Valid Sep 11–Dec 31, 2026 · ⏰ No surcharge on weekends or holidays · ⏰ Refundable if unreserved
 
 Inside the Phoenix City (碧桂园凤凰城） mega-community in Zengcheng, Guangzhou — on Guangyuan East Road by the Xintang section, next to the Science City area — the **Phoenix City Hotel** is a garden-style resort hotel that locals use as their default family staycation. This bundle is admirably straightforward: **1 night in a premium king or twin room, buffet breakfast for 2 adults + 1 kid (under 1.2m), and dinner for the same three** — your choice of the Vienna western restaurant or the Chinese restaurant. During the stay you also get the **indoor swimming pool, the kids' building-block play zone, and the kids' water park**, so the evening runs itself: dinner, a swim or a splash session, and no need to leave the community for anything.

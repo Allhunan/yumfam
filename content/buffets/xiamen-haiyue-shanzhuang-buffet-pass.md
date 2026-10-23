@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Haiyue Shanzhuang buffet — seaside restaurant and buffet spreads"
 ---
 
-![Xiamen Haiyue Shanzhuang buffet — seaside restaurant and buffet spreads](https://img.xialv.com/uploads/2026/09/22/item_pic179006922131683.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 5-visit buffet pass — from ¥666 (≈$93)** (was ¥1888, about 36% of list) · Bookable through Jan 31, 2027 · ⏰ valid through Jan 31, 2027 (not usable Dec 24)
 
 The **Haiyue Shanzhuang** (海悦山庄) sits on Xiamen's Huandao South Road with mountain-and-sea garden views — a national top-100 family resort. Its buffet pass covers **5 visits** of all-you-can-eat with **100+ dishes**, and it's **usable on weekends and public holidays** with no surcharge. Group-buy it with family or friends and each visit works out to as little as ¥133 (≈$18) per adult+kid lunch.

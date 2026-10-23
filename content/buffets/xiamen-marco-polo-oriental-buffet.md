@@ -12,8 +12,6 @@ cover:
   alt: "Xiamen Marco Polo Oriental Hotel buffet"
 ---
 
-![Xiamen Marco Polo Oriental Hotel buffet](https://img.xialv.com/uploads/2026/10/19/item_pic1792401772044789.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥1,380 for 10** — works out to **¥138/person** (≈$19, was ¥198) · ⏰ Valid through Jan 31, 2027 · ⏰ No surcharge on weekends or public holidays
 
 The **Marco Polo Oriental Hotel's buffet** has been a Xiamen landmark for over 20 years, and in Xiamen "Marco Polo" is practically shorthand for its **Napoleon pastry** — the flaky, cream-layered signature that fans come back for again and again. The spread runs to a hundred-plus dishes: **steamed seafood** (shrimp, mussels, oysters, scallops, clams — picked fresh and steamed to order), **unlimited sashimi** from the hotel's own Japanese restaurant chefs, a **teppanyaki grill station**, and every lunch guest gets a complimentary **Buddha Jumps Over the Wall** (佛跳墙) soup. Each adult may bring **one child under 1.2m free**.

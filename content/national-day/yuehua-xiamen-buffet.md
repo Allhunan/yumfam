@@ -13,8 +13,6 @@ cover:
   alt: "Yuehua Hotel Buffet — Xiamen Family Favorite"
 ---
 
-![Yuehua Hotel Buffet — Xiamen Family Favorite](https://img.xialv.com/uploads/2026/01/26/item_pic1769417369560284.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥169 (≈$23)** (was ¥240) · ¥50 off orders over ¥151 → lunch ¥119, dinner ¥179 · ⏰ National Day special — ends Oct 7
 
 Yuehua pairs a solid hotel buffet with a huge garden the kids can run around in — the combo parents actually want. One ticket covers 1 adult + 1 child (under 1.3m), and there's no holiday surcharge over National Day.

@@ -12,8 +12,6 @@ cover:
   alt: "Qiandaohu Powei Yiqu Resort"
 ---
 
-![Qiandaohu Powei Yiqu Resort](https://img.xialv.com/uploads/2026/04/27/item_pic_origin177728395113577.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: from ¥299/night** (≈$42, was ¥899) · ⏰ Valid through Jan 1, 2027 · ⏰ No surcharge on weekends or New Year's Day · ⏰ Limited free upgrade to family/parent-child rooms
 
 The **Powei Yiqu Resort** is French group **Pierre & Vacances' (太阳季)** brand-new resort in **Qiandaohu's Alpha City** — a futuristic island-style complex of four modern buildings on the Pearl Peninsula, where most rooms come with private balconies facing the lake. Dining covers several restaurants serving local Qiandaohu cuisine, and the resort packs in a **kids' park, water world, gym, chess rooms and table tennis**. The headline bundle: **4 nights with 3 meals a day for ¥699** — a stay where you never have to think about where to eat.

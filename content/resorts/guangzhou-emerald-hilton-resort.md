@@ -13,8 +13,6 @@ cover:
   alt: "Guangzhou Emerald Hilton"
 ---
 
-![Guangzhou Emerald Hilton](https://img.xialv.com/uploads/2022/03/31/item_pic_origin1648697427562729.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥799 (≈$111) for 2 adults + 2 kids, 1 night with dinner + breakfast buffets** · 2 nights with breakfast ¥899 (≈$125) · Dinner + breakfast, 1.2 m kids ×2 allowed ¥899 · Dinner + breakfast, 1.4 m + 1.2 m kids ¥999 (≈$139) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 The **Emerald Hilton in Guangzhou's Huangpu Science City** packs a whole resort day into one stay: forest hot-spring pools plus an outdoor sauna room, **indoor and outdoor pools**, an indoor kids' playground, a sauna, and a themed **dinner buffet** with 8 kinds of seafood — Norwegian air-freighted salmon and tuna, unlimited thick-cut sashimi, flame-grilled salmon sushi and 10+ desserts. Book early: the **first 8 rooms each day get a free upgrade** to a deluxe room. Metro Line 21 Science City station is a 5-minute walk; Line 6 Xiangang is 10 minutes on foot.

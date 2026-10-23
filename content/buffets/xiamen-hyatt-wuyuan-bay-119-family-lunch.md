@@ -13,8 +13,6 @@ cover:
   alt: "Hyatt Regency Xiamen Wuyuan Bay buffet lunch"
 ---
 
-![Hyatt Regency Xiamen Wuyuan Bay buffet lunch](https://img.xialv.com/uploads/2025/12/24/item_pic1766541435569520.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: weekday lunch, 1 adult + 1 kid under 6 — ¥119 (≈$17)** (was ¥198, 50% off) · Bookable Oct 10, 2026 – Feb 27, 2027 · ⏰ valid through Feb 27, 2027
 
 **Hyatt Regency Xiamen Wuyuan Bay** （厦门五缘湾凯悦酒店， near the Bayview City mall, Huli, Xiamen) runs a Double-11 early-bird deal on its buffet lunch: seafood hot dishes, teppanyaki grills, sweet sashimi and more — eat as much as you like. 500+ vouchers already sold.

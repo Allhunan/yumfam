@@ -13,8 +13,6 @@ cover:
   alt: "Qiandaohu JunTing Hotel — guest room"
 ---
 
-![Qiandaohu JunTing Hotel — guest room](https://img.xialv.com/uploads/2021/01/04/UEditor_img1609742760345117.jpg?imageView2/2/w/750)
-
 **Deal price: 1 night + 3 buffet meals for two — ¥239** (≈$33, was ¥666, about 36% of list) · Valid Sep 8 – Dec 31, 2026 · ⏰ refundable if unreserved
 
 The **JunTing Hotel** sits on the central-lake "Fish Street" of Qiandaohu (Thousand-Islet Lake), about 20 minutes from the high-speed rail station — and this package is built for slow family travel: a room, **three buffet meals a day** (breakfast, lunch 11:30–13:00, dinner 17:00–18:30), plus a stack of local freebies. The family room sleeps three (one king + one double bed, 40㎡) with a lake-view twin option, free Wi-Fi, free parking, an outdoor kids playground, ping-pong room and self-service laundry.

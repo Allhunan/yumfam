@@ -13,8 +13,6 @@ cover:
   alt: "Wuyuan Mingyu Hotel — Huizhou-style courtyard hotel"
 ---
 
-![Wuyuan Mingyu Hotel — Huizhou-style courtyard hotel](https://img.xialv.com/uploads/2026/05/01/item_pic1777616857226853.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 night in a Huizhou-style courtyard hotel + breakfast, from ¥299 (≈$42)** (was ¥699, about 43% of list) · Bookable through Dec 31, 2026, weekends included · ⏰ valid through Dec 31, 2026
 
 A first for this site: Jiangxi's Wuyuan — the "most beautiful countryside in China" county, famous for its rapeseed fields and white-walled Huizhou villages. Mingyu Hotel sits **right inside the Wangkou 4A scenic area**, wrapped by two rivers, built as a Huizhou-style courtyard with the classic "thousand-gold gatehouse, four-tael house" (千金门楼、四两屋) layout. The hotel even has its own **Hui-carving art museum** by master Yu Youhong, with an interactive experience zone and evening guided tours (8:00 pm).

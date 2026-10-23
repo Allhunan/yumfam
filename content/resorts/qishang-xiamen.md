@@ -13,8 +13,6 @@ cover:
   alt: "Qishang Hotel Xiamen — Waterside Family Suite, 2 Nights"
 ---
 
-![Qishang Hotel Xiamen — Waterside Family Suite, 2 Nights](https://img.xialv.com/uploads/2026/09/21/cover_pic1789978190967392.jpeg?imageView2/2/w/600/h/600/q/75)
-
 **Deal price: ¥4,588 (≈$637)** (was ¥5,328) · 2026 National Day Huli subsidy applied · ⏰ National Day special — ends Oct 7
 
 Qishang's waterside family suite is a two-night escape designed around kids: a fun-themed one-bedroom suite with a huge private terrace, English afternoon tea, buffet breakfast, and a spa soaking pool.

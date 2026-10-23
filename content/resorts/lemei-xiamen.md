@@ -13,8 +13,6 @@ cover:
   alt: "Le Meridien Xiamen — Balcony Room + Family Perks"
 ---
 
-![Le Meridien Xiamen — Balcony Room + Family Perks](https://img.xialv.com/uploads/2026/09/29/cover_pic1790653626422641.jpeg?imageView2/2/w/600/h/600/q/75)
-
 **Deal price: ¥668 (≈$93)** (was ¥1,999) · ¥100 subsidy → as low as ¥568 (≈$79) · ⏰ National Day special — ends Oct 7
 
 Le Méridien's family package centers on a garden-view balcony room, with breakfast covering 2 adults + 2 kids (under 12), plus meal vouchers and outdoor kids' park tickets.

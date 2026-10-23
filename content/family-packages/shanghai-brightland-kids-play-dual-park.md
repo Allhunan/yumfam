@@ -12,8 +12,6 @@ cover:
   alt: "Shanghai Brightland kids' play park"
 ---
 
-![Shanghai Brightland kids' play park](https://img.xialv.com/uploads/2026/10/08/item_pic1791451722078789.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: from ¥59** (≈$8) · ⏰ Valid Oct 9–Dec 31, 2026 · ⏰ Usable on weekends and public holidays, no reservation or ticket exchange needed · ⏰ Refundable anytime
 
 **Brightland (耀心岛)** is Shanghai's indoor kids' play-park chain — climbing structures, slides, ball pits and role-play zones — with branches in Qingpu and at the LCM mall in Pudong. This offer pairs it with the **Four Seasons Ice & Snow World** (四季冰雪乐园) in Qingpu, so one card covers a play park and a snow park in the same trip.

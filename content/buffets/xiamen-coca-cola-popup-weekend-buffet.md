@@ -13,8 +13,6 @@ cover:
   alt: "Coca-Cola pop-up weekend buffet Xiamen — buffet spread"
 ---
 
-![Coca-Cola pop-up weekend buffet Xiamen — buffet spread](https://img.xialv.com/uploads/2026/08/24/item_pic178756405216554.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 adult + 1 kid under 1.4 m, lunch or dinner — ¥158 (≈$22)** (was ¥298, 5.4折) · Bookable Aug 29 – Oct 31, 2026, weekends only · ⏰ valid through Oct 31, 2026
 
 A fun one for families: this Xiamen weekend buffet (湖里区南山冠军路6-13号) has teamed up with Coca-Cola for a **pop-up edition** — Coca-Cola–themed dishes, **kiln-roasted pizza** from a live oven, and unlimited **limited-edition Coca-Cola mocktails**. Dinner unlocks the bigger guns: **crayfish and herb-grilled lamb chops from the teppan station**.

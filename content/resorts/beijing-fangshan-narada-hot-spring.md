@@ -13,8 +13,6 @@ cover:
   alt: "Beijing Fangshan Narada Resort — Hot Spring Stay"
 ---
 
-![Beijing Fangshan Narada Resort — Hot Spring Stay](https://img.xialv.com/uploads/2025/11/10/item_pic1762765610817644.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥759 (≈$105) for 1 night** · 2 nights ¥1,399 (≈$193) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 Narada Resort sits in Beijing's Fangshan foothills, and the deal is built around the **hot spring center**: your package includes **double tickets with unlimited entry during your stay**, therapeutic function pools, and an **outdoor spring** that reviewers call the highlight on a cold day. The **Lan Jing superior room** is new, big and quiet — breakfast for **2 adults + 1 kid** is included.

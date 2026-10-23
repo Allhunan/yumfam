@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Science Museum — exhibition halls"
 ---
 
-![Xiamen Science Museum — exhibition halls](https://img.xialv.com/uploads/2026/09/30/item_pic179076546452388.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: multi-hall tickets from ¥80 (≈$11)** · 4-hall adult ticket **¥139** (≈$20) / discounted **¥119** (≈$17) · Valid Oct 13 – Nov 30, 2026 · **Tuesday–Sunday only** · Buy-and-use, refundable anytime, auto-refund on expiry
 
 The **Xiamen Science Museum** （厦门科技馆， 95 Tiyu Road, Siming — inside the Xiamen Culture & Arts Center) is a classic family day out, and these combo tickets bundle its headline halls at a discount. The **4-hall ticket** covers the **main exhibition hall, the Sea Monster exhibition, the kids' zone and the flying cinema**; the current **Mars exhibition** is the star draw. One combo even includes the **Chengyi Nature Exploration Museum** halls for a full multi-museum day.

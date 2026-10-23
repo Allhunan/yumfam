@@ -13,8 +13,6 @@ cover:
   alt: "Qiyun Mountain Resort Hotel — resort view"
 ---
 
-![Qiyun Mountain Resort Hotel — resort view](https://img.xialv.com/uploads/2026/09/14/video_cover_pic1789352855415197.jpeg)
-
 **Deal price: 2 nights + 2-person scenic combo for ¥839 (≈$118)** (was ¥1,199) · Bookable Sep 16 – Dec 31, 2026, no weekend surcharge · ⏰ valid through Dec 31, 2026
 
 Qiyun Mountain （齐云山， Xiuning County, Huangshan) is in peak autumn sea-of-clouds season, and the resort hotel is running its **"shaiqiu" (晒秋） harvest-season promo**: **no surcharge on weekends**, plus a **free room upgrade** on non-holiday stays (mention it when booking).

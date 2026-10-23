@@ -13,8 +13,6 @@ cover:
   alt: "Foshan Marriott Zhen Chu restaurant — dinner buffet"
 ---
 
-![Foshan Marriott Zhen Chu restaurant — dinner buffet](https://img.xialv.com/uploads/2026/01/08/item_pic1767865855336472.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: dinner for 1 adult + 1 kid — ¥279 (≈$39)** (was ¥318) · **2 adults + 2 kids — ¥529** (≈$75) · Valid Jan 15, 2026 – Jan 15, 2027 · **usable Wednesdays, Thursdays and Sundays only**, 18:00–21:00
 
 A Marriott-grade family dinner by **Qiandeng Lake** in Foshan's Nanhai district — right on the Guangzhou–Foshan metro line. The **Zhen Chu Western Restaurant** （臻厨西餐厅， 5F, 丽致汇广场， 38 Haiba East Road) serves around **100 land-and-sea dishes** at its dinner buffet, at roughly 12% off the door price — and the value jumps on the 2-adult-2-kid bundle.

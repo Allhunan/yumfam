@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Fantawild Holiday Hotel — family hotel with theme park package"
 ---
 
-![Xiamen Fantawild Holiday Hotel — family hotel with theme park package](https://img.xialv.com/uploads/2026/06/30/item_pic17828114576894.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 night + 2-day unlimited park tickets for 2 — from ¥999 (≈$141)** (was ¥1,399, ~29% off) · Bookable Sep 16 – Oct 31, 2026 · ⏰ valid through Oct 31, 2026
 
 A turnkey theme-park weekend for two: the Xiamen Fantawild Holiday Hotel (同安区石浔南路1111号), a newly opened family hotel ranked among Fujian's top 20 family resorts, bundles a **1-night stay with breakfast** and **unlimited 2-day entry for 2 to Dream Kingdom (梦幻王国) or Oriental Heritage (东方神画)** — Xiamen's answer to the Disney two-day playbook, minus the flight.

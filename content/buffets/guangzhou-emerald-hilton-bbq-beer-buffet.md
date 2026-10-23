@@ -13,8 +13,6 @@ cover:
   alt: "Guangzhou Emerald Hilton buffet — Ice BBQ & Beer Food Festival spread"
 ---
 
-![Guangzhou Emerald Hilton buffet — Ice BBQ & Beer Food Festival spread](https://img.xialv.com/uploads/2022/08/07/UEditor_img1659836923403333.jpg?imageView2/2/w/750)
-
 **Deal price: 1 adult + 1 kid lunch buffet — from ¥218** (≈$30, was ¥416, about 53% of list) · Valid Jul 10 – Nov 30, 2026 · **weekends only (Sat/Sun), no surcharge** · ⏰ refundable anytime if unreserved
 
 The **Guangzhou Emerald Hilton** (28 Ningcai Road, Science City, Huangpu District) is running its **"Ice BBQ & Beer Food Festival"** theme buffet: **charcoal-grilled oysters, thick-cut salmon, grilled skewers, sliced roast beef** and **free-flow drinks** across the hall. With 40+ vouchers already grabbed, it's the weekend family table locals are booking right now.

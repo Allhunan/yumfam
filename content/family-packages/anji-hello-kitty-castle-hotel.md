@@ -13,8 +13,6 @@ cover:
   alt: "Anji Hello Kitty Castle Hotel"
 ---
 
-![Anji Hello Kitty Castle Hotel](https://img.xialv.com/uploads/2023/06/13/video_cover_pic1686652880718828.jpeg)
-
 **Deal price: 1 night + 2 Hello Kitty Park adult tickets with 2-day unlimited entry — ¥699 (≈$98)** (was ¥1,098) · Currently bookable and reservable (the merchant page shows no end date — book while it's live)
 
 The **Anji Yinjun Jinjiang Castle Hotel** （安吉银润锦江城堡酒店， 8 Tiandao, Anji, Huzhou) is every kid's fantasy base camp: a literal castle with a **covered walkway straight into Hello Kitty Park**, and the headline package includes **adult tickets with unlimited re-entry across 2 days** — arrive Friday afternoon, play Friday and Saturday, and never queue twice.

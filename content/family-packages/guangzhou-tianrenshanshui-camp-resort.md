@@ -13,8 +13,6 @@ cover:
   alt: "Tianrenshanshui camp resort, Conghua — tent and cabin stay"
 ---
 
-![Tianrenshanshui camp resort, Conghua — tent and cabin stay](https://img.xialv.com/uploads/2026/10/13/item_pic179187545066351.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1-night camp stay + meals + park tickets — ¥499 (≈$70)** (was ¥699, ~29% off) · Valid Oct 13, 2026 – Jan 31, 2027, usable daily · Refundable anytime if unreserved
 
 A proper outdoorsy family escape in Guangzhou's Conghua hills: the **Tianrenshanshui Valley Camp** （天人山水度假区·溪谷营地） Double-11 promo packs one night in your choice of **sailing tent, safari tent, Chinese-style RV (bunk beds) or wooden cabin**, plus breakfast and a proper dinner for two (fish-head hotpot with Xufu braised rice at 清集市）, **Earth Art Park tickets for 2 adults + 1 kid, a Shaxi reservoir sightseeing cruise and the shuttle bunny cart**. Mornings come with free mindfulness exercise (yoga / baduanjin), middays with a free sound-bowl meditation session, and **weekends and holidays add a nature-study activity (3 options, for 2 adults + 1 kid)**.

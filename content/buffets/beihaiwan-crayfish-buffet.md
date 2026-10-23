@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Beihaiwan — 'Crayfish Festival' Buffet"
 ---
 
-![Xiamen Beihaiwan — 'Crayfish Festival' Buffet](https://img.xialv.com/uploads/2026/05/29/item_pic1780026556982731.jpeg)
-
 **Deal price: from ¥118 (≈$16) for 1 adult + 1 kid (lunch)** · 2 adults + 2 kids lunch ¥216 (≈$30) · Dinner from ¥138 (≈$19) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 The Beihaiwan Howard Johnson Wanda Plaza (Jimei District, Xiamen — ranked among the city's Top 10 family resorts) is running a "Crayfish Festival" themed buffet, and the crayfish situation is gloriously over the top: **10+ flavors, all-you-can-eat, made fresh to order** — iced/chilled crayfish, spicy, garlic, curry, steamed, braised, thirteen-spice, tom yum, bo-bo chicken style, even crayfish nigiri and hand rolls. Beyond the crayfish stations there's chilled seafood, live grilling, a sushi bar, hot dishes and **dozens of desserts** (guests rave about the dessert spread enough to call it "an afternoon tea after the buffet").

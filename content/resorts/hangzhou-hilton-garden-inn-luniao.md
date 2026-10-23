@@ -13,8 +13,6 @@ cover:
   alt: "Hilton Garden Inn Hangzhou Luniao"
 ---
 
-![Hilton Garden Inn Hangzhou Luniao](https://img.xialv.com/uploads/2022/10/25/item_pic1666678506481716.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥499 (≈$69) for 1 night + breakfast for two + 2 tickets to Wangweishan adventure park** · + Xianlongxia rafting instead ¥659 (≈$92) · + intangible-heritage bamboo-weaving kit ¥499 · Family room + breakfast for three + stream-play kit ¥499 · + camping BBQ for two ¥599 (≈$83) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 Tucked into a vast forest in Luniao, Yuhang — next to the 4A-rated Jingshan scenic area — the **Hilton Garden Inn Hangzhou Luniao** is the rare mountain stay that works for kids: a free **children's game room**, an indoor and outdoor kids' playground, a 24-hour gym, and Peter Thomas Roth bath amenities. Pick your adventure: **Xianlongxia rafting** (15 sharp bends, 24 slides — billed as the Yangtze Delta's most thrilling gorge rafting), tickets to the **Wangweishan adventure park**, a stream-play set for the family room, or an evening **camping BBQ**. No weekend surcharge, and holiday dates are bookable too.

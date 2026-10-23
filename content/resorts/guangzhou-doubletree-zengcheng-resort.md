@@ -13,8 +13,6 @@ cover:
   alt: "DoubleTree by Hilton Guangzhou Zengcheng"
 ---
 
-![DoubleTree by Hilton Guangzhou Zengcheng](https://img.xialv.com/uploads/2023/12/05/item_pic170174358139679.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥499 (≈$69) for 1 night + breakfast + Huanlewan park ticket** · + breakfast + seafood dinner ¥698 (≈$97) · Breakfast only, 2 nights ¥698 · + breakfast + brunch ¥499 · + breakfast + fruit picking + movie ticket ¥499 · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 At 61% off the ¥1,288 rack rate, the **DoubleTree by Hilton Guangzhou Zengcheng** (at Zengcheng Wanda Plaza) is the resort-style base camp for the district's attractions. The dinner package comes with the hotel's **Southeast Asia-themed seafood dinner buffet**, plus a **168 m² outdoor infinity pool** that photographs beautifully at sunset, a **24-hour gym**, and 232 rooms with Crabtree & Evelyn bath products, 55-inch TVs and smart toilets. Huanlewan amusement park is ~14 minutes by car; Baishuizhai and Junming Happy World are about half an hour away.

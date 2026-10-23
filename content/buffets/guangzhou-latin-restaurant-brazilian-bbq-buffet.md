@@ -13,8 +13,6 @@ cover:
   alt: "Latin Restaurant Guangzhou — Brazilian BBQ buffet"
 ---
 
-![Latin Restaurant Guangzhou — Brazilian BBQ buffet](https://img.xialv.com/uploads/2020/11/20/item_pic1605844068150117.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: weekday all-you-can-eat Brazilian BBQ — from ¥106 (≈$15)/person** (was ¥138) · Bookable Sep 10 – Oct 31, 2026, weekdays only · ⏰ valid through Oct 31, 2026
 
 A Guangzhou institution for over a decade: the **Latin Restaurant** （拉丁餐厅） at Grandview Plaza （正佳广场， 4F, 228 Tianhe Road, near the Sports Center) serves an immersive Brazilian-style churrasco — **30+ kinds of grilled meats** carved right at your table, plus **100+ buffet items**, samba dancers, and guests are even invited on stage during the show. Kids get pasta and a chocolate fountain of their own.

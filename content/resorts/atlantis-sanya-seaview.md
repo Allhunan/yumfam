@@ -13,8 +13,6 @@ cover:
   alt: "Atlantis Sanya — 2 Nights Sea-View Room + Waterpark & Aquarium"
 ---
 
-![Atlantis Sanya — 2 Nights Sea-View Room + Waterpark & Aquarium](https://img.xialv.com/uploads/2026/08/20/video_cover_pic1787209657116830.jpeg?imageView2/2/w/1050/h/588/q/75)
-
 **Deal price: ¥2,788 for 2 nights (≈$388)** (was ¥5,376 — 48% off) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 Sanya's Atlantis at an off-peak price: two nights in a **sea-view room** for the whole family (2 adults + 2 kids aged 11 and under) with **unlimited access to Aquaventure Waterpark and The Lost Chambers Aquarium throughout your stay** — the park tickets alone would cost more than this package. Daily breakfast for the four of you is included too, at the Kaleidoscope （七彩晶） or Saffron （番红花） restaurants. You'll also catch the resort's three underwater shows — the whale-shark dance, the mermaid dance and the fish storm — plus a free **dolphin meet-and-greet** and the turtle sanctuary. The way families actually use this: waterpark in the morning, back to the room for a nap and a reset, aquarium in the cool of the evening — because re-entry is unlimited, nobody has to cram everything into one exhausting day.

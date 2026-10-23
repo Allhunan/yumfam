@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Fliport Wutong Hotel — Ocean-View Room + Private Beach"
 ---
 
-![Xiamen Fliport Wutong Hotel — Ocean-View Room + Private Beach](https://img.xialv.com/uploads/2024/02/22/video_cover_pic1708564534934781.jpeg?imageView2/2/w/1050/h/588/q/75)
-
 **Deal price: ¥859 (≈$119)** (was ¥2,388) · ¥100 off orders over ¥601 → from ¥759 (≈$105) · ⏰ National Day special — ends Oct 7
 
 Perched on Wuyuan Bay with a private beach, the Fliport Wutong is Xiamen's classic seaside splurge — and the National Day price is far below rack rate. The package bundles a luxury ocean-view room with breakfast for two and afternoon tea for two.

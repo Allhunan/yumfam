@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Lingling International Circus — Halloween season"
 ---
 
-![Xiamen Lingling International Circus — Halloween season](https://img.xialv.com/uploads/2026/10/15/item_pic1792027657325874.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: Animal Kingdom ticket — ¥59** (≈$8, was ¥140, about 42% of list) · Valid Oct 17 – Nov 29, 2026, **weekends only** · ⏰ refundable anytime, auto-refund on expiry
 
 **Xiamen Lingling** is going full Halloween this autumn: the **Animal Kingdom** (giant pandas plus animals from five continents) opens for afternoon entry, and the **award-winning Lingling circus** performs at 18:30 — a stage show built on acrobatics rather than animal acts. Buy now, use on any Saturday or Sunday through Nov 29 — no ticket exchange needed, just show your voucher code.

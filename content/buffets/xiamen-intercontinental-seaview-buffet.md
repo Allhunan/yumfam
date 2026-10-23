@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen InterContinental Seaview Hotel — weekend buffet"
 ---
 
-![Xiamen InterContinental Seaview Hotel — weekend buffet](https://img.xialv.com/uploads/2026/09/10/item_pic178902732633043.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 adult + 1 child (under 1.2 m) — lunch ¥158 (≈$22) / dinner ¥198 (≈$28)** (was ¥262, 61% off) · Bookable Sep 2 – Dec 31, 2026 · ⏰ valid through Dec 31, 2026
 
 A Huandao Road landmark, the **InterContinental Xiamen** （厦门海景洲际酒店） is running a new seafood-season menu （开海季） across its **9 food stations and 100+ dishes**. The deal covers **1 adult + 1 child (under 1.2 m)** with **free access to the kids' playground**, and 3 hours of free parking. Lunch runs 11:30–14:00; dinner 17:30–21:30.

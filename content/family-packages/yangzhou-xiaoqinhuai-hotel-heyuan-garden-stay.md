@@ -13,8 +13,6 @@ cover:
   alt: "Yangzhou Xiaoqinhuai Hotel — deluxe room with Heyuan Garden stay package"
 ---
 
-![Yangzhou Xiaoqinhuai Hotel — deluxe room with Heyuan Garden stay package](https://img.xialv.com/uploads/2026/09/12/item_pic1789195140754316.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: deluxe room + breakfast for 2 — ¥458** (≈$65, was ¥655, 30% off) · **2 nights deluxe room + breakfast + 2 Heyuan Garden tickets with guided tour + scenic-boat ride — ¥898** (≈$126) · Valid Oct 15, 2026 – May 31, 2027 · usable any day of the week
 
 Tucked at 89 Renfengli, Wenchang Middle Road in central Yangzhou, the **Xiaoqinhuai Hotel** pairs its 24–35㎡ deluxe rooms (king or twin) and 42–56㎡ featured suites with the city's classic sights. The headline bundle covers **2 nights with breakfast, two tickets to Heyuan Garden** — one of Yangzhou's famous private gardens — **a guided tour of it, and a boat ride** on the Little Qinhuai, plus the first round of the in-room minibar free.

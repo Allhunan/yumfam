@@ -13,8 +13,6 @@ cover:
   alt: "Tangquan Liangzi Hot Spring Sauna — Beijing"
 ---
 
-![Tangquan Liangzi Hot Spring Sauna — Beijing](https://img.xialv.com/uploads/2026/03/27/cover_pic1774582621904896.jpeg?imageView2/2/w/600/h/600/q/75)
-
 **Deal price: from ¥19.9 (≈$2.75) for a 16-hour child ticket** · Adult 16-hour ticket ¥79.9 (≈$11) · Adult + body scrub ¥139.9 (≈$19) · Adult + 40-min lobby foot massage ¥169.9 (≈$23) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 Tangquan Liangzi at Shougang Park is a 6,000㎡ hot-spring and sauna complex spread over three floors — soak in the pools, hit the saunas, and stay as long as you like, because the ticket covers **16 hours** (open 00:00–02:00). Toiletries are provided, and beyond the baths there's a kids' play area, a PS5 gaming zone on the 6th floor, and hanfu costume try-on with photo spots — a very family-friendly setup for a sauna. **Buy and use immediately** (no reservation needed, show your Xialv voucher code + phone number at entry), and it's refundable anytime before use.

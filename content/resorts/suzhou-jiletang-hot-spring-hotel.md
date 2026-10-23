@@ -13,8 +13,6 @@ cover:
   alt: "Suzhou Jiletang Hot Spring Hotel — hot spring pools"
 ---
 
-![Suzhou Jiletang Hot Spring Hotel — hot spring pools](https://img.xialv.com/uploads/2026/05/19/UEditor_img1779161337748618.jpg?imageView2/2/w/750)
-
 **Deal price: 1 night + breakfast for two + 2 hot-spring tickets — ¥238** (≈$33, was ¥999, about 24% of list) · Valid May 21 – Oct 31, 2026 · **Zero weekend surcharge** · ⏰ Refundable if unreserved
 
 The brand-new **Jiletang Hot Spring Hotel** (No. 999 Yangshan Ring Road, Huqiu District, Suzhou) is a Japanese-style onsen hotel built for the full ryokan rhythm: soak, snack, lounge, then wander back to your room in a yukata. The spring next door is the real thing — **natural metasilicic-fluoride water rising from 1,680 meters underground, holding about 45°C year-round**, soft enough on skin that it's nicknamed the "beauty bath." The Jiletang bathhouse lays it out across **seven themed outdoor furo**: massage jets, beauty soak, the misty Kirishima pool hidden in greenery, a daily-rotating scented pool (yuzu when we checked), bubble bath, the pure metasilicic "beauty" pool, and a clear cold-hot contrast pool. Upstairs in the bathhouse complex: a hot-stone (ganbanyu) hall, kids' play area and game zone on the 2nd floor, and a quiet rest lounge with massage services on the 3rd.

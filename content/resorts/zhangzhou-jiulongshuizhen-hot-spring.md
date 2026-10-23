@@ -13,8 +13,6 @@ cover:
   alt: "Jiulongshuizhen hot spring — soaking pools"
 ---
 
-![Jiulongshuizhen hot spring — soaking pools](https://img.xialv.com/uploads/2026/09/22/item_pic1790054323010516.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: kid's hot-spring ticket + hot-spring egg + perilla drink — ¥89 (≈$13)** (was ¥199, 4.5折） · Bookable Sep 24 – Dec 30, 2026, weekdays · ⏰ valid through Dec 30, 2026
 
 A brand-new hot-spring opening near Xiamen: the **Jiulongshuizhen Resort's Ancient Hot-Spring Wellness Center** （漳州九龙水镇度假区， 666 Taikouzhai, Hua'an County — about 40 minutes from Xiamen North station) leans into Song-dynasty aesthetics — ancient-style pools, **fish therapy**, herbal foot soaks, **costume dress-up** for photos, and a "Song-style Fujian meal" （宋风闽味） on the higher tiers.

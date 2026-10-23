@@ -13,8 +13,6 @@ cover:
   alt: "Beijing Minmetals Narada — anniversary family package"
 ---
 
-![Beijing Minmetals Narada — anniversary family package](https://img.xialv.com/uploads/2026/08/26/item_pic1787735691924391.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: from ¥799 (≈$111)** (was ¥1,688 — over 50% off) · Anniversary gift pack included · ⏰ valid through Dec 31, 2026
 
 Beijing Minmetals Narada is celebrating its 6th anniversary with a family-loaded package: **1 night in a Junlan Xishan room with breakfast for two**, plus a gift pack of **2 single-session Super Wings (超级飞侠) Land tickets, 2 kids' buffet dinner tickets and an extra-bed coupon**. (Note: this is the Xishan property, not the Fangshan Narada hot spring resort also on this site.)

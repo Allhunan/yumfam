@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Langham Hotel — guest room"
 ---
 
-![Xiamen Langham Hotel — guest room](https://img.xialv.com/uploads/2024/08/02/item_pic1722591019556136.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: Superior king/twin, 1 night + breakfast for two — ¥699** (≈$97, was ¥1,198, about 42% off) · Valid Oct 15 – Dec 31, 2026 · ⏰ refundable if unreserved, auto-refund on expiry
 
 The **Langham Hotel Xiamen** （厦门朗豪酒店， 4668 Xianyue Road, Huli) is the fashionable younger sibling of The Langham, London — the brand traces back to that 1865 grand hotel — and it wears the brief proudly: a working art collection runs through the public spaces (look for 《红苹果》 *Red Apple*, 《以梦为马》 and *Saint-Saëns' Swan*), the design theme is "scales and rhythm," and local Xiamen cultural details are woven into the decor. There are **321 rooms and suites** with full-height windows over the city; the superior rooms in this deal run about **40㎡**, which for Xiamen at this price is genuinely generous. The Place café runs an open-kitchen buffet with a 360° circular grill station.

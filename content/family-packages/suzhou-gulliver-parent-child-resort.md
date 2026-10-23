@@ -12,8 +12,6 @@ cover:
   alt: "Suzhou Gulliver Parent-Child Resort Hotel"
 ---
 
-![Suzhou Gulliver Parent-Child Resort Hotel](https://img.xialv.com/uploads/2026/07/13/item_pic1783906175753234.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥399** (≈$56, was ¥499) · ⏰ Valid through Jan 1, 2027 · ⏰ No surcharge on weekends or New Year's Day
 
 Inside the **Jiangnan Botanical Garden on the shores of Taihu Lake**, the Suzhou Gulliver Parent-Child Resort Hotel turns *Gulliver's Travels* into a place to sleep. Instead of "child-friendly," the whole resort is built **for kids**: oversized furniture seen through the eyes of Lilliput's tiny residents, hidden proportion-play surprises in the corridors, and a garden landscape that makes adults feel finger-sized. Every stay includes the **DuoDuo petting zoo**, the indoor kids' park, and free access to the botanical garden (which also has a small zoo).

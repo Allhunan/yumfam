@@ -13,8 +13,6 @@ cover:
   alt: "Jiaxing Kaiyuan Senbo Resort — 1-night family stay"
 ---
 
-![Jiaxing Kaiyuan Senbo Resort — 1-night family stay](https://img.xialv.com/uploads/2025/10/22/item_pic_origin1761119236519721.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1-night Terrace Room — from ¥818 (≈$115)** (was ¥1,398, 59% off) · Bookable Aug 21 – Oct 31, 2026 · ⏰ valid through Oct 31, 2026
 
 **Kaiyuan Senbo Resort** （开元森泊度假乐园， 1677 Ganpu Avenue, Haiyan, Jiaxing) is a national Top-100 family resort hotel built around water and play: a **31,000㎡ indoor-outdoor water park** (the indoor part open year-round) plus **Fantasy Island** （幻想岛）, a 2,300㎡ indoor children's playground. Every package includes breakfast for 2 at the Cave Restaurant （岩洞餐厅）, **2 park tickets of your choice** (two parks to choose from), a **handicraft workshop** (pick 1 of 3), a 屹奇 travel photo shoot, welcome fruit, and day-1 minibar drinks.

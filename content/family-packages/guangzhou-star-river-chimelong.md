@@ -13,8 +13,6 @@ cover:
   alt: "Guangzhou Star River Hotel — Chimelong Family Deal"
 ---
 
-![Guangzhou Star River Hotel — Chimelong Family Deal](https://img.xialv.com/uploads/2023/01/06/item_pic1672984493726893.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥999 (≈$138) for 2 nights (buy 1 get 1)** · Castle river-view family room ¥669 (≈$92) · Room + buffet breakfast & dinner ¥949 (≈$131) · Xialv Money-Saver Card: ¥30 off + ¥50 welcome bonus
 
 Star River Hotel sits on Panyu Avenue in Guangzhou — the go-to base for a Chimelong trip. Every package includes a 55㎡ city-view room, **daily breakfast for 2 adults + 2 kids** (kids under 1.2m), two swimming pools, and a **free shuttle to and from Chimelong**. Breakfast extras: free under 1.2m, half price 1.2–1.5m (¥97), full price above 1.5m (¥193); dinner free under 1.2m, half (¥128) and full (¥238) tiers.

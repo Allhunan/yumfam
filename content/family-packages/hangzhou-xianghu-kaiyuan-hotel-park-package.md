@@ -13,8 +13,6 @@ cover:
   alt: "Hangzhou Xianghu Kaiyuan Grand Hotel — lake resort with theme-park bundles"
 ---
 
-![Hangzhou Xianghu Kaiyuan Grand Hotel — lake resort with theme-park bundles](https://img.xialv.com/uploads/2024/10/29/item_pic1730194309914748.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 night superior room + breakfast + kayak/Xianghu cruise for 2 — ¥499** (≈$70) · **2 nights deluxe terrace room + breakfast + dining credit — ¥888** (≈$125) (was ¥2,188, 41% of list) · Valid Sep 11 – Dec 31, 2026 · usable any day of the week
 
 Inside **Xianghu National Tourist Resort** in Xiaoshan, the Kaiyuan Grand sells mix-and-match bundles: a lakeside night plus your pick of **kayaking, a Xianghu cruise, Senbo Water Park / Fantasy Island tickets, or Changqiao Polar Ocean Park + kids' park tickets** — with a free 2-hour **hanfu experience**, a kids' DIY craft session, welcome fruit, heated pool, gym and parking thrown in.

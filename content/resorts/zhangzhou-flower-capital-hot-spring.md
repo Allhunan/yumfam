@@ -12,8 +12,6 @@ cover:
   alt: "Zhangzhou Southeast Flower Capital Hot Spring Hotel"
 ---
 
-![Zhangzhou Southeast Flower Capital Hot Spring Hotel](https://img.xialv.com/uploads/2025/12/18/item_pic1766023105392352.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: from ¥499** (≈$70, was ¥798, about 37% off) · ⏰ Buy now, valid for use Nov 1–30, 2026 · ⏰ Refundable if unreserved, auto-refund on expiry
 
 In Zhangpu county, Zhangzhou, Fujian, the **Southeast Flower Capital Hot Spring Hotel** sits next to the Flower Expo park — an autumn family trip that bundles a villa-style stay with hot springs and two parks. Every package includes **1 night, buffet breakfast for 2 adults + 1 kid (under 1.4m), a kids' set meal or wellness set meal (pick one), hot-spring entry for 2A1C, Flower Expo tickets for 2A1C, and Snail Village tickets for 2A1C**.

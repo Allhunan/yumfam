@@ -13,8 +13,6 @@ cover:
   alt: "Nanjing Wolonghu lakeside resort — spacious 70㎡+ room with water-play access"
 ---
 
-![Nanjing Wolonghu lakeside resort — spacious 70㎡+ room with water-play access](https://img.xialv.com/uploads/2026/04/25/item_pic_origin1777087194063890.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 2 nights in a 70㎡+ room + breakfast for 2 + water-play & sauna passes for 2 + lakeside cycling — ¥499** (≈$70, was ¥799, 38% of list) · Valid Oct 14, 2026 – Mar 31, 2027 · usable any day of the week, **no weekend surcharge**
 
 On Wolonghu Avenue in Nanjing's Lishui district, this lakeside resort sells space: the **72㎡ deluxe king (2 m bed)** or **70㎡ twin**, each with **breakfast for two**, a **water-play pass for two** — indoor surfing, a flower-sea photo zone, indoor pool, fish-therapy spa and sauna, plus KTV and board-game rooms — and **lakeside cycling**. Kids under 12 go free; ages 12–16 are ¥29.9 and 16+ ¥39.9.

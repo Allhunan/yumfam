@@ -13,8 +13,6 @@ cover:
   alt: "Sujia Puyue private hot-spring villa, Xiamen"
 ---
 
-![Sujia Puyue private hot-spring villa, Xiamen](https://img.xialv.com/uploads/2025/01/22/item_pic1737538299184777.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: private hot-spring 3BR villa — from ¥588 (≈$83)** (was ¥1,588, 38% off) · Bookable Sep 3 – Oct 31, 2026 · ⏰ valid through Oct 31, 2026
 
 **Sujia Puyue** （宿家·璞悦温泉民宿， 2-4 Xinzhen Road, Xiang'an, Xiamen) is a hot-spring villa stay built for group getaways: each standalone villa sleeps a whole family (or several) with its **own private hot-spring pool**, plus entertainment rooms downstairs. Every package includes free Wi-Fi, free parking and a **hanfu dress-up experience**.

@@ -13,8 +13,6 @@ cover:
   alt: "Wuhan Kaiyuan Senbo Resort — garden-view room"
 ---
 
-![Wuhan Kaiyuan Senbo Resort — garden-view room](https://img.xialv.com/uploads/2026/02/04/item_pic177016918168765.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: Superior garden-view room, 1 night — ¥599** (≈$84, was ¥1,298, about 54% off) · Valid through Mar 31, 2027 · ⏰ refundable if unreserved, auto-refund on expiry
 
 Rising on a peninsula in Houguan Lake, the **Wuhan Kaiyuan Senbo Resort** is a ¥2.2-billion, 128,000㎡ all-season family resort — and this Double-11 bundle is its strongest value yet. One price covers a **superior garden-view room**, **breakfast for two**, **your choice of 2 indoor-water-park or 2 Fantasy Island tickets**, and a **Yiqi travel-photography session**. Weekends carry **no surcharge** through the whole validity period.

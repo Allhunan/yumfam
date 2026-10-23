@@ -13,8 +13,6 @@ cover:
   alt: "Shanghai Yaoxue Ice and Snow World"
 ---
 
-![Shanghai Yaoxue Ice and Snow World](https://img.xialv.com/uploads/2024/10/21/item_pic1729498227062147.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: from ¥799** (≈$112, was ¥1,598, about 50% off) · Valid through Dec 30, 2026 · ⏰ refundable if unreserved, auto-refund on expiry
 
 Shanghai's **Yaoxue Ice & Snow World** — a ~350,000㎡ indoor winter resort with a 98,000㎡+ real-snow slope — is the rare ski trip that needs no mountain. This Double-11 bundle pairs **2 beginner-slope 3-hour tickets** (the kids' snow zone on level 3 is the family sweet spot: snow-tube runs, igloo engineers, rainbow snow village) with a **hot-spring session**, **1 night in a superior room** at the partnering **Lingang Ice-Snow Mingcheng Hotel** (walkable to the slopes), and **breakfast for two**. Weekends are usable with a surcharge.

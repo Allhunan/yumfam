@@ -13,8 +13,6 @@ cover:
   alt: "Anji Cloud Grassland resort — mountain-view hotel for family autumn getaways"
 ---
 
-![Anji Cloud Grassland resort — mountain-view hotel for family autumn getaways](https://img.xialv.com/uploads/2026/06/02/item_pic1780386223575310.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 2 nights + kids' GO activities + 3 free costume photos per room + farm egg-collecting — ¥699** (≈$99, was ¥988, 29% off) · Valid Oct 7 – Dec 10, 2026 · usable any day of the week · not usable Nov 14–15, 2026
 
 In the bamboo-covered hills of Shanchuan, Anji, the **Cloud Grassland (云上草原) resort** offers an autumn off-peak escape for families: **two nights** interchangeable across **three hotels** (Yunshanjing, Songshu, Yinzhu — +¥200/night upgrades the other two to a basic king/twin), with a packed kids' program: **Family GO activities** (handicrafts, clown interactions and more), **3 free costume dress-up photos per room**, and **egg collecting at the family farm**, plus 24-hour butler service.

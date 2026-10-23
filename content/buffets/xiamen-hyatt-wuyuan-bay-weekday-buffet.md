@@ -13,8 +13,6 @@ cover:
   alt: "Hyatt Regency Xiamen Wuyuan Bay buffet — restaurant spread"
 ---
 
-![Hyatt Regency Xiamen Wuyuan Bay buffet — restaurant spread](https://img.xialv.com/uploads/2025/12/24/item_pic1766541435569520.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: weekday lunch, 1 adult + 1 kid under 6 — ¥168 (≈$24)** (was ¥228, ~26% off) · Bookable Jan 21 – Dec 31, 2026, weekdays only · ⏰ valid through Dec 31, 2026
 
 The Hyatt Regency at Wuyuan Bay (湖里区钟宅西三路与枋湖路交叉路口, near Wanyuecheng business district) keeps its weekday lunch buffet at a fixed ¥168 for **1 adult + 1 child under 6** — over 1,000 vouchers sold, so this one is well battle-tested. Expect **seafood hot dishes, teppan grills, fresh sashimi and 100+ dishes**, plus juices, tea, coffee and a full salad bar.

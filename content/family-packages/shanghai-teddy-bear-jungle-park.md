@@ -12,8 +12,6 @@ cover:
   alt: "Shanghai Teddy Bear Jungle Park"
 ---
 
-![Shanghai Teddy Bear Jungle Park](https://img.xialv.com/uploads/2026/06/25/item_pic1782374163773680.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥69** (≈$10, was ¥109) for 1 adult + 1 child · ⏰ Valid Wed–Sun through Nov 30, 2026
 
 Straight from Korea's **Jeju Teddy Bear Museum**, the Teddy Bear Jungle Park has landed in Shanghai's AMP Plaza — a teddy-filled indoor playground where every corner is stuffed with plush bears and painted jungle scenes. The **9 play zones** include a kids' theater with regular interactive games, jungle slides, interactive projection games, LEGO building tables, and DIY craft workshops (make-your-own keychains to take home). It's equal parts playdate and photo shoot.

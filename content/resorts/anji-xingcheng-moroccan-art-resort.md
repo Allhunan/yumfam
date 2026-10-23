@@ -13,8 +13,6 @@ cover:
   alt: "Anji Xingcheng Moroccan-style art resort hotel"
 ---
 
-![Anji Xingcheng Moroccan-style art resort hotel](https://img.xialv.com/uploads/2025/04/10/item_pic1744266475138978.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: from ¥399** (≈$56, was ¥999) · 2-night king-room bundle ¥629 − ¥30 coupon = **¥599** · Family-room tiers ¥499/¥799 with 3 Elf Hill tickets · ⏰ Double-11 flash sale, on sale one week only · Valid through Jan 31, 2027 · Refundable if unreserved, auto-refund on expiry
 
 Anji is Zhejiang's bamboo-and-mountains weekend county — about 1.5 hours' drive from Hangzhou and 2 hours from Shanghai — and inside the Hele Valley resort zone, the **Xingcheng Moroccan-Style Art Resort** (星橙·摩洛哥风情艺术度假酒店) goes completely against the local grain. Instead of bamboo courtyards, you get an 8,000㎡ North-African fever dream: a Moroccan landscape pool, a California-style rooftop built for photos, arched corridors and saturated tilework everywhere. The rooms are named after Moroccan cities — Ifrane and Casablanca king rooms, Essaouira twins, and a Majorelle family room — and the whole property doubles as a film-shoot location, which tells you how seriously it takes the visuals.

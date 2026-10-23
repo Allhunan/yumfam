@@ -13,8 +13,6 @@ cover:
   alt: "Baixiang Yuanshan hot spring hotel, Zhangzhou"
 ---
 
-![Baixiang Yuanshan hot spring hotel, Zhangzhou](https://img.xialv.com/uploads/2024/01/05/item_pic1704438624914368.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: family/kids room, 1 night — ¥799 (≈$113)** (was ¥1,999, 60% off) · Valid Jan 8 – Dec 31, 2026 · Fri/Sat +¥150/room · Book by 23:59 the day before · Refundable if unreserved, auto-refund on expiry
 
 **Baixiang Yuanshan Hotel** （漳州佰翔圆山酒店， 1 Daqiao Road, Xiangcheng, Zhangzhou) — voted a 2025 Fujian Top-20 family resort hotel — is the city resort done properly: an NBBJ-designed tower shaped like a blooming daffodil petal, 55,000㎡ of grounds in the middle of Zhangzhou, and out the window a **3-million-㎡ South Lake Park**. The water is the hotel's signature: an **ancient-seawater flower spring at 23°N latitude**, spread through a **30,000㎡ garden spring park with 20-plus outdoor pools** and 16 spring "check-in" experiences among the flowers. Location is the other half of the appeal — Zhangzhou's old town, the science museum and the library are all nearby, so the trip mixes soaking with actual sightseeing instead of resort captivity.

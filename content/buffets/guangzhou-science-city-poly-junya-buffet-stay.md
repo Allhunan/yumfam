@@ -13,8 +13,6 @@ cover:
   alt: "Poly Junya Guangzhou Science City — hotel room and buffet"
 ---
 
-![Poly Junya Guangzhou Science City — hotel room and buffet](https://img.xialv.com/uploads/2025/05/14/item_pic1747192789550387.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 night + 2 buffets, 2 adults + 2 kids — from ¥518 (≈$73)** (was ¥1,299, about 40% of list) · Bookable Oct–Dec 2026, weekends included · ⏰ valid through Dec 31, 2026
 
 Tucked next to the Baiyun ecological reserve in Guangzhou Science City — metro-reachable — Poly Junya runs one of the strongest-value family bundles we've seen: a **1-night superior room for 2 adults + 2 kids (under 1.2 m)** with **two buffet meals** (worth over ¥700 on their own), plus a **heated indoor pool**, kids' playground and gym. A taller kid (1.4 m) can be included on the ¥588 tier.

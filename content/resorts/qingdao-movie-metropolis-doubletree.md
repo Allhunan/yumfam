@@ -12,8 +12,6 @@ cover:
   alt: "Qingdao Oriental Movie Metropolis DoubleTree by Hilton"
 ---
 
-![Qingdao Oriental Movie Metropolis DoubleTree by Hilton](https://img.xialv.com/uploads/2025/10/27/item_pic1761556480465859.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: from ¥449** (≈$63, was ¥988, about 55% off) · ⏰ Valid through Oct 31, 2026 — only 9 days left · ⏰ Refundable if unreserved
 
 In Qingdao's Huangdao district, next to the Oriental Movie Metropolis, the **DoubleTree by Hilton** is running an eat-stay-play bundle: **1 night in a deluxe room (king or twin) with breakfast for two**, plus one of five add-on options — from kids' park tickets to a hotpot dinner. Every stay also includes the famous warm DoubleTree cookie, plus free pool, gym and WiFi during the stay.

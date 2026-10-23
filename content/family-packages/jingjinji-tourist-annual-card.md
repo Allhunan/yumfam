@@ -13,8 +13,6 @@ cover:
   alt: "Jing-Jin-Ji tourist annual pass — 150+ attractions covered"
 ---
 
-![Jing-Jin-Ji tourist annual pass — 150+ attractions covered](https://img.xialv.com/uploads/2026/09/08/item_pic1788853200110534.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: annual pass (standard), 1 card — ¥42.5** (≈$6) · **2 cards — ¥85** (≈$12) · **Premium pass — ¥95** (≈$13) · **Supreme pass — ¥189** (≈$27) (was ¥298, 63% off) · Buy-and-use, refundable anytime
 
 The 2027 **Jing-Jin-Ji tourist annual pass** (electronic version) unlocks **150–170+ attractions across Beijing, Tianjin and Hebei**: Beijing Aquarium (with zoo access), Beijing Wildlife Park, Phoenix Ridge （凤凰岭）, Juyongguan Great Wall, the CCTV Tower, Mangshan Forest Park, Lianhuashan Ski Resort and many more. A single Beijing Wildlife Park ticket normally costs more than the whole pass.

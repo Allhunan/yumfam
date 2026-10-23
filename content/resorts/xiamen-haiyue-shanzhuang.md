@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Haiyue Shanzhuang resort gardens"
 ---
 
-![Xiamen Haiyue Shanzhuang resort gardens](https://img.xialv.com/uploads/2025/09/08/item_pic1757302363826149.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: Family mountain-view twin room, 1 night — ¥899** (≈$126, was ¥1,488, about 40% off) · Valid through Apr 30, 2027 · ⏰ refundable if unreserved, auto-refund on expiry
 
 Set in landscaped gardens on Huandao South Road — the back gate opens straight onto the beach — **Haiyue Shanzhuang** is the old-school Xiamen grande dame: state-guesthouse standards, Ming-Qing-style rooms in a bamboo courtyard, and grounds big enough to spend two days in. This family bundle covers a **mountain-view twin room**, **breakfast for two plus a free kids' breakfast (no height limit)**, a **pony-cart or mini-train ride**, and access to the **dolphin park, indoor pool and afternoon tea**. New Year holidays and weekends carry **no surcharge**.

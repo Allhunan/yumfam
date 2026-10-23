@@ -13,8 +13,6 @@ cover:
   alt: "HNA Westin Guangzhou — 'Fish & Crab Feast' Buffet"
 ---
 
-![HNA Westin Guangzhou — 'Fish & Crab Feast' Buffet](https://img.xialv.com/uploads/2025/12/29/item_pic176698717413734.jpeg)
-
 **Deal price: family packages from ¥348 (≈$48) for 2 adults + 2 kids** · Child-only tickets from ¥108 (≈$15) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 The Guangzhou HNA Westin (Linhe Middle Road, Tianhe District) has launched a "Fish & Crab Feast" themed buffet. The headline upgrades land on weekends: Saturday–Sunday lunch guests each get a complimentary **Buddha-Jumps-Over-the-Wall** (with abalone, dried scallops and sea cucumber in a sweet, rich broth), while weekend dinner adds **a hairy crab per seat plus a live band**. Weekend lunches also run kids' themed activities, and lunch comes with free-flow beer and soft drinks (dinner adds red and white wine). Usable even during the National Day holiday week, refundable anytime, and 70+ packages already grabbed.

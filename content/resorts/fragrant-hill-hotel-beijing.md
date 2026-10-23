@@ -13,8 +13,6 @@ cover:
   alt: "Fragrant Hill Hotel Beijing — Autumn Stay Inside the Park, from ¥569"
 ---
 
-![Fragrant Hill Hotel Beijing — Autumn Stay Inside the Park, from ¥569](https://img.xialv.com/uploads/2026/03/20/item_pic1773989221917742.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥569 (≈$79)** (was ¥1,256 — 54% off) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 Right in time for autumn foliage season: a night at the Fragrant Hill Hotel, set inside Fragrant Hill Park itself (40 Maimai Street, Haidian). The ¥569 tier covers a garden twin room with breakfast for 2 adults + 1 child, free swimming during your stay, and free entry to the park for the duration of your visit — wake up early and climb the hill before the crowds. National Day dates are bookable with a surcharge; the package is refundable anytime before use. Deal ends Oct 11.

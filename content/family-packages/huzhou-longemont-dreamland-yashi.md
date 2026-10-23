@@ -13,8 +13,6 @@ cover:
   alt: "Longemont Dreamland Yashi Hotel, Huzhou"
 ---
 
-![Longemont Dreamland Yashi Hotel, Huzhou](https://img.xialv.com/uploads/2024/12/24/item_pic1735030617863791.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥479 (≈$67) for 1 night + breakfast + 2 park tickets (pick one of three)** · + Grand Circus guest seats ¥659 (≈$92) · Park tickets + skiing ¥659 · 2 nights + 2 parks + circus ¥1038 (≈$144) · 2 nights + animal world + performance city + skiing ¥1038 · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 The **Yashi Hotel** sits inside Taihu's **Longemont Dreamland** resort cluster in Changxing, Huzhou — two towers, 4,428 rooms, one of the largest single hotel buildings in the park. Backed by Bianshan mountain and a 5-minute walk from the Taihu ancient town; the Animal World and Ice & Snow World are about 10 minutes by car. Breakfast is served at the 29th-floor panoramic restaurant (1,128 seats). Every package includes **2 park tickets with your pick of three**: the Animal World walking zone, Ice & Snow Town, or Performance City — and you can add Grand Circus guest seats or skiing on top. Unreserved bookings are fully refundable.

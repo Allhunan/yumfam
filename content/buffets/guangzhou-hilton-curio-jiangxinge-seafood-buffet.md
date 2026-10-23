@@ -13,8 +13,6 @@ cover:
   alt: "Guangzhou Hilton Curio Jiangxin Ge seafood buffet — fresh seafood spread"
 ---
 
-![Guangzhou Hilton Curio Jiangxin Ge seafood buffet — fresh seafood spread](https://img.xialv.com/uploads/2026/08/21/item_pic1787273696849513.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 adult + 1 kid (under 1.4 m) lunch buffet — ¥168** (≈$24, was ¥308, 45% off) · Valid through Nov 30, 2026 · **weekends only (Sat/Sun), no weekend surcharge** · ⏰ not usable Oct 17, 18, 24, 25; also closed during the Canton Fair (Oct 16 – Nov 1) — usable again from Nov 5
 
 At **Jiangxin Ge (匠心阁)** on the 3rd floor of the **Curio Collection by Hilton Guangzhou** (Yuexiu district, metro-accessible near Beijing Road), the opening-wave pricing covers **1 adult + 1 kid under 1.4 m** — note the free-kid height has been **raised from 1.2 m to 1.4 m** for this promo (limited availability). Lunch runs 12:00–14:30, dinner 18:00–21:30.

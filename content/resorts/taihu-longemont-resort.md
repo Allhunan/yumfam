@@ -13,8 +13,6 @@ cover:
   alt: "Taihu Longemont Resort — 1-night stay with park tickets"
 ---
 
-![Taihu Longemont Resort — 1-night stay with park tickets](https://img.xialv.com/uploads/2026/01/26/item_pic1769416061377676.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 night + 2 park tickets — from ¥629 (≈$89)** (was ¥1,298, 49% off) · Bookable Sep 14 – Dec 31, 2026, any day · ⏰ valid through Dec 31, 2026
 
 One of China's largest family resorts, **Taihu Longemont** （太湖龙之梦， Taihu resort area, Changxing, Huzhou) lets you **choose your hotel** — 动物世界大酒店 (Animal World Hotel), 钻石酒店 (Diamond Hotel), or 古镇大酒店 (Ancient Town Hotel) — and **pick 2 park tickets** from three options: the Animal World walk-through zone, the Ice & Snow Town, or the Performance City （演艺城）. A national Top-100 family resort hotel.

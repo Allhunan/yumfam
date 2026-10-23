@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Portman Seven Star Bay Hotel — seaview room and beachfront resort"
 ---
 
-![Xiamen Portman Seven Star Bay Hotel — seaview room and beachfront resort](https://img.xialv.com/uploads/2026/10/14/item_pic1791948880942440.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 2 nights in an upper-floor seaview room — ¥999 (≈$139)** (was ¥2399, about 42% of list) · Bookable through Apr 30, 2027 · ⏰ valid through Apr 30, 2027
 
 One of Xiamen's top-ranked family resorts (全国亲子度假酒店TOP100), the **Portman Seven Star Bay** sits in Tong'an with the sea right across the road. This Double 11 promo bundles **2 nights in an upper-floor seaview room with daily breakfast for two**, plus five extra perks: 2 mini-club activity tickets, unlimited Seven Star Park trampoline/playground access, a professional photo-shoot experience for the family, and two more goodie experiences.

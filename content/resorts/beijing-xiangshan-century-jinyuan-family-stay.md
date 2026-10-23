@@ -13,8 +13,6 @@ cover:
   alt: "Beijing Xiangshan family hotel — water park and family stay"
 ---
 
-![Beijing Xiangshan family hotel — water park and family stay](https://img.xialv.com/uploads/2026/08/17/item_pic1786953604225592.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: family play package, 1 night — ¥599** (≈$85) (was ¥1,896, 32% of list) · **All-inclusive, 2 nights — ¥1,098** (≈$155) (was ¥3,936) · Valid Aug 20 – Dec 31, 2026 · usable any day of the week
 
 Right by **Xiangshan (Fragrant Hills)** in Haidian, this is the autumn trip Beijing families book: the red-foliage season comes with **zero weekend surcharge**, and the 2-night all-inclusive package covers a Hollywood-themed family room, breakfast for 2 adults + 1 child each night, **unlimited water-park play** (09:00–21:00), a light meal for two, **3 tickets to the National Botanical Garden** (~10 min drive), and the on-site **petting park**.

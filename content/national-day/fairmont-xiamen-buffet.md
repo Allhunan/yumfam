@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Airlines Fairmont Hotel Buffet"
 ---
 
-![Xiamen Airlines Fairmont Hotel Buffet](https://img.xialv.com/uploads/2025/09/25/item_pic175877245645319.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥268 (≈$37)** (was ¥468) · ¥50 off orders over ¥151 → lunch ¥218, dinner ¥318 · ⏰ National Day special — ends Oct 7
 
 The Fairmont's buffet is one of Xiamen's most generous spreads, and the National Day subsidy makes it genuinely good value. Lunch comes with a caviar giveaway; dinner adds tomahawk steak and a dessert course (Napoleon or rice-wine egg).

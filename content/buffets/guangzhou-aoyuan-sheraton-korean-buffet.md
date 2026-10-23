@@ -13,8 +13,6 @@ cover:
   alt: "Guangzhou Aoyuan Sheraton — Korean-themed buffet dinner"
 ---
 
-![Guangzhou Aoyuan Sheraton — Korean-themed buffet dinner](https://img.xialv.com/uploads/2026/09/24/item_pic1790228476160263.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 2 adults + 2 kids ¥368 (≈$51)** (comparable value ¥664 — save ¥216) · 1 adult + 1 kid ¥188 (≈$26) · 5-person ¥888 (≈$123) · kids' dinner from ¥78 (≈$11) · ⏰ valid through Dec 31, 2026 (not valid Dec 24)
 
 Sheraton Guangzhou Panyu just launched a **"Korean flavor" themed buffet dinner**: Korean BBQ, crispy Korean fried chicken, Korean tempura, Norwegian salmon, fresh seafood — plus **free-flow red and white wine**. The 2-adults-2-kids combo is the headline: ¥368 against a ¥664 walk-in value. It's right by the metro, so getting there is easy.

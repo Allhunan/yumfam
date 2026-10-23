@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Jimei Guole Park — outdoor kids' park"
 ---
 
-![Xiamen Jimei Guole Park — outdoor kids' park](https://img.xialv.com/uploads/2025/11/25/item_pic1764058487619712.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 2 adults + 2 kids 14-item ticket — ¥149 (≈$21)** (was ¥168; single gate ticket from ¥39.9 / ≈$5.60) · Buy-and-use, no reservation needed · ⏰ valid through Dec 31, 2026
 
 A 40,000㎡ outdoor treasure for young kids in Xiamen's Jimei district: **Guole Park** bundles **gate entry + 11 rides + 3 animal-feeding experiences** into one 14-item ticket. Petting zones, classic carnival rides, and wide-open running space — the whole family's afternoon sorted. Buy-and-use with no reservation, refundable any time, and auto-refund if it expires.

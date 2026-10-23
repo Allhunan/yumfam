@@ -13,8 +13,6 @@ cover:
   alt: "Gubei Water Town inn — canal-side stay with hot springs"
 ---
 
-![Gubei Water Town inn — canal-side stay with hot springs](https://img.xialv.com/uploads/2026/09/09/item_pic_origin1788935424343868.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: inn room, 1 night — ¥439** (≈$62) (was ¥529) · **Family room inn, 1 night — ¥799** (≈$113) (was ¥948) · Valid Sep 11, 2026 – Dec 31, 2026 · usable any day of the week
 
 A night inside **Gubei Water Town**, the canal-laced old-town replica at the foot of the **Simatai Great Wall** in Miyun, Beijing. The inn package bundles one night with **scenic-area tickets (multiple entries during your stay)**, unlimited rides on the in-town shuttle, access to the **hot-spring bathhouses** open in the scenic area, and breakfast — a genuinely good all-in-one deal for a water-town getaway.

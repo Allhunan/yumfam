@@ -13,8 +13,6 @@ cover:
   alt: "Huihe Stone Culture Park — Opera, Tea & Gardens"
 ---
 
-![Huihe Stone Culture Park — Opera, Tea & Gardens](https://img.xialv.com/uploads/2026/04/24/item_pic177699616984758.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥21 (≈$3)** (was ¥58) · ¥20 off orders over ¥20 → as low as ¥1! · ⏰ National Day special — ends Oct 7
 
 A slow afternoon done right: sip tea by the fountain lake, watch traditional Hui'an women's-culture and 'Stone Woman' performances, catch a puppet show, and let the kids loose on the big lawn. With the coupon it can cost as little as ¥1.

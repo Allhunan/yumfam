@@ -13,8 +13,6 @@ cover:
   alt: "Wanda Realm Haitang Bay Sanya — 2 Nights from ¥999"
 ---
 
-![Wanda Realm Haitang Bay Sanya — 2 Nights from ¥999](https://img.xialv.com/uploads/2023/02/16/item_pic167653295163985.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥999 (≈$139) for 2 nights** (was ¥1,599 — 37% off) · Sea-view upgrade ¥1,188 with a hotpot set for two · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 On Haitang Bay — Sanya's long, quiet resort strip, about 55 minutes from Phoenix Airport — the **Wanda Realm Resort (三亚海棠湾万达嘉华度假酒店， 18 Haitang North Road)** works hard for its "high value on the bay" reputation: 463 rooms set in tropical gardens, a **435-meter private stretch of white sand** with a guarded swim area steps from the lobby, a **2,400㎡ pool complex** with its own water park and kids' club, and a Wanda cinema right next door for a rainy evening. Breakfast is at Huiwan restaurant and it's a proper spread — congee, soy milk and fried dough sticks alongside breads, egg tarts and cakes, with a cook-to-order bowl of Baoluo noodles if you want the Hainan flavor. Haitang Bay's other draw is next door in spirit: the world's largest single-building duty-free mall sits on this strip, and Haichang's Dream Ocean Night City is about 2 km away.

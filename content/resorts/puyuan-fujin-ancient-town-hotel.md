@@ -12,8 +12,6 @@ cover:
   alt: "Puyuan Fashion Ancient Town Fujin Hotel"
 ---
 
-![Puyuan Fashion Ancient Town Fujin Hotel](https://img.xialv.com/uploads/2026/02/27/item_pic1772175737151993.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥499** (≈$70, was ¥670) · ⏰ Valid through at least Dec 20, 2026 · ⏰ No surcharge on weekends or public holidays
 
 **Puyuan Fashion Ancient Town** in Tongxiang, Jiaxing is running its autumn "Puyuan Weaves Autumn" program (Oct 15–Dec 20): the whole town becomes an open-air art exhibition — tea ceremonies, calligraphy, meditation, 30+ live performances a day, plus the CPOP WAVE 2026 pop-culture expo (Nov 2–8) with big-name game and animation IPs. This bundle pairs a night at the **Fujin Hotel** with breakfast, **2 adult ancient-town tickets**, the art exhibitions, and free sightseeing shuttle rides around the town.

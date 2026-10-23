@@ -13,8 +13,6 @@ cover:
   alt: "Fliport Portman Xiamen — Seaview Room + Magic Academy"
 ---
 
-![Fliport Portman Xiamen — Seaview Room + Magic Academy](https://img.xialv.com/uploads/2026/09/28/cover_pic1790584782461618.jpeg?imageView2/2/w/600/h/600/q/75)
-
 **Deal price: ¥699 (≈$97)** (was ¥2,399) · National Day booking rush — reserve early · ⏰ National Day special — ends Oct 7
 
 Fliport Portman pairs a seaview room with the new "Lumi Magic Academy" XR experience — plus afternoon tea, breakfast for two, and kids' club activities. A strong pick for families who want play built into the stay.

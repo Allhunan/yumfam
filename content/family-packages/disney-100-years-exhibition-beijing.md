@@ -13,8 +13,6 @@ cover:
   alt: "Disney 100 Years of Wonder Exhibition — China Premiere in Beijing"
 ---
 
-![Disney 100 Years of Wonder Exhibition — China Premiere in Beijing](https://img.xialv.com/uploads/2026/08/26/video_cover_pic178771490672494.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: from ¥108 (≈$15)** (was ¥188 — up to 43% off) · ¥3 off orders ¥100+ · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 The China premiere of *Disney 100 Years of Wonder* is now open at Beijing Chaoyang Joy City (10F, 101 Chaoyang North Road): a walk-through century of Disney drawn from the **Walt Disney Archives** — the studio's own vault of original props, costumes and artwork, most of it never previously shown in China. The route moves decade by decade through the stories: early animation treasures, Cinderella's glass slipper, Marvel artifacts, a full-size BB-8 from the Star Wars sequels, and immersive music-and-story galleries that build to a cinema-style finale hall. For a parent who grew up on these films, half the fun is watching your kids meet the same characters in the same rooms — it's a genuinely three-generation exhibition, not a kids-only play space.

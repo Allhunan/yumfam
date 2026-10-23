@@ -13,8 +13,6 @@ cover:
   alt: "Qiandaohu Pure Fun Resort — 2 Nights + Full Board"
 ---
 
-![Qiandaohu Pure Fun Resort — 2 Nights + Full Board](https://img.xialv.com/uploads/2026/04/27/item_pic_origin177728395113577.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥499 (≈$69) for 2 nights** · 3 nights ¥599 (≈$83) · 4 nights ¥799 (≈$110) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 Pierre & Vacances (法国太阳季) opened this new resort at Qiandaohu, and the deal is the full-board play: **2 nights with daily breakfast + lunch + dinner**, a **free upgrade to a family/parent-child room** (limited availability — book early), plus the resort's full set of stay rights. Stack nights and the per-night price drops fast: ¥249/night on the 2-night, ¥200/night on the 3-night and 4-night packages.

@@ -13,8 +13,6 @@ cover:
   alt: "Riyuegu Hot Spring Resort — Day Pass"
 ---
 
-![Riyuegu Hot Spring Resort — Day Pass](https://img.xialv.com/uploads/2026/09/28/cover_pic179056614218585.jpeg?imageView2/2/w/600/h/600/q/75)
-
 **Deal price: ¥149 (≈$21)** (was ¥228) · Valid over National Day — no surcharge · ⏰ National Day special — ends Oct 7
 
 Riyuegu is Xiamen's best-known hot spring resort, and this day pass is valid right through National Day with no surcharge. One ticket covers a single adult and you can bring one child under 1.2m.

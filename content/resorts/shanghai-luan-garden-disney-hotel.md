@@ -13,8 +13,6 @@ cover:
   alt: "Shanghai Luan Garden Hotel — Disney shuttle package"
 ---
 
-![Shanghai Luan Garden Hotel — Disney shuttle package](https://img.xialv.com/uploads/2025/01/02/item_pic1735796159629493.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 2 nights from ¥548 (≈$76)** (was ¥699) · 1 night ¥279 (≈$39) · ¥20 off orders over ¥299, ¥50 off over ¥598 · ⏰ bookable all year through Dec 31, 2026
 
 A smart base for a Shanghai Disney trip: Luan Garden Hotel runs a **free shuttle to Shanghai Disney Resort**, includes daily breakfast for two, and throws in free parking. The standout offer is the 2-night package — stack the platform's ¥50-off coupon and it lands at **¥548 for two nights** (after coupon).

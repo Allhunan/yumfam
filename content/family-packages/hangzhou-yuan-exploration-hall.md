@@ -13,8 +13,6 @@ cover:
   alt: "Hangzhou Yuan Exploration Hall — kids' discovery space"
 ---
 
-![Hangzhou Yuan Exploration Hall — kids' discovery space](https://img.xialv.com/uploads/2026/03/27/cover_pic1774590540262429.jpeg?imageView2/2/w/600/h/600/q/75)
-
 **Deal price: 1 adult + 1 kid 2-visit card ¥399 (≈$55)** (was ¥776 — 48% off) · Hangzhou-resident monthly card ¥399 · ⏰ purchase & activate by Nov 30, 2026; card valid 3 months after activation
 
 An **8,000㎡ indoor high-tech discovery space** built for rainy-day parenting: Yuan Exploration Hall mixes exhibits with hands-on engineering play. The headliner is a **real car, disassembled to show every part**, plus a station where kids assemble their own cars from blocks and **test them on three different slides**. The 3rd floor has a family rest cabin — a detail parents appreciate.

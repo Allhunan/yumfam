@@ -13,8 +13,6 @@ cover:
   alt: "Shanghai Snow World Crowne Plaza — Snow Play Stay"
 ---
 
-![Shanghai Snow World Crowne Plaza — Snow Play Stay](https://img.xialv.com/uploads/2025/05/16/item_pic_origin1747375678330512.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥999 (≈$138) for 1 night** · was ¥1,699 · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 This is the **official hotel of Shanghai Snow World (耀雪冰雪世界)** in Pudong's Lingang — China's headline indoor ski/snow complex. The package packs a lot in: a **superior room**, next-morning **breakfast for 2 adults + 1 kid** (kid = under 1.5m), and **2-day unlimited snow play tickets** for the same trio — snow play all day, two days running. Free parking, gym access, and an attached mall for meals.

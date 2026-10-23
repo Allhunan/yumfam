@@ -12,8 +12,6 @@ cover:
   alt: "Quanzhou Oulebao resort hotel"
 ---
 
-![Quanzhou Oulebao resort hotel](https://img.xialv.com/uploads/2023/04/05/item_pic1680681640064499.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥769** (≈$108, was ¥1888, about 59% off) · ⏰ Valid Oct 16–Nov 30, 2026 · ⏰ No surcharge for off-peak weekends · ⏰ Refundable if unreserved, auto-refund on expiry
 
 On the coast of Hui'an in Quanzhou, Fujian, the **Bashian Guohai (Eight Immortals Crossing the Sea) Resort** pairs a night at one of two themed hotels with its **Fairy Tale World theme park**. The bundle covers **1 night in a Eurasia room at the Water Park Hotel (mountain or garden view, assigned) or a Navigator twin / Voyager family / Dreamer family room at the Zheng He Treasure Ship Hotel, buffet breakfast for 2 adults + 2 kids (under 1.2m), and Fairy Tale World tickets for 2 adults + 2 kids with unlimited re-entry during the stay**.

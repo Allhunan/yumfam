@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen Sheraton buffet — Ocean Wave Pan-Asian restaurant"
 ---
 
-![Xiamen Sheraton buffet — Ocean Wave Pan-Asian restaurant](https://img.xialv.com/uploads/2025/02/05/item_pic_origin1738736228310342.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 adult + 1 kid (under 1.3 m) buffet, lunch or dinner — ¥138 (≈$19)** (was ¥298, about 47% of list) · Bookable through Jan 10, 2027 · ⏰ valid through Jan 10, 2027 (not usable Dec 24–25)
 
 The **Xiamen Sheraton** (湖里区嘉禾路, by the SM City mall) runs its all-you-can-eat at the **Ocean Wave Pan-Asian restaurant**. This voucher covers **1 adult + 1 kid under 1.3 m** for lunch (11:30–14:00) or dinner (17:30–21:00), usable **weekends and public holidays with no surcharge** — and with **1000+ vouchers already grabbed**, it's the crowd favorite of this week's batch.

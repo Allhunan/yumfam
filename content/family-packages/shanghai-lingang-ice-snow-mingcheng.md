@@ -13,8 +13,6 @@ cover:
   alt: "Shanghai Lingang Ice-Snow Mingcheng Hotel"
 ---
 
-![Shanghai Lingang Ice-Snow Mingcheng Hotel](https://img.xialv.com/uploads/2024/10/21/item_pic1729498227062147.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 night + breakfast + 2 all-day snow-play tickets — from ¥799 (≈$113)** (was ¥1,598, 50% of list) · Bookable Oct–Dec 2026, weekends/holidays usable with ¥100 surcharge · ⏰ valid through Dec 31, 2026
 
 Real snow in Shanghai: this Lingang bundle pairs a **1-night superior room with daily breakfast** at the Ice-Snow Mingcheng Hotel with **2 all-day unlimited snow-play tickets** at the Yaoxue Snow World next door — the tickets are **valid across 2 days**, so you get two full snow days — plus **complimentary hot-spring tickets** thrown in. Guests note the tickets alone nearly pay for the room.

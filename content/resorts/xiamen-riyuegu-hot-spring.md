@@ -13,8 +13,6 @@ cover:
   alt: "Riyuegu Hot Spring Resort Xiamen — outdoor hot spring pools"
 ---
 
-![Riyuegu Hot Spring Resort Xiamen — outdoor hot spring pools](https://img.xialv.com/uploads/2026/07/13/item_pic1783915804998762.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 night + breakfast & hot springs for 2 adults + 2 kids — from ¥666 (≈$94)** (was ¥1,988, about 34% of list) · Bookable Oct 1 – Oct 31, 2026 · ⏰ valid through Oct 31, 2026
 
 Autumn is hot-spring season, and Riyuegu (海沧区孚莲路1888-1889号) is one of the biggest in Xiamen — ranked among Fujian's top 20 family resorts. The headline numbers: **100+ outdoor hot-spring pools** plus a 24-hour natural-spring soak, with **silicic-acid and chloride springs rich in metasilicic acid, strontium and fluoride**. The park itself is Southeast Asian–style, tucked at the foot of Tianzhu Mountain.

@@ -13,8 +13,6 @@ cover:
   alt: "Slender West Lake Huijing Hotel Yangzhou — hotel room"
 ---
 
-![Slender West Lake Huijing Hotel Yangzhou — hotel room](https://img.xialv.com/uploads/2026/09/23/item_pic179014011741639.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 2 nights + daily buffet breakfast, lunch & dinner for two — ¥579 (≈$82)** (was ¥399/night) · Bookable Oct 10 – Dec 31, 2026, any day of the week · ⏰ valid through Dec 31, 2026
 
 This is the "livestream special" we've been waiting for in Yangzhou: the **Slender West Lake Huijing Hotel** （瘦西湖汇璟酒店） sits at the foot of Daming Temple right next to the 5A-rated **Slender West Lake** scenic area. Two nights in an elegant comfort room (28㎡, king or twin) with **three buffet meals a day** — breakfast, lunch and dinner — plus a free ride between the hotel and **Yangzhou / Yangzhou East train station** or the scenic area itself.

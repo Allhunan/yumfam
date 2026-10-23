@@ -13,8 +13,6 @@ cover:
   alt: "Qiandaohu Lichen Ruixuan Hotel — lakeside stay with all meals"
 ---
 
-![Qiandaohu Lichen Ruixuan Hotel — lakeside stay with all meals](https://img.xialv.com/uploads/2026/08/27/item_pic1787814404841598.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: mountain-view room, 4 nights with 3 meals/day — ¥698** (≈$98) · 3 nights ¥598 (≈$85) · 2 nights ¥498 (≈$70) · 1 night ¥249 (≈$35) (63% of list) · Valid Sep 1, 2026 – Mar 31, 2027 · usable any day of the week, **no weekend surcharge**
 
 A slow-travel deal on **Qiandaohu (Thousand-Island Lake)** in Chun'an: the Lichen Ruixuan sits in the central lake resort area, a short walk from the **night-cruise pier** and the **fish-street food quarter**. Every package includes **daily breakfast, lunch and dinner for two**, free parking, the gym, laundry room, kids' playground and a games room.

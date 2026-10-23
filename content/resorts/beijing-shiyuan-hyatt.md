@@ -13,8 +13,6 @@ cover:
   alt: "Hyatt Regency Beijing Shiyuan — Resort Deal"
 ---
 
-![Hyatt Regency Beijing Shiyuan — Resort Deal](https://img.xialv.com/uploads/2024/05/22/item_pic1716362733446269.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥699 (≈$96) for 1 night** · 2 nights (or 2 rooms for 1 night) ¥1,388 (≈$191) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 The Hyatt Regency Beijing Shiyuan sits in Yanqing's Expo Park district — the green, mountain-fringed side of Beijing — and this package turns a hotel night into a full family day out. You get a Hyatt king or twin room, **breakfast for 2 adults + 1 child** (child under 12), and your **pick of 3 from 6 activities** (each listed for 2 adults + 1 child, single use):

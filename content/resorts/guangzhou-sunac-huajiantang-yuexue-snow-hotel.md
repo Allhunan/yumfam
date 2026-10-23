@@ -13,8 +13,6 @@ cover:
   alt: "Guangzhou Sunac Huajiantang Yuexue hotel — indoor snow park and hotel exterior"
 ---
 
-![Guangzhou Sunac Huajiantang Yuexue hotel — indoor snow park and hotel exterior](https://img.xialv.com/uploads/2026/01/09/item_pic1767924683138861.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 night in a city-view room + unlimited snow play — ¥699 (≈$97)** (was ¥1000, about 70% of list) · Bookable through Dec 31, 2026 · ⏰ valid through Dec 31, 2026
 
 Snow in Guangzhou, minus the flight to Harbin. The **Sunac Huajiantang Yuexue** in Huadu pairs a night's stay with **unlimited-time snow play** at the Sunac indoor snow park (热雪奇迹) next door — build snowmen, sled, and just play in real snow all day, or go for the unlimited **beginner ski** package if you want to learn.

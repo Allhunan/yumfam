@@ -13,8 +13,6 @@ cover:
   alt: "Foshan Metoo sports theme park — indoor sci-fi play arena"
 ---
 
-![Foshan Metoo sports theme park — indoor sci-fi play arena](https://img.xialv.com/uploads/2026/04/17/item_pic177639569960453.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: 1 adult + 1 kid, 3 hours of play — ¥188 (≈$26)** · All-day solo ticket from **¥138** (≈$19, was ¥198) · Buy-and-use, refundable anytime
 
 A rainy-day (or scorching-day) lifesaver for families in the Greater Bay Area: **METOO HOME PATRY** （万民店） is a **10,000㎡ sci-fi-themed sports arena across two floors**, with **11 themed zones and 60+ immersive activities** — trampolines, slides, ball pits, climbing and high-energy interactive games — pitched at everyone from age 3 to 50. The 3-hour parent–kid pass even allows **multiple re-entries on the day of visit**.

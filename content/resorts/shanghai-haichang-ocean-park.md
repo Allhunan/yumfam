@@ -13,8 +13,6 @@ cover:
   alt: "Shanghai Haichang Ocean Park Resort — 1 Night + 2-Day Unlimited Park Entry"
 ---
 
-![Shanghai Haichang Ocean Park Resort — 1 Night + 2-Day Unlimited Park Entry](https://img.xialv.com/uploads/2026/09/01/item_pic_origin178825361646835.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥999 (≈$139)** (was ¥1,590 — 37% off) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 Shanghai's cruise-concept ocean theme resort, minutes from Haichang Ocean Park: one night in a superior room with breakfast for two, unlimited 2-day park entry for two adults, and a dedicated VIP entry lane so you skip the ticket queues. Valid at both the Haichang Ocean Park Resort Hotel and the Haichang Ultraman Theme Hotel (777 Qiqing Road, Pudong New Area). In select months, Friday check-ins carry zero surcharge — and the package is refundable anytime before use.

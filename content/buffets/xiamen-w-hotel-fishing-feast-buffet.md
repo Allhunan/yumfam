@@ -13,8 +13,6 @@ cover:
   alt: "Xiamen W Hotel NINE buffet — fishing feast seafood spread"
 ---
 
-![Xiamen W Hotel NINE buffet — fishing feast seafood spread](https://img.xialv.com/uploads/2026/09/02/item_pic1788335356888927.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: buffet lunch from ¥188 (≈$26), dinner from ¥208 (≈$29)** (was ¥268, ~30% off) · Bookable Sep 1 – Oct 31, 2026, weekends included · ⏰ valid through Oct 31, 2026
 
 A proper five-star-hotel seafood splurge at a fraction of the usual price. W Xiamen's NINE restaurant (思明区吕岭路1599号, 5th floor) is running a "Nine Li Fishing Feast" (九里开渔宴) theme buffet — the lunchtime spicy-seafood stalls alone are worth the trip: **clams, cockles, mud snails, cone snails and mango clams** sizzling to order, plus **garlic-grilled oysters, spicy shrimp and a rich shrimp broth**. Dinner steps it up with a **cheese-baked baby lobster on the house** and a **live-made over-the-bridge giant grouper (过桥大龙趸)** carved in front of you.

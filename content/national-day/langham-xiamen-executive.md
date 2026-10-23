@@ -13,8 +13,6 @@ cover:
   alt: "Langham Place Xiamen — Executive Room Package"
 ---
 
-![Langham Place Xiamen — Executive Room Package](https://img.xialv.com/uploads/2025/12/05/item_pic1764917186934362.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: ¥699 (≈$97)** (was ¥1,388) · ¥100 off orders over ¥601 → as low as ¥599 (≈$83) · ⏰ National Day special — ends Oct 7
 
 Langham's executive package is built for families who want the lounge life: an executive room for the night, breakfast for 2 adults + 1 child, executive lounge privileges, and a ¥100 dining voucher. The National Day surcharge is small and the coupon takes the edge off.

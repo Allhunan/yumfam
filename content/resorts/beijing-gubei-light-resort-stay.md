@@ -13,8 +13,6 @@ cover:
   alt: "Gubei Light Resort — hotel exterior at Gubei Water Town"
 ---
 
-![Gubei Light Resort — hotel exterior at Gubei Water Town](https://img.xialv.com/uploads/2025/03/14/item_pic_origin1741944746398580.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: Superior room, 1 night — ¥1,099** (≈$153, was ¥1,550, about 29% off) · Valid Oct 22 – Dec 31, 2026 · ⏰ refundable if unreserved
 
 The **Gubei Light Resort** sits in the prime "C-position" of **Gubei Water Town**, the canal town beneath the Simatai Great Wall — and this package bundles the whole experience: **2 water-town scenic-area tickets**, **2 hot-spring tickets**, plus your choice of a **Great Wall day or night tour with round-trip cableway** or a **dinner for two** (3 options to pick from). Weekend stays are possible with a surcharge, so this works for a Saturday escape too.

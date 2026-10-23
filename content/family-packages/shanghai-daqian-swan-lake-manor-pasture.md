@@ -13,8 +13,6 @@ cover:
   alt: "Shanghai Daqian Swan Lake Manor — autumn pasture with black swans and family play areas"
 ---
 
-![Shanghai Daqian Swan Lake Manor — autumn pasture with black swans and family play areas](https://img.xialv.com/uploads/2026/09/22/item_pic1790049460517854.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: single early-bird ticket — ¥29.9** (≈$4, was ¥88, 66% off) · Valid Sep 20 – Nov 22, 2026 · usable any day of the week, no blackout dates · buy-and-use, refundable anytime
 
 At **Daqian Swan Lake Manor** (1 Xiyangdian Road, Zhujiajiao Town, Qingpu), the autumn pasture program packs a surprising amount into one ticket: **1,000+ black swans**, the newly-arrived **capybara house**, a **deer forest**, yak and alpaca pastures, dwarf-goat and piglet meadows, a peacock garden and a **mini zoo** — plus a **no-power playground** (bouncy cloud, slides, sand pits), stream play, a rose garden and 10,000㎡ of lawn camping spots. Each adult may bring **one child under 1 m free**.

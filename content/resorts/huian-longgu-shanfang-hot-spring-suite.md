@@ -13,8 +13,6 @@ cover:
   alt: "Longgu Shanfang hot spring suite, Hui'an"
 ---
 
-![Longgu Shanfang hot spring suite, Hui'an](https://img.xialv.com/uploads/2025/01/25/item_pic1737777866736542.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: hot-spring suite, 1 night — ¥488 (≈$69)** (was ¥988, 50% off) · Valid Sep 23 – Dec 30, 2026 · Book by 23:59 the day before · **No surcharge on weekends** · Refundable if unreserved, auto-refund on expiry
 
 Hidden in the green hills of Julong Town, Huian, **Longgu Shanfang** （龙谷山房） is the quiet, classical-Chinese sibling of the Julong hot-spring resort next door: an antique-style courtyard inn wrapped in forest, where the air carries a measured **5,000 negative oxygen ions per cm³** and every corner — carved screens, stone paths, mist over the valley — looks like a period drama set. Families come for the slow version of a hot-spring weekend: wander the grounds and classical gardens by day, let the kids loose in the play zones, then soak the tiredness off in the evening.

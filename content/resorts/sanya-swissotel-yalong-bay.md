@@ -13,8 +13,6 @@ cover:
   alt: "Swissôtel Yalong Bay Sanya — Beach Resort Deal"
 ---
 
-![Swissôtel Yalong Bay Sanya — Beach Resort Deal](https://img.xialv.com/uploads/2026/07/31/cover_pic1785486077073595.jpeg?imageView2/2/w/600/h/600/q/75)
-
 **Deal price: ¥1,299 (≈$179) for 2 nights** · Family room 2 nights ¥1,599 (≈$221) · Suite 2 nights ¥2,399 (≈$331) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
 
 Swissôtel Yalong Bay brings Accor's Swiss hospitality to Sanya's best-known beach. The headline package: **2 nights in a Swiss-style family room**, **daily breakfast for 2 adults + 2 kids** (kids under 1.4m), **one buffet dinner for two**, free rein in the **800㎡ kids club**, the lagoon-style pool — and the beach is about a **5-minute walk** away.

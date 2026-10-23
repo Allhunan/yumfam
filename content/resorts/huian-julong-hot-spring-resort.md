@@ -13,8 +13,6 @@ cover:
   alt: "Huian Julong Hot Spring Park Hotel — hot spring pools"
 ---
 
-![Huian Julong Hot Spring Park Hotel — hot spring pools](https://img.xialv.com/uploads/2026/09/25/item_pic179026854435053.jpeg?imageView2/1/w/1050/h/588)
-
 **Deal price: Private hot-spring room, 1 night — ¥488** (≈$68, was ¥828, about 41% off) · Valid Sep 23 – Dec 30, 2026 · ⏰ refundable if unreserved, auto-refund on expiry
 
 Tucked inside the Julong eco-park in Huian, Quanzhou, the **Julong Hot Spring Park Hotel** （聚龙温泉公园酒店） is a new-Chinese-style garden hotel — Hui-style architecture, pavilions, covered corridors and streams running between the buildings — where the rooms sit directly above the spring park: walk downstairs and you're soaking. This one-price package covers **2 adults + 2 kids (under 1.4m)** for everything: a **private in-room hot-spring tub**, breakfast, **unlimited entries to the hot-spring park** for the whole stay, and the **Pinecone Tribe** kids' play zone — plus a free in-resort shuttle and free parking. Weekends carry **no surcharge**.
