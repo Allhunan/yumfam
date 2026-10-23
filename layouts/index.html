@@ -100,6 +100,26 @@
     </div>
   </div>
 
+  <section class="deals" id="halloween-picks">
+    <h2>🎃 Halloween Picks</h2>
+    <p style="color:var(--muted);margin:-8px 0 16px;">Spooky-season family fun for the Halloween weekend — haunted houses, trick-or-treat parades and after-dark circuses. Chongqing's festival ends Nov 1, so don't sit on that one.</p>
+    {{ range slice "/family-packages/xiamen-lingling-halloween-circus" "/family-packages/chongqing-sunac-halloween-carnival" "/family-packages/qingdao-sunac-ali-adventure-park" "/family-packages/bounce-beast-sports-park-halloween" }}
+    {{ with $.Site.GetPage . }}
+    {{ $p := . }}
+    <div class="deal">
+      {{ with $p.Params.cover.image }}
+      <a class="thumb" href="{{ $p.RelPermalink }}"><img src="{{ . }}" alt="{{ $p.Params.cover.alt }}" loading="lazy" referrerpolicy="no-referrer"></a>
+      {{ end }}
+      <div class="info">
+        <div class="t"><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></div>
+        <div class="meta">{{ $p.Params.location }}{{ with $p.Params.valid_until }} · until {{ . }}{{ end }}</div>
+      </div>
+      {{ with $p.Params.price }}<div class="price">{{ . }}</div>{{ end }}
+    </div>
+    {{ end }}
+    {{ end }}
+  </section>
+
   <section class="deals">
     <h2>Latest Deals</h2>
     {{ range first 8 (where .Site.RegularPages "Section" "in" (slice "autumn-deals" "buffets" "resorts" "family-packages")) }}
