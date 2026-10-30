@@ -10,6 +10,7 @@ description: "Xiamen Marco Polo buffet lunch at ¥148 (≈$21) for 1 adult + 1 k
 cover:
   image: "https://img.xialv.com/uploads/2025/10/22/item_pic1761115451367416.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Marco Polo buffet lunch"
+klook_link: "https://klook.tpx.lt/Som4E5FE"
 ---
 
 **Deal price: ¥148** (≈$21, was ¥268) · ⏰ Valid Oct 23, 2026 – Jan 31, 2027 · 🍰 Kid under 1.4m eats with you — free-upgraded to 1.5m if redeemed by Nov 30 · Refundable if unreserved

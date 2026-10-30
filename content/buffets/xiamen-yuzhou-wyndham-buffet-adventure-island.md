@@ -11,6 +11,7 @@ description: "Yuzhou Wyndham Xiamen: weekday dinner or weekend lunch buffet for 
 cover:
   image: "https://img.xialv.com/uploads/2026/04/10/item_pic1775814468991265.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Yuzhou Wyndham — buffet plus Adventure Island"
+klook_link: "https://klook.tpx.lt/jEkLdEzI"
 ---
 
 **Deal price: 1 adult + 1 kid buffet + Adventure Island ¥198 (≈$28)** (was ¥298) · Weekend dinner + park ¥268 (≈$38) · 5-visit cards ¥898/¥1,198 · ⏰ Valid through Dec 31, 2026

@@ -11,6 +11,7 @@ description: "InterContinental Xiamen's seaview buffet on Huandao Road: 9 food s
 cover:
   image: "https://img.xialv.com/uploads/2026/09/10/item_pic178902732633043.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen InterContinental Seaview Hotel — weekend buffet"
+klook_link: "https://klook.tpx.lt/5RF4YAkW"
 ---
 
 **Deal price: 1 adult + 1 child (under 1.2 m) — weekend lunch ¥158 (≈$22) / dinner ¥198 (≈$28)** · Lunch Sat–Sun 11:30–14:00 · Dinner Wed–Sat 17:30–21:00 · Valid Sep 2 – Dec 31, 2026 · Book by 21:00 the day before

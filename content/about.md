@@ -26,7 +26,7 @@ Every deal shows the real price in CNY (with an approximate USD reference), what
 
 ## How we make money
 
-Deal links are affiliate links. When you book through them, the partner platform pays us a small commission **at no extra cost to you**. That's what keeps YumFam free and keeps us hunting for deals every week. Prices are updated weekly; holiday promos can sell out fast, so the good ones never last long.
+Deal links are affiliate links. When you book through them, the partner platform pays us a small commission **at no extra cost to you**. That's what keeps YumFam free and keeps us hunting for deals every week. Prices are updated weekly; holiday promos can sell out fast, so the good ones never last long. Some pages also carry an “Also book on: Klook” link — if you book the same hotel or attraction through Klook from that link, YumFam may earn a commission from Klook at no extra cost to you.
 
 ## Who we are
 

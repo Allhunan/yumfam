@@ -11,6 +11,7 @@ description: "Hyatt Regency Beijing Shiyuan in Yanqing's Expo Park area: 1 night
 cover:
   image: "https://img.xialv.com/uploads/2024/05/22/item_pic1716362733446269.jpeg?imageView2/1/w/1050/h/588"
   alt: "Hyatt Regency Beijing Shiyuan — Resort Deal"
+klook_link: "https://klook.tpx.lt/cXyursuD"
 ---
 
 **Deal price: ¥699 (≈$96) for 1 night** · 2 nights (or 2 rooms for 1 night) ¥1,388 (≈$191) · Valid Sep 29 – Dec 31, 2026 · **Weekends at no surcharge** · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup

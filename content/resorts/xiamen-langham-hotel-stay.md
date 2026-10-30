@@ -11,6 +11,7 @@ description: "One night at Xiamen's Langham Hotel from ¥699 (≈$97, was ¥1,19
 cover:
   image: "https://img.xialv.com/uploads/2024/08/02/item_pic1722591019556136.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Langham Hotel — guest room"
+klook_link: "https://klook.tpx.lt/P8p07rt5"
 ---
 
 **Deal price: Superior king/twin, 1 night + breakfast for two — ¥699** (≈$97, was ¥1,198, about 42% off) · Valid Oct 15 – Dec 31, 2026 · ⏰ refundable if unreserved, auto-refund on expiry

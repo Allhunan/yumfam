@@ -11,6 +11,7 @@ description: "Lingling Hotel Xiamen: 1-night stay for the family with 2 breakfas
 cover:
   image: "https://img.xialv.com/uploads/2026/09/30/item_pic1790756836864695.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Lingling Hotel — circus and animal kingdom"
+klook_link: "https://klook.tpx.lt/g8di4vaj"
 ---
 
 **Deal price: 1 night + breakfasts + 2 circus tickets + Animal Kingdom — from ¥599 (≈$84)** (was ¥1,930, about 31% of list) · Bookable Oct–Dec 2026 · ⏰ valid through Dec 31, 2026

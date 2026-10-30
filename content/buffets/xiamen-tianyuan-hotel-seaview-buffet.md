@@ -11,6 +11,7 @@ description: "Tianyuan Hotel （厦门天元酒店） on Huandao Road: a seaview
 cover:
   image: "https://img.xialv.com/uploads/2026/01/04/item_pic176750521096669.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Tianyuan Hotel seaview buffet"
+klook_link: "https://klook.tpx.lt/nEooksPP"
 ---
 
 **Deal price: adult lunch from ¥158 (≈$22, was ¥208) — each adult brings one kid under 1.2 m free** · Lunch daily 11:30–14:00 · Dinner Thu–Sun 17:30–21:00 · Valid Jan 15 – Dec 31, 2026 · Phone booking required (see below)

@@ -11,6 +11,7 @@ description: "Star River Hotel in Guangzhou's Panyu district, minutes from Chime
 cover:
   image: "https://img.xialv.com/uploads/2023/01/06/item_pic1672984493726893.jpeg?imageView2/1/w/1050/h/588"
   alt: "Guangzhou Star River Hotel — Chimelong Family Deal"
+klook_link: "https://klook.tpx.lt/4qbCVqH5"
 ---
 
 **Deal price: ¥999 (≈$138) for 2 nights (buy 1 get 1)** · Castle river-view family room ¥669 (≈$92) · Room + buffet breakfast & dinner ¥949 (≈$131) · Xialv Money-Saver Card: ¥30 off + ¥50 welcome bonus

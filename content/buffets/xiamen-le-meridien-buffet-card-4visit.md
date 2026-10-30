@@ -10,6 +10,7 @@ description: "Xiamen Le Méridien buffet 4-visit card at ¥598 (≈$84, was ¥91
 cover:
   image: "https://img.xialv.com/uploads/2026/10/12/item_pic179179570232016.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Le Méridien buffet"
+klook_link: "https://klook.tpx.lt/2gJwSPtf"
 ---
 
 **Deal price: ¥598** (≈$84, was ¥912) · ⏰ Valid Oct 24 – Dec 31, 2026 · 🦀 4 visits × (1 adult + 1 kid under 1.4m), lunch or dinner · 🎠 4 kids' playground tickets included · Refundable if unreserved

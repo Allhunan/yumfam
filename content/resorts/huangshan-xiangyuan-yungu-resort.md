@@ -11,6 +11,7 @@ description: "Huangshan Xiangyuan Yungu Resort, inside the Huangshan scenic area
 cover:
   image: "https://img.xialv.com/uploads/2025/06/24/item_pic1750735703862161.jpeg?imageView2/1/w/1050/h/588"
   alt: "Huangshan Xiangyuan Yungu Resort — Huizhou-style resort in the mountains"
+klook_link: "https://klook.tpx.lt/aQo20Jr3"
 ---
 
 **Deal price: 1 night + breakfasts + hot springs + shuttle — from ¥730 (≈$103)** (was ¥3,588, about 20% of list) · Bookable through Dec 31, 2026 · ⏰ valid through Dec 31, 2026 · No weekend surcharge

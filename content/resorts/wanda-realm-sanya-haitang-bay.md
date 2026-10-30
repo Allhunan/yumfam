@@ -11,6 +11,7 @@ description: "Two nights at Wanda Realm Haitang Bay Sanya from ¥999 (≈$139, w
 cover:
   image: "https://img.xialv.com/uploads/2023/02/16/item_pic167653295163985.jpeg?imageView2/1/w/1050/h/588"
   alt: "Wanda Realm Haitang Bay Sanya — 2 Nights from ¥999"
+klook_link: "https://klook.tpx.lt/Uf4TSRlA"
 ---
 
 **Deal price: ¥999 (≈$139) for 2 nights** (was ¥1,599 — 37% off) · Sea-view upgrade ¥1,188 with a hotpot set for two · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup

@@ -11,6 +11,7 @@ description: "Accor's Swissôtel in Sanya's Yalong Bay: Swiss-style family rooms
 cover:
   image: "https://img.xialv.com/uploads/2026/07/31/cover_pic1785486077073595.jpeg?imageView2/2/w/600/h/600/q/75"
   alt: "Swissôtel Yalong Bay Sanya — Beach Resort Deal"
+klook_link: "https://klook.tpx.lt/wLV0ifaK"
 ---
 
 **Deal price: ¥1,299 (≈$179) for 2 nights** · Family room 2 nights ¥1,599 (≈$221) · Two-room suite 2 nights ¥2,399 (≈$331) · Valid Aug 1 – Oct 31, 2026 · Book by 23:59 the day before · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup

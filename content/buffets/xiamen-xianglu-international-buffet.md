@@ -11,6 +11,7 @@ description: "Xiamen Xianglu International Hotel's Four Seasons restaurant buffe
 cover:
   image: "https://img.xialv.com/uploads/2026/10/22/item_pic1792657933490122.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Xianglu International Hotel buffet — Chaoshan beef hotpot"
+klook_link: "https://klook.tpx.lt/cG7spaVo"
 ---
 
 **Deal price: single buffet, lunch or dinner interchangeable — from ¥108 (≈$15)** (was ¥198, about 55% of list) · Weekends & holidays included · ⏰ valid through Mar 10, 2027

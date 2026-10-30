@@ -11,6 +11,7 @@ description: "Millennium Harbourview Hotel's all-you-can-eat buffet next to Xiam
 cover:
   image: "https://img.xialv.com/uploads/2026/07/13/item_pic1783912463470466.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Millennium Harbourview Hotel buffet restaurant"
+klook_link: "https://klook.tpx.lt/rzo5fCrW"
 ---
 
 **Deal price: 1 adult + 1 kid buffet (lunch or dinner) — ¥198 (≈$28)** (was ¥265) · Solo ¥168 · 2 adults ¥320 · Kid ¥128 · Bookable through Dec 31, 2026 · **Fri–Sun and holidays, no surcharge**

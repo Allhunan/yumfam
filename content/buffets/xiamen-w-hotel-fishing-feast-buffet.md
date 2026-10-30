@@ -11,6 +11,7 @@ description: "W Xiamen's 'Nine Li Fishing Feast' themed buffet: lunch from ¥188
 cover:
   image: "https://img.xialv.com/uploads/2026/09/02/item_pic1788335356888927.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen W Hotel NINE buffet — fishing feast seafood spread"
+klook_link: "https://klook.tpx.lt/j5OjBgvx"
 ---
 
 **Deal price: buffet lunch from ¥188 (≈$26), dinner from ¥208 (≈$29)** (was ¥268, ~30% off) · Bookable Sep 1 – Oct 31, 2026 · ⏰ Valid through Oct 31, 2026

@@ -11,6 +11,7 @@ description: "Huizhou Yingfuxing Hotel from ¥399 (≈$55, was ¥799): 1 night i
 cover:
   image: "https://img.xialv.com/uploads/2026/08/25/item_pic1787643234113672.jpeg?imageView2/1/w/1050/h/588"
   alt: "Huizhou Yingfuxing Hotel garden balcony room"
+klook_link: "https://klook.tpx.lt/ISdFf8Gn"
 ---
 
 **Deal price: ¥399** (≈$55, was ¥799 — 50% off) for 1 night · ⏰ Valid August 28 – December 31, 2026 · Weekends at no surcharge · Refundable if unbooked

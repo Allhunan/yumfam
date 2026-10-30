@@ -11,6 +11,7 @@ description: "Cruise-themed ocean park resort: 1 night in a superior room, break
 cover:
   image: "https://img.xialv.com/uploads/2026/09/01/item_pic_origin178825361646835.jpeg?imageView2/1/w/1050/h/588"
   alt: "Shanghai Haichang Ocean Park Resort — 1 Night + 2-Day Unlimited Park Entry"
+klook_link: "https://klook.tpx.lt/I3oyjBUi"
 ---
 
 **Deal price: ¥999 (≈$139)** (was ¥1,590 — 37% off) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup

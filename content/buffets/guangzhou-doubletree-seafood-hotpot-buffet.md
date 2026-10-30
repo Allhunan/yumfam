@@ -11,6 +11,7 @@ description: "DoubleTree by Hilton Guangzhou's seafood hotpot buffet: salmon, H�
 cover:
   image: "https://img.xialv.com/uploads/2026/09/29/item_pic1790661783213334.jpeg?imageView2/1/w/1050/h/588"
   alt: "Guangzhou DoubleTree by Hilton — Seafood Hotpot Buffet"
+klook_link: "https://klook.tpx.lt/uc7eneg4"
 ---
 
 **Deal price: ¥188 (≈$26) for 1 adult + 1 kid lunch** · 1 adult + 1 kid dinner ¥288 (≈$40) · 2 adults + 2 kids lunch ¥338 (≈$47) · 2 adults + 2 kids dinner ¥498 (≈$69) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup

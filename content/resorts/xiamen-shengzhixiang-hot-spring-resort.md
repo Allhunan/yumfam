@@ -11,6 +11,7 @@ description: "Xiamen Shengzhixiang Hot Spring Resort in Tong'an's Tingxi valley:
 cover:
   image: "https://img.xialv.com/uploads/2026/01/20/item_pic_origin1768890942188581.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Shengzhixiang Hot Spring Resort — hot spring pools"
+klook_link: "https://klook.tpx.lt/ApAAUVgi"
 ---
 
 **Deal price: 1 night + breakfasts + unlimited hot springs for 2 adults & 2 kids — from ¥568 (≈$80)** (was ¥1,118, about 51% of list) · Bookable through Dec 31, 2026 · ⏰ valid through Dec 31, 2026

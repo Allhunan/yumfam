@@ -10,6 +10,7 @@ description: "Riyuegu hot spring single ticket at ¥109 (≈$15, was ¥228): 100
 cover:
   image: "https://img.xialv.com/uploads/2025/02/26/item_pic1740572994798146.jpeg?imageView2/1/w/1050/h/588"
   alt: "Riyuegu hot spring resort Xiamen"
+klook_link: "https://klook.tpx.lt/I7ICerVz"
 ---
 
 **Deal price: ¥109** (≈$15, was ¥228) · ⏰ Valid Oct 22 – Nov 30, 2026 · ♨️ Bring 1 kid under 1.2m free · Weekends usable (+¥40 surcharge) · Refundable anytime

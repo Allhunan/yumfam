@@ -11,6 +11,7 @@ description: "Guangzhou's Hilton Curio seafood buffet at opening prices: 1 adult
 cover:
   image: "https://img.xialv.com/uploads/2026/08/21/item_pic1787273696849513.jpeg?imageView2/1/w/1050/h/588"
   alt: "Guangzhou Hilton Curio Jiangxin Ge seafood buffet — fresh seafood spread"
+klook_link: "https://klook.tpx.lt/uCcM6sOi"
 ---
 
 **Deal price: 1 adult + 1 kid lunch buffet — ¥168** (≈$24, was ¥308, 45% off) · Dinner ¥228 (≈$32) · Valid Aug 29 – Nov 30, 2026 · **Lunch Sat/Sun only, dinner Fri–Sun, no weekend surcharge** · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup

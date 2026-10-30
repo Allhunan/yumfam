@@ -11,6 +11,7 @@ description: "Poly Junya Guangzhou Science City: 1-night superior room for 2 adu
 cover:
   image: "https://img.xialv.com/uploads/2025/05/14/item_pic1747192789550387.jpeg?imageView2/1/w/1050/h/588"
   alt: "Poly Junya Guangzhou Science City — hotel room and buffet"
+klook_link: "https://klook.tpx.lt/1pjcRBYV"
 ---
 
 **Deal price: 1 night for 2 adults + 2 kids — from ¥518 (≈$73)** (was ¥1,299) · Two-buffet tiers ¥539/¥588, Fridays & Saturdays · All-week breakfast tier ¥518 · ⏰ Valid through Dec 31, 2026, no weekend surcharge

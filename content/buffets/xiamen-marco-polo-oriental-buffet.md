@@ -10,6 +10,7 @@ description: "Xiamen Marco Polo Oriental Hotel buffet from ¥138 (≈$19) per pe
 cover:
   image: "https://img.xialv.com/uploads/2026/10/19/item_pic1792401772044789.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Marco Polo Oriental Hotel buffet"
+klook_link: "https://klook.tpx.lt/VeStMwZh"
 ---
 
 **Deal price: ¥1,380 for 10** — works out to **¥138/person** (≈$19, was ¥198) · ⏰ Valid Oct 23, 2026 – Jan 31, 2027 · ⏰ No surcharge on weekends or public holidays

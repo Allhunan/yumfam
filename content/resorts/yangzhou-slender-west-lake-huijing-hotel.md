@@ -11,6 +11,7 @@ description: "Two nights at Yangzhou's Slender West Lake Huijing Hotel with thre
 cover:
   image: "https://img.xialv.com/uploads/2026/09/23/item_pic179014011741639.jpeg?imageView2/1/w/1050/h/588"
   alt: "Slender West Lake Huijing Hotel Yangzhou — hotel room"
+klook_link: "https://klook.tpx.lt/N5VfKRg2"
 ---
 
 **Deal price: 2 nights + daily buffet breakfast, lunch & dinner for two — ¥579 (≈$81)** (was ¥798) · 1-night version ¥299 (≈$42) · Bookable Oct 10 – Dec 31, 2026, any day · ⏰ valid through Dec 31, 2026

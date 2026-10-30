@@ -11,6 +11,7 @@ description: "Moganshan Senbo Resort from ¥759 (≈$105, was ¥1598): 1 night i
 cover:
   image: "https://img.xialv.com/uploads/2026/06/17/item_pic1781673888063848.jpeg?imageView2/1/w/1050/h/588"
   alt: "Moganshan Senbo Resort Hotel"
+klook_link: "https://klook.tpx.lt/jYyIlxdu"
 ---
 
 **Deal price: ¥759** (≈$105, was ¥1598 — 53% off) for 1 night · ⏰ Valid October 22, 2026 – June 30, 2027 · Oct–Mar no surcharge (except New Year & Spring Festival) · Refundable if unbooked

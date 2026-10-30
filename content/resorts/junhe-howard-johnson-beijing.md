@@ -11,6 +11,7 @@ description: "Hot-spring season at Beijing Junhe Howard Johnson on the Chaobai R
 cover:
   image: "https://img.xialv.com/uploads/2026/08/25/item_pic1787638199541877.jpeg"
   alt: "Beijing Junhe Howard Johnson — Hot Spring Resort Deal"
+klook_link: "https://klook.tpx.lt/Ec2B1nVL"
 ---
 
 **Deal price: from ¥598 (≈$82) for 1 night** · 2-night stays from ¥998 (≈$138) · Family rooms from ¥898 (≈$124) · Vouchers valid Sep 16 – Nov 14, 2026 · **Zero weekend surcharge** · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup

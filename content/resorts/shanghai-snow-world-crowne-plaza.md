@@ -11,6 +11,7 @@ description: "The official hotel of Shanghai's indoor Snow World: superior room 
 cover:
   image: "https://img.xialv.com/uploads/2025/05/16/item_pic_origin1747375678330512.jpeg?imageView2/1/w/1050/h/588"
   alt: "Shanghai Snow World Crowne Plaza — Snow Play Stay"
+klook_link: "https://klook.tpx.lt/T8NR9zzq"
 ---
 
 **Deal price: ¥999 (≈$138) for 1 night** · was ¥1,699 · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup

@@ -10,6 +10,7 @@ description: "Qingdao Oriental Movie Metropolis DoubleTree by Hilton from ¥449 
 cover:
   image: "https://img.xialv.com/uploads/2025/10/27/item_pic1761556480465859.jpeg?imageView2/1/w/1050/h/588"
   alt: "Qingdao Oriental Movie Metropolis DoubleTree by Hilton"
+klook_link: "https://klook.tpx.lt/L1rS6BNq"
 ---
 
 **Deal price: from ¥449** (≈$63, was ¥988, about 55% off) · ⏰ The whole promotion ends Oct 31, 2026 · ⏰ Refundable if unreserved

@@ -11,6 +11,7 @@ description: "Dongguan Sanzheng Banshan Hot Spring Hotel from ¥699 (≈$97, was
 cover:
   image: "https://img.xialv.com/uploads/2025/05/12/item_pic_origin1747028950590136.jpeg?imageView2/1/w/1050/h/588"
   alt: "Dongguan Sanzheng Banshan Hot Spring Hotel"
+klook_link: "https://klook.tpx.lt/ClGtJnW5"
 ---
 
 **Deal price: from ¥699** (≈$97, was ¥1399 — 50% off) for 2 adults + 2 kids · ⏰ Valid October 15 – December 31, 2026 · Sunday–Thursday no surcharge · Refundable if unbooked

@@ -11,6 +11,7 @@ description: "Snow in Shanghai without leaving the city: from ¥799 (≈$112, wa
 cover:
   image: "https://img.xialv.com/uploads/2024/10/21/item_pic1729498227062147.jpeg?imageView2/1/w/1050/h/588"
   alt: "Shanghai Yaoxue Ice and Snow World"
+klook_link: "https://klook.tpx.lt/0Ps2Vyir"
 ---
 
 **Deal price: from ¥799** (≈$112, was ¥1,598, about 50% off) · Valid through Dec 30, 2026 · ⏰ refundable if unreserved, auto-refund on expiry

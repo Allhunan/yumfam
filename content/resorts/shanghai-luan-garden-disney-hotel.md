@@ -11,6 +11,7 @@ description: "Shanghai Luan Garden Hotel: 2 nights from ¥548 with daily breakfa
 cover:
   image: "https://img.xialv.com/uploads/2025/01/02/item_pic1735796159629493.jpeg?imageView2/1/w/1050/h/588"
   alt: "Shanghai Luan Garden Hotel — Disney shuttle package"
+klook_link: "https://klook.tpx.lt/Wy77iX1f"
 ---
 
 **Deal price: 2 nights ¥598 → ¥548 (≈$77) after the ¥50 coupon** · 1 night ¥299 → ¥279 (≈$39) after the ¥20 coupon · Both tiers were ¥699 · ⏰ Bookable all year through Dec 31, 2026

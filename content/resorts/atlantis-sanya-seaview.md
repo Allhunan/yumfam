@@ -11,6 +11,7 @@ description: "Off-peak steal at Sanya's Atlantis: 2 nights in a sea-view room pl
 cover:
   image: "https://img.xialv.com/uploads/2026/08/20/video_cover_pic1787209657116830.jpeg?imageView2/2/w/1050/h/588/q/75"
   alt: "Atlantis Sanya — 2 Nights Sea-View Room + Waterpark & Aquarium"
+klook_link: "https://klook.tpx.lt/REK7tQ6k"
 ---
 
 **Deal price: ¥2,788 for 2 nights (≈$388)** (was ¥5,376 — 48% off) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup

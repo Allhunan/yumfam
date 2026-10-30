@@ -11,6 +11,7 @@ description: "Emerald Hilton Guangzhou: 1 night for 2 adults + 2 kids from ¥799
 cover:
   image: "https://img.xialv.com/uploads/2022/03/31/item_pic_origin1648697427562729.jpeg?imageView2/1/w/1050/h/588"
   alt: "Guangzhou Emerald Hilton"
+klook_link: "https://klook.tpx.lt/jIpnJ1Z2"
 ---
 
 **Deal price: ¥799 (≈$111) for 2 adults + 2 kids, 1 night with dinner + breakfast buffets** · 2 nights with breakfast ¥899 (≈$125) · Dinner + breakfast, 1.2 m kids ×2 allowed ¥899 · Dinner + breakfast, 1.4 m + 1.2 m kids ¥999 (≈$139) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup

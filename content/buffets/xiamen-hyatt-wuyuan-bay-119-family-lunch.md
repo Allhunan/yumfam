@@ -11,6 +11,7 @@ description: "Hyatt Regency Xiamen Wuyuan Bay （厦门五缘湾凯悦酒店） 
 cover:
   image: "https://img.xialv.com/uploads/2025/12/24/item_pic1766541435569520.jpeg?imageView2/1/w/1050/h/588"
   alt: "Hyatt Regency Xiamen Wuyuan Bay buffet lunch"
+klook_link: "https://klook.tpx.lt/nBOFyBay"
 ---
 
 **Deal price: weekday lunch, 1 adult + 1 kid under 6 — ¥119 (≈$17)** (was ¥228) · Valid Oct 10, 2026 – Jan 31, 2027 · ⏰ refundable if unreserved, auto-refunded on expiry

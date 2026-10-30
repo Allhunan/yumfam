@@ -11,6 +11,7 @@ description: "Guangzhou's 'Little Greece' — Santori Hot Spring Manor in Conghu
 cover:
   image: "https://img.xialv.com/uploads/2026/09/08/item_pic1788831202993753.jpeg?imageView2/1/w/1050/h/588"
   alt: "Guangzhou Santori Hot Spring Manor — resort and pools"
+klook_link: "https://klook.tpx.lt/EmBEST4v"
 ---
 
 **Deal price: 1 night + meals + pools — ¥598 (≈$84)** (was ¥1,200, 50% off) · Valid Sep 6 – Dec 31, 2026 · Saturdays +¥100/room · Refundable if unreserved

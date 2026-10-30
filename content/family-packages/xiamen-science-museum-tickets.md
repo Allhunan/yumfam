@@ -11,6 +11,7 @@ description: "Xiamen Science Museum combo tickets: the 4-hall adult ticket (main
 cover:
   image: "https://img.xialv.com/uploads/2026/09/30/item_pic179076546452388.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Science Museum — exhibition halls"
+klook_link: "https://klook.tpx.lt/HUpvfJUL"
 ---
 
 **Deal price: multi-hall tickets from ¥80 (≈$11)** · 4-hall adult ticket **¥139** (≈$20) / discounted **¥119** (≈$17) · Valid Oct 13 – Nov 30, 2026 · **Tuesday–Sunday only** · Buy-and-use, refundable anytime, auto-refund on expiry · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup

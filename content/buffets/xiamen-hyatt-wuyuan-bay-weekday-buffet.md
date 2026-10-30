@@ -11,6 +11,7 @@ description: "Hyatt Regency Xiamen Wuyuan Bay weekday lunch buffet: 1 adult + 1 
 cover:
   image: "https://img.xialv.com/uploads/2025/12/24/item_pic1766541435569520.jpeg?imageView2/1/w/1050/h/588"
   alt: "Hyatt Regency Xiamen Wuyuan Bay buffet — restaurant spread"
+klook_link: "https://klook.tpx.lt/UPdRT9UU"
 ---
 
 **Deal price: weekday lunch, 1 adult + 1 kid under 6 — ¥168 (≈$24)** (was ¥228, ~26% off) · Weekend tier ¥188 (≈$26) · Bookable Jan 21 – Dec 31, 2026 · ⏰ Lunch 11:30–14:00, reserve by 21:00 the day before

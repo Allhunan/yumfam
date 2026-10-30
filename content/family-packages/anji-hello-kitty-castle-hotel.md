@@ -11,6 +11,7 @@ description: "Sleep in a castle and walk straight into Hello Kitty Park: Anji's 
 cover:
   image: "https://img.xialv.com/uploads/2023/06/13/video_cover_pic1686652880718828.jpeg"
   alt: "Anji Hello Kitty Castle Hotel"
+klook_link: "https://klook.tpx.lt/CWTZs1NB"
 ---
 
 **Deal price: 1 night + breakfast for 2 + 2 Hello Kitty Park adult tickets with 2-day unlimited entry — ¥699 (≈$98)** (was ¥1,298) · Valid Sep 1 – Dec 29, 2026 · Book by 12:00 noon the day before · Unbooked vouchers refundable

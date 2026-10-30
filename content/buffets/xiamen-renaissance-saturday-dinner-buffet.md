@@ -11,6 +11,7 @@ description: "Xiamen Renaissance Hotel Saturday dinner buffet from ¥178 (≈$25
 cover:
   image: "https://img.xialv.com/uploads/2026/09/08/item_pic1788838711546815.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Renaissance Hotel dinner buffet"
+klook_link: "https://klook.tpx.lt/IFm47EwW"
 ---
 
 **Deal price: ¥178** (≈$25, was ¥298 — 40% off) for 1 adult + 1 child · ⏰ Saturday evenings 17:30–21:00 · Valid September 12 – December 31, 2026 · Refundable if unbooked

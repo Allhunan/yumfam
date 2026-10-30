@@ -11,6 +11,7 @@ description: "Xiamen Fantawild Holiday Hotel: 1 night with breakfast + unlimited
 cover:
   image: "https://img.xialv.com/uploads/2026/06/30/item_pic17828114576894.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Fantawild Holiday Hotel — family hotel with theme park package"
+klook_link: "https://klook.tpx.lt/GwQeMEdo"
 ---
 
 **Deal price: 1 night + 2-day unlimited park tickets for 2 — from ¥999** (≈$140, was ¥1,399) · Valid Sep 16 – Oct 31, 2026 · Refundable before you reserve; auto-refund if it expires unused

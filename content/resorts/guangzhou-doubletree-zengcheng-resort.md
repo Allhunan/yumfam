@@ -11,6 +11,7 @@ description: "DoubleTree by Hilton Guangzhou Zengcheng: from ¥499 with breakfas
 cover:
   image: "https://img.xialv.com/uploads/2023/12/05/item_pic170174358139679.jpeg?imageView2/1/w/1050/h/588"
   alt: "DoubleTree by Hilton Guangzhou Zengcheng"
+klook_link: "https://klook.tpx.lt/wljZXLnQ"
 ---
 
 **Deal price: ¥499 (≈$69) for 1 night + breakfast + Huanlewan park ticket** · + breakfast + seafood dinner ¥698 (≈$97) · Breakfast only, 2 nights ¥698 · + breakfast + brunch ¥499 · + breakfast + fruit picking + movie ticket ¥499 · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup

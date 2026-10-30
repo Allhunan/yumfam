@@ -11,6 +11,7 @@ description: "Xiamen Riyuegu Hot Spring Resort Double-11 deal from ¥688 (≈$96
 cover:
   image: "https://img.xialv.com/uploads/2026/05/27/item_pic1779858395084759.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Riyuegu Hot Spring Resort"
+klook_link: "https://klook.tpx.lt/zHwPAvC3"
 ---
 
 **Deal price: ¥688** (≈$96, was ¥1298 — 47% off) for 1 night · ⏰ Valid October 24 – December 30, 2026 · Refundable if unbooked, auto-refund on expiry

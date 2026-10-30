@@ -11,6 +11,7 @@ description: "Foshan Marriott's Zhen Chu Western Restaurant dinner buffet by Qia
 cover:
   image: "https://img.xialv.com/uploads/2026/01/08/item_pic1767865855336472.jpeg?imageView2/1/w/1050/h/588"
   alt: "Foshan Marriott Zhen Chu restaurant — dinner buffet"
+klook_link: "https://klook.tpx.lt/lcIP6gjF"
 ---
 
 **Deal price: dinner for 1 adult + 1 kid — ¥279 (≈$39)** (was ¥318) · **2 adults + 2 kids — ¥529** (≈$75, was ¥619) · Valid Jan 15, 2026 – Jan 15, 2027 · **usable Wednesdays, Thursdays and Sundays only**, 18:00–21:00
