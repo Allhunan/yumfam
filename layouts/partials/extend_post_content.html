@@ -1,3 +1,9 @@
+{{/* Klook parallel entry: renders only when the page sets klook_link (Travelpayouts redirect link, added per page later). Xialv main button above is untouched. */}}
+{{ if and .IsPage .Params.klook_link }}
+<hr style="margin:1.5rem 0 1rem;">
+<p style="margin:0;">Also book on: <a href="{{ .Params.klook_link }}" target="_blank" rel="nofollow noopener" data-platform="klook" data-deal-slug="{{ .File.BaseFileName }}"><strong>Klook（玩乐）</strong></a> <span style="opacity:.8;">— Klook is a good fit for attraction tickets, day tours and activities; the main deal above stays on its primary booking page.</span></p>
+{{ end }}
+
 {{/* Related deals: shown at the end of product pages only. */}}
 {{ if and .IsPage .Params.price }}
 {{ $related := first 3 (where .CurrentSection.Pages "Permalink" "ne" .Permalink) }}

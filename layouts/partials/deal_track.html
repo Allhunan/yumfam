@@ -1,9 +1,22 @@
 <script>
 // GA4: track clicks on deal buttons (links leading to /go/ scan pages)
+// and on parallel-platform entries (links marked with data-platform,
+// e.g. Klook). The /go/ branch is unchanged so existing reporting is intact.
 document.addEventListener('click', function (e) {
-  var a = e.target && e.target.closest ? e.target.closest('a[href*="/go/"]') : null;
+  var a = e.target && e.target.closest ? e.target.closest('a') : null;
   if (!a || typeof gtag !== 'function') return;
   var href = a.getAttribute('href') || '';
+  var platform = a.getAttribute('data-platform');
+  if (platform) {
+    gtag('event', 'click_deal', {
+      'deal_slug': a.getAttribute('data-deal-slug') || window.location.pathname,
+      'source_page': window.location.pathname,
+      'platform': platform,
+      'transport_type': 'beacon'
+    });
+    return;
+  }
+  if (href.indexOf('/go/') === -1) return;
   var m = href.match(/\/go\/([^\/?#]+)/);
   gtag('event', 'click_deal', {
     'deal_slug': m ? m[1] : href,
