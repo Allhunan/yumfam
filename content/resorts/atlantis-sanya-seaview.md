@@ -1,7 +1,7 @@
 ---
 title: "Atlantis Sanya — 2 Nights Sea-View Room + Waterpark & Aquarium for 2 Adults + 2 Kids, from ¥2,788"
 date: 2026-10-02
-draft: false
+draft: true
 location: "Sanya"
 price: "¥2,788 / 2 nights (≈$388)"
 was_price: "¥5,376"

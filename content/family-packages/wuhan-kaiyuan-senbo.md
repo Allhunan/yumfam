@@ -1,7 +1,7 @@
 ---
 title: "Wuhan Kaiyuan Senbo Resort — Autumn Harvest Stay: 1 Night + 2 Waterpark/Fantasy Island Tickets, from ¥699"
 date: 2026-10-02
-draft: false
+draft: true
 location: "Wuhan"
 price: "¥699 (≈$97)"
 was_price: "¥1,988"
