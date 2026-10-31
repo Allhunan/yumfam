@@ -1,0 +1,10 @@
+---
+title: "Hangzhou Senbo Resort"
+date: 2026-10-31
+draft: false
+layout: "go"
+target_url: "https://m.xialv.com/xianlu/153326?a=union/b8v537pf"
+description: "Deal redirect page."
+---
+
+Redirecting to the booking page…
