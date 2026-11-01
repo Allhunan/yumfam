@@ -11,6 +11,7 @@ description: "Xiamen Sheraton's 'Ocean Wave Pan-Asian' buffet by the SM City mal
 cover:
   image: "https://img.xialv.com/uploads/2025/02/05/item_pic_origin1738736228310342.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Sheraton buffet — Ocean Wave Pan-Asian restaurant"
+klook_link: "https://klook.tpx.lt/22kxYUOL"
 ---
 
 **Deal price: 1 adult + 1 kid (under 1.3 m) buffet — ¥138 (≈$19)** (was ¥298, about 46% of list) · Saturdays & Sundays · ⏰ valid through Dec 30, 2026

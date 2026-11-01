@@ -11,6 +11,7 @@ description: "Xiamen Portman Seven Star Bay Double 11 bundles: 1-night seaview s
 cover:
   image: "https://img.xialv.com/uploads/2026/10/14/item_pic1791948880942440.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Portman Seven Star Bay Hotel — seaview room and beachfront resort"
+klook_link: "https://klook.tpx.lt/XJIG4eiB"
 ---
 
 **Deal price: 2 nights from ¥999 (≈$140)** · 1-night seaview stays from ¥899 (≈$126) · Valid through Apr 30, 2027 · Refundable before you reserve; auto-refund if unused

@@ -11,6 +11,7 @@ description: "Qiandao Lake Free InterContinental from ¥1119 (≈$155, was ¥288
 cover:
   image: "https://img.xialv.com/uploads/2026/10/21/item_pic1792543929563254.jpeg?imageView2/1/w/1050/h/588"
   alt: "Qiandao Lake Free InterContinental"
+klook_link: "https://klook.tpx.lt/Nwcxyoqa"
 ---
 
 **Deal price: ¥1119** (≈$155, was ¥2888 — 61% off) for 2 nights · ⏰ Usable October 26, 2026 – June 30, 2027 · Book by 17:00 the day before · Refundable if unbooked

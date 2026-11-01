@@ -11,6 +11,7 @@ description: "Xiamen's palace-like Baixiang Portman at Seven Star Bay from ¥899
 cover:
   image: "https://img.xialv.com/uploads/2026/10/14/item_pic1791948880942440.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Baixiang Portman Seven Star Bay hotel"
+klook_link: "https://klook.tpx.lt/XJIG4eiB"
 ---
 
 **Deal price: from ¥899** (≈$126, was ¥2,399) · Headline 2-night bundle **¥1,299** · Valid through Apr 30, 2027 · ⏰ refundable if unreserved, auto-refund on expiry · Weekends at no extra charge

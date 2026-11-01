@@ -11,6 +11,7 @@ description: "Ice-Snow Mingcheng Hotel, Lingang Shanghai: 1-night superior room 
 cover:
   image: "https://img.xialv.com/uploads/2024/10/21/item_pic1729498227062147.jpeg?imageView2/1/w/1050/h/588"
   alt: "Shanghai Lingang Ice-Snow Mingcheng Hotel"
+klook_link: "https://klook.tpx.lt/dOtWUUeQ"
 ---
 
 **Deal price: 1 night + breakfast + 2 two-day snow-play tickets — ¥799** (≈$112, was ¥1,598) · Valid Sep 1 – Dec 30, 2026 · Free parking for guests

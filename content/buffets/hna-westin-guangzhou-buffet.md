@@ -11,6 +11,7 @@ description: "Westin's 'Fish & Crab Feast' all-you-can-eat buffet in Guangzhou: 
 cover:
   image: "https://img.xialv.com/uploads/2025/12/29/item_pic176698717413734.jpeg"
   alt: "HNA Westin Guangzhou — 'Fish & Crab Feast' Buffet"
+klook_link: "https://klook.tpx.lt/BoPvo5QC"
 ---
 
 **Deal price: family packages from ¥348 (≈$48) for 2 adults + 2 kids** · Child-only tickets from ¥108 (≈$15) · Xialv Money-Saver Card: ¥30 off this product + ¥50 welcome bonus on signup
