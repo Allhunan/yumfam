@@ -1,7 +1,7 @@
 ---
 title: "Beijing Fangshan Narada Resort — Hot Spring Stay from ¥759"
 date: 2026-10-05
-draft: false
+draft: true
 location: "Beijing (Fangshan)"
 price: "¥759–¥1,399 (≈$105–$193)"
 was_price: "¥1,299"

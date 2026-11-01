@@ -1,7 +1,7 @@
 ---
 title: "Sanya Tianliwan Grand Hyatt — 2 Nights + Daily Breakfast for 2 Adults + 2 Kids from ¥1,188"
 date: 2026-10-03
-draft: false
+draft: true
 location: "Sanya"
 price: "¥1,188–¥1,899 (≈$164–$262)"
 was_price: "¥1,888"

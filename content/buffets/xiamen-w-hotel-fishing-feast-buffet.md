@@ -1,7 +1,7 @@
 ---
 title: "Xiamen W Hotel — 'Nine Li Fishing Feast' Buffet, from ¥188 (≈$26)"
 date: 2026-10-09
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "from ¥188 (≈$26)"
 was_price: "¥268"

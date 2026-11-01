@@ -1,7 +1,7 @@
 ---
 title: "Xiamen Jimei Guole Park — 14-Ride Family Ticket for 2 Adults + 2 Kids, ¥179 (≈$25)"
 date: 2026-10-08
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥179 (≈$25)"
 was_price: "¥668"

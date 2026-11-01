@@ -1,7 +1,7 @@
 ---
 title: "Sanya Swissôtel Yalong Bay — 2 Nights + Breakfast & Dinner from ¥1,299"
 date: 2026-10-04
-draft: false
+draft: true
 location: "Sanya (Yalong Bay)"
 price: "¥1,299–¥2,399 (≈$179–$331)"
 was_price: "¥2,999"

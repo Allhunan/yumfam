@@ -1,7 +1,7 @@
 ---
 title: "Xiamen Weekend Buffet — Coca-Cola Pop-Up Edition, 1 Adult + 1 Kid ¥158 (≈$22)"
 date: 2026-10-10
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "¥158 (≈$22)"
 was_price: "¥298"

@@ -1,7 +1,7 @@
 ---
 title: "Guangzhou Latin Restaurant — Brazilian BBQ Buffet from ¥106 (≈$15), Weekdays"
 date: 2026-10-11
-draft: false
+draft: true
 location: "Guangzhou, Guangdong"
 price: "¥106 (≈$15)"
 was_price: "¥138"

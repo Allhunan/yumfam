@@ -1,7 +1,7 @@
 ---
 title: "Guangzhou Emerald Hilton — Hot Spring & Twin-Pool Family Retreat from ¥799 (≈$111)"
 date: 2026-10-06
-draft: false
+draft: true
 location: "Guangzhou (Huangpu, Science City)"
 price: "from ¥799 (≈$111)"
 was_price: "¥1299"

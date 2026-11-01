@@ -1,7 +1,7 @@
 ---
 title: "Qingdao Movie Metropolis DoubleTree from ¥449 (≈$63): 1 Night + Breakfast + Kids' Park or Hotpot Dinner"
 date: "2026-10-22"
-draft: "false"
+draft: true
 location: "Huangdao, Qingdao, Shandong"
 price: "from ¥449 (≈$63)"
 was_price: "¥988"

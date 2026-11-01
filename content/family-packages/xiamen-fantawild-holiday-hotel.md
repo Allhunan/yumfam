@@ -1,7 +1,7 @@
 ---
 title: "Xiamen Fantawild Holiday Hotel — 1 Night + 2-Day Park Tickets for 2, from ¥999 (≈$141)"
 date: 2026-10-10
-draft: false
+draft: true
 location: "Xiamen, Fujian"
 price: "from ¥999 (≈$141)"
 was_price: "¥1,399"

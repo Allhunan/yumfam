@@ -1,7 +1,7 @@
 ---
 title: "Xiamen Sujia Puyue Private Hot-Spring Villa — 3BR from ¥588 (≈$83), was ¥1,588"
 date: 2026-10-13
-draft: false
+draft: true
 location: "Xiang'an, Xiamen, Fujian"
 price: "¥588 (≈$83)"
 was_price: "¥1,588"

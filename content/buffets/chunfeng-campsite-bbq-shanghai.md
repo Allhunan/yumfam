@@ -1,7 +1,7 @@
 ---
 title: "Shanghai Chunfeng Campsite — All-You-Can-Eat Outdoor BBQ from ¥39.9 (Kids)"
 date: 2026-10-04
-draft: false
+draft: true
 location: "Shanghai (Minhang & Jiading)"
 price: "¥39.9–¥88 (≈$5.50–$12)"
 was_price: "¥99"

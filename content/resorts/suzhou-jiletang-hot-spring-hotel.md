@@ -1,7 +1,7 @@
 ---
 title: "Suzhou Jiletang Hot Spring Hotel — New Opening from ¥238 (≈$33): Room + Breakfast + 2 Hot-Spring Tickets, Zero Weekend Surcharge"
 date: 2026-10-18
-draft: false
+draft: true
 location: "Huqiu, Suzhou"
 price: "from ¥238 (≈$33)"
 was_price: "¥999"

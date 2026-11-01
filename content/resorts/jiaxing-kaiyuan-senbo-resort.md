@@ -1,7 +1,7 @@
 ---
 title: "Jiaxing Kaiyuan Senbo Resort — 1-Night Terrace Room from ¥818 (≈$115) with Water Park & Kids' Club"
 date: 2026-10-12
-draft: false
+draft: true
 location: "Jiaxing (Haiyan), Zhejiang"
 price: "¥818 (≈$115)"
 was_price: "¥1,398"
