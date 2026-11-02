@@ -17,6 +17,9 @@ description: "China's 30-day visa-free entry ends 31 December 2026 for 48 countr
 - **240-hour visa-free transit is a different scheme**, not a continuation of the 30-day policy. It has no 2026 end date and works under its own rules.
 - **As of 2 November 2026, no extension of the 30-day policy into 2027 has been announced** for the 48 countries. Past renewals came in November, but that is a pattern, not a promise.
 
+![Shanghai skyline seen from the Bund](/images/visa-guide/shanghai-bund.jpg)
+*Shanghai, seen from the Bund. Photo: Wikimedia Commons (CC0).*
+
 ## 1. The deadline: 31 December 2026
 
 China's unilateral visa-free policy lets holders of **ordinary passports** from **50 countries** enter China without a visa for **business, tourism, visiting family or friends, exchanges, or transit**, for a stay of **no more than 30 days** (counted from the day after arrival). It does not cover work, study, or journalism — those always need a visa applied for in advance.
@@ -35,6 +38,9 @@ What this means in practice:
 
 **Brunei — no end date.** Brunei appears on the same 30-day list, but no official notice sets an end date for its exemption. It is likewise unaffected by the 31 December 2026 deadline.
 
+![The Great Wall at Mutianyu](/images/visa-guide/great-wall-mutianyu.jpg)
+*The Great Wall at Mutianyu. Photo: Lloyd Tudor, Wikimedia Commons (CC BY-SA 4.0).*
+
 ## 3. What the deadline does not touch: mutual visa-exemption treaties
 
 Separate from the unilateral policy, China has **bilateral mutual visa-exemption agreements covering ordinary passports with 29 countries**. Because these are treaties signed by both governments, they do **not** run to the 31 December 2026 deadline and are not changed by it. They typically allow stays of up to 30 days per visit (some cap total stays at 90 days in any 180 days) for tourism, business, and family visits.
@@ -42,6 +48,9 @@ Separate from the unilateral policy, China has **bilateral mutual visa-exemption
 Well-known examples include Singapore (in force since 9 February 2024), Thailand (since 1 March 2024), Malaysia (since 17 July 2025), the United Arab Emirates, Qatar, Serbia, Belarus, and Kazakhstan. A few agreements carry special conditions, so travellers should confirm the exact terms for their own passport rather than relying on the headline count — published counts vary slightly (28–32) depending on whether restricted or partial agreements are included.
 
 ## 4. A different route: 240-hour visa-free transit
+
+![Beijing Capital International Airport Terminal 3](/images/visa-guide/beijing-airport-t3.jpg)
+*Beijing Capital International Airport, Terminal 3. Photo: Wikimedia Commons user 颐园居 (CC BY-SA 4.0).*
 
 The **240-hour (10-day) visa-free transit** scheme is a separate mechanism. It is **not** an extension or continuation of the 30-day unilateral policy, and it has **no 2026 end date**.
 
