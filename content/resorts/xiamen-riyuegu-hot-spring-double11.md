@@ -1,7 +1,7 @@
 ---
 title: "Xiamen Riyuegu Hot Spring Resort Double-11 Deal from ¥688 (≈$96) — Private-Pool Wooden Cabin + Hot Springs"
 date: "2026-10-27"
-draft: "false"
+draft: true
 location: "Riyuegu Hot Spring Resort, 1888-1889 Fulian Road, Haicang District, Xiamen"
 price: "¥688 (≈$96) for 1 night"
 was_price: "¥1298"
