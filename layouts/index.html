@@ -105,7 +105,7 @@
 
   <section class="deals">
     <h2>Latest Deals</h2>
-    {{ range first 8 (where .Site.RegularPages "Section" "in" (slice "autumn-deals" "buffets" "resorts" "family-packages")) }}
+    {{ range first 8 (where .Site.RegularPages "Section" "in" (slice "autumn-deals" "buffets" "resorts" "family-packages" "attractions")) }}
     {{ $p := . }}
     <div class="deal">
       {{ with $p.Params.cover.image }}
