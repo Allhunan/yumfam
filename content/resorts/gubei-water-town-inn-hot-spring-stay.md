@@ -1,7 +1,7 @@
 ---
 title: "Gubei Water Town Inn Stay from ¥439 (≈$62) — 1 Night + Scenic Tickets + Hot-Spring Baths + Breakfast"
 date: 2026-10-15
-draft: false
+draft: true
 location: "Gubei Water Town — Miyun District, Beijing (2 km north of the Simatai Great Wall expressway exit)"
 price: "from ¥439 (≈$62)"
 was_price: "¥529"

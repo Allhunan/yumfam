@@ -1,7 +1,7 @@
 ---
 title: "Guangzhou Santori Hot Spring Manor — 'Little Greece' Waterfront Resort: Hot-Spring Room with Private Terrace Pool + Meals ¥598 (≈$84)"
 date: 2026-10-14
-draft: false
+draft: true
 location: "Guangzhou, Guangdong — Conghua"
 price: "¥598 (≈$84)"
 was_price: "¥1,200"

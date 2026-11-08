@@ -1,7 +1,7 @@
 ---
 title: "Zhangzhou Jiulongshuizhen — Ancient Hot-Spring Wellness Grand Opening, from ¥89 (≈$13)"
 date: 2026-10-11
-draft: false
+draft: true
 location: "Zhangzhou, Fujian (40 min from Xiamen)"
 price: "¥89 (≈$13)"
 was_price: "¥199"

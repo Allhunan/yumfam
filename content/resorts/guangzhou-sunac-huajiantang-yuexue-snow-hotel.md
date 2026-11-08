@@ -1,7 +1,7 @@
 ---
 title: "Guangzhou Sunac Huajiantang Yuexue — Unlimited Snow-Play Stay from ¥699 (≈$97)"
 date: 2026-10-16
-draft: false
+draft: true
 location: "Guangzhou, Guangdong"
 price: "from ¥699 (≈$97)"
 was_price: "¥1000"
