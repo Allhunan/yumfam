@@ -1,7 +1,7 @@
 ---
 title: "Suzhou Yinshan Lake Theatre — 'Where Are the Chinese Characters?' Musical from ¥40 (≈$6), Nov 8 Only"
 date: 2026-11-02
-draft: false
+draft: true
 location: "Suzhou, Jiangsu"
 price: "from ¥40 (≈$6)"
 was_price: "¥80"
