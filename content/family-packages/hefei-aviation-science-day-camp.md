@@ -1,7 +1,7 @@
 ---
 title: "Hefei Aviation Science Day Camp — Little Captain Training on Nov 7 from ¥159 (≈$22)"
 date: 2026-10-31
-draft: false
+draft: true
 location: "Hefei, Anhui"
 price: "from ¥159 (≈$22)"
 was_price: "¥799"
