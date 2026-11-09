@@ -7,7 +7,7 @@ description: "China's 30-day visa-free entry ends 31 December 2026 for 48 countr
 
 # China's 30-Day Visa-Free Entry: What Ends on 31 December 2026 — and What Does Not
 
-**Information current as of 2 November 2026.** Visa rules can change at short notice. This page is an information summary only — it is not a visa decision for any individual traveller. Before you book, confirm your own situation with the Chinese embassy or consulate in your country, or with your airline.
+**Information current as of 9 November 2026.** Visa rules can change at short notice. This page is an information summary only — it is not a visa decision for any individual traveller. Before you book, confirm your own situation with the Chinese embassy or consulate in your country, or with your airline.
 
 ## The short answer
 
@@ -15,7 +15,8 @@ description: "China's 30-day visa-free entry ends 31 December 2026 for 48 countr
 - **Russia is already extended to 31 December 2027. Brunei has no published end date.** Neither is affected by the 31 December 2026 deadline.
 - **29 countries with bilateral mutual visa-exemption treaties are not affected** by this deadline at all — their arrangements run on separate terms.
 - **240-hour visa-free transit is a different scheme**, not a continuation of the 30-day policy. It has no 2026 end date and works under its own rules.
-- **As of 2 November 2026, no extension of the 30-day policy into 2027 has been announced** for the 48 countries. Past renewals came in November, but that is a pattern, not a promise.
+- **As of 9 November 2026, no extension of the 30-day policy into 2027 has been announced** for the 48 countries. Past renewals came in November, but that is a pattern, not a promise.
+- **Spring Festival 2027 falls after the deadline.** The official holiday runs from Friday 5 February to Saturday 13 February 2027 — more than a month after the deadline — so a Spring Festival trip is not covered by the 48 countries' visa-free policy as published. Unless an extension is announced, those travellers will need a visa. Russian passport holders are the exception: their exemption already runs to 31 December 2027.
 
 ![Shanghai skyline seen from the Bund](/images/visa-guide/shanghai-bund.jpg)
 *Shanghai, seen from the Bund. Photo: Wikimedia Commons (CC0).*
@@ -31,6 +32,8 @@ What this means in practice:
 - **A trip that ends on or before 31 December 2026** is covered by the published rule.
 - **A trip that starts in 2027 is not yet covered by any published rule** for these 48 countries. Unless an extension is announced, a visa will be needed.
 - **A stay that straddles the year end** (entering in December 2026 and leaving in January 2027) is not addressed in any official notice we found. If your trip crosses the deadline, confirm with the Chinese embassy before you travel rather than assuming the 30 days will run past it.
+
+Spring Festival 2027 is the clearest example: the holiday runs from 5 to 13 February 2027, entirely in 2027, so a festival trip by a traveller from one of the 48 countries is not covered by any published visa-free rule.
 
 ## 2. The two exceptions inside the 50-country list
 
@@ -68,9 +71,11 @@ If your passport also qualifies for the 30-day policy or a mutual exemption, you
 
 ## 5. What about 2027?
 
-As of **2 November 2026, no extension of the 30-day policy beyond 31 December 2026 has been announced** for the 48 countries. The most recent status checks (late October 2026) and a fresh news check on 2 November 2026 found no new announcement.
+As of **9 November 2026, no extension of the 30-day policy beyond 31 December 2026 has been announced** for the 48 countries. The most recent status checks (7 November 2026) and a fresh news check on 9 November 2026 found no new announcement.
 
 China has renewed this scheme every year so far, each time with an announcement in **November** (November 2024, and 3 November 2025 for the current period). That points to November 2026 as the likely window for a decision — but it is a pattern, not a promise. Nobody outside the Chinese government knows whether the list will be renewed, trimmed, or changed.
+
+**Spring Festival 2027 is the first big test.** Under the State Council General Office notice on 2027 public holidays (Guo Ban Fa Ming Dian [2026] No. 10, issued 5 November 2026), the Spring Festival holiday runs for nine days, from Friday 5 February 2027 (Chinese New Year's Eve) to Saturday 13 February 2027; Lunar New Year's Day itself is Saturday 6 February 2027. That makes the festival the first major travel peak after the deadline — and, on the rules as published, it falls outside the 48 countries' visa-free cover. Anyone from one of those countries planning a Spring Festival trip should apply for a visa in good time rather than wait for a possible extension: the November 2026 renewal window is still open, but a late announcement would leave very little time before February. Russian passport holders are not in this position — their exemption already runs to 31 December 2027.
 
 If you are planning travel in 2027:
 
@@ -84,14 +89,16 @@ If you are planning travel in 2027:
 - Check that your purpose of travel is covered; work, study, and journalism need a visa under every route above.
 - For 240-hour transit, have your confirmed onward ticket ready before you land — without it, border inspection cannot issue the temporary entry permit.
 - If your stay would cross 31 December 2026, or your trip is in 2027, get confirmation from the Chinese embassy or consulate before booking.
+- **Travelling for Spring Festival 2027 (5–13 February 2027)?** Do not rely on the 30-day visa-free policy — it ends on 31 December 2026. Apply for a visa early, unless an extension covering your passport has been announced.
 
 ## Sources
 
 - Chinese Embassy in Iceland, "Notice on the Extension of the Unilateral Visa-Free Policy," 4 November 2025 — 45 countries extended until 24:00 on 31 December 2026. [Read the notice](https://is.china-embassy.gov.cn/eng/lsfw/202511/t20251104_11746901.htm)
 - Chinese Embassy in Latvia, "Notice on Extending the Unilateral Visa-Free Policy" — extension to 31 December 2026, 30-day stay, listed purposes. [Read the notice](https://lv.china-embassy.gov.cn/eng/lsyw/202511/t20251104_11746352.htm)
 - Russia's extension to 31 December 2027, announced 20 May 2026 by Foreign Ministry spokesman Guo Jiakun, as reported by the Shanghai Municipal People's Government and summarised in: [China Visa-Free Countries: 2026 List and 2027 Deadline](https://travelmarketnews.com/china-visa-free-countries) (last checked 20 October 2026).
-- Status of a 2027 extension for the 48 countries ("not yet" as of 24 October 2026; November renewal pattern): [Will China Extend Visa-Free Entry to 2027?](https://chinaeasymode.com/visa/visa-free-2027/) — re-checked against news on 2 November 2026, with no new announcement found.
+- Status of a 2027 extension for the 48 countries ("not yet" as of 24 October 2026; November renewal pattern): [Will China Extend Visa-Free Entry to 2027?](https://chinaeasymode.com/visa/visa-free-2027/) — re-checked against news on 9 November 2026, with no new announcement found; the most recent dedicated status check is dated 7 November 2026.
+- State Council General Office, "Notice on the Arrangement of Some Public Holidays in 2027" (Guo Ban Fa Ming Dian [2026] No. 10), issued 5 November 2026 — Spring Festival holiday from 5 to 13 February 2027 (nine days), with adjusted working days on Sunday 31 January and Sunday 14 February 2027.
 - Mutual visa-exemption treaties (29 countries, ordinary passports; terms and the Ecuador note): [China Mutual Visa Exemption: 29 Countries (2026 List)](https://visarunhanoi.com/blog/china-mutual-visa-exemption-countries/) (reviewed 21 October 2026).
 - 240-hour transit (57 countries, 65 ports, 24 regions, onward-ticket and counting rules; Kyrgyzstan and Vietnam added 20 August 2026, per the National Immigration Administration): [240-Hour Visa-Free Transit in China](https://www.linkedtours.com/visa-entry/240-hour-visa-free-in-china.html) (last updated 10 September 2026).
 
-*Information current as of 2 November 2026. Where sources disagreed (notably the exact count of mutual-treaty countries), this page follows the most recent dedicated lists and flags the disagreement rather than presenting a disputed figure as settled.*
+*Information current as of 9 November 2026. Where sources disagreed (notably the exact count of mutual-treaty countries), this page follows the most recent dedicated lists and flags the disagreement rather than presenting a disputed figure as settled.*
