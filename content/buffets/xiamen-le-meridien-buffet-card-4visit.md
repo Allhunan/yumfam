@@ -1,5 +1,5 @@
 ---
-title: "Xiamen Le Méridien Buffet 4-Visit Card ¥598 (≈$84) for 1 Adult + 1 Kid: Lunch or Dinner + Hairy Crab + 600㎡ Kids' Playground"
+title: "Xiamen Le Méridien Hotel Buffet 4-Visit Card ¥598 (≈$84) for 1 Adult + 1 Kid: Lunch or Dinner + Hairy Crab + 600㎡ Kids' Playground"
 date: "2026-10-24"
 draft: "false"
 location: "Xiamen Le Méridien (艾美酒店), 6-13 Nanshan Champion Road, Huli, Xiamen"
@@ -55,5 +55,7 @@ The restaurant itself is a bright ground-floor space wrapping an open kitchen, b
 <img src="https://img.xialv.com/uploads/2026/10/12/item_pic1791795786369723.jpeg?imageView2/1/w/1050/h/588" alt="Photo 7" loading="lazy" style="width:100%;border-radius:12px;">
 <img src="https://img.xialv.com/uploads/2026/10/12/item_pic1791795740788220.jpeg?imageView2/1/w/1050/h/588" alt="Photo 8" loading="lazy" style="width:100%;border-radius:12px;">
 </div>
+
+More Xiamen hotel buffets: [Millennium Harbourview weekend buffet from ¥198](/buffets/xiamen-millennium-harbourview-buffet/) · [Marriott Haicang dinner buffet from ¥158](/buffets/xiamen-marriott-taidi-dinner-buffet/) · [Marco Polo lunch from ¥148](/buffets/xiamen-marco-polo-family-buffet-lunch/)
 
 [👉 Get this deal](/go/xiamen-le-meridien-buffet-card-4visit/)

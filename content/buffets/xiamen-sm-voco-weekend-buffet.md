@@ -1,5 +1,5 @@
 ---
-title: "Xiamen SM voco Weekend Buffet from ¥178 (≈$25): 1 Adult + 1 Child Lunch or Dinner at the 'Shan' Restaurant"
+title: "Xiamen SM voco Hotel Weekend Buffet from ¥178 (≈$25): 1 Adult + 1 Child Lunch or Dinner at the 'Shan' Restaurant"
 date: 2026-11-03
 draft: false
 location: "Xiamen, Fujian"
@@ -47,5 +47,7 @@ The hotel's merchant page carries one guest review for this buffet, translated:
 <img src="https://img.xialv.com/uploads/2026/10/20/item_pic1792482338260335.jpeg?imageView2/1/w/1050/h/588" alt="Photo 7" loading="lazy" style="width:100%;border-radius:12px;">
 <img src="https://img.xialv.com/uploads/2026/07/11/item_pic1783741417314441.jpeg?imageView2/1/w/1050/h/588" alt="Photo 8" loading="lazy" style="width:100%;border-radius:12px;">
 </div>
+
+More Xiamen hotel buffets: [Millennium Harbourview weekend buffet from ¥198](/buffets/xiamen-millennium-harbourview-buffet/) · [Marco Polo lunch from ¥148](/buffets/xiamen-marco-polo-family-buffet-lunch/) · [Marriott Haicang breakfast for two from ¥99](/buffets/xiamen-marriott-taidi-breakfast-buffet/)
 
 [👉 Get this deal](/go/xiamen-sm-voco-weekend-buffet/)

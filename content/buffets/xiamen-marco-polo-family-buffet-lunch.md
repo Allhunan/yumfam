@@ -1,12 +1,12 @@
 ---
-title: "Xiamen Marco Polo Buffet Lunch ¥148 (≈$21) for 1 Adult + 1 Kid: Famous Napoleon Cake, Steamed Seafood & Grill Stations"
+title: "Xiamen Marco Polo Hotel Buffet Lunch ¥148 (≈$21) for 1 Adult + 1 Kid: Famous Napoleon Cake, Steamed Seafood & Grill Stations"
 date: "2026-10-24"
 draft: "false"
 location: "Xiamen Marco Polo Oriental Hotel, 8 Jianyelu, Hubin North, Siming, Xiamen (Metro Line 2, Jianyelu Station Exit 4)"
 price: "¥148 (≈$21)"
 was_price: "¥268"
 valid_until: "2027-01-31"
-description: "Xiamen Marco Polo buffet lunch at ¥148 (≈$21) for 1 adult + 1 kid (was ¥268): the city's legendary Napoleon cake eaten to your heart's content, steamed seafood, sushi from the in-house Japanese restaurant, live grill stations and 100+ dishes. Child height limit free-upgraded to 1.5m if redeemed by Nov 30. Dinner tiers also available."
+description: "Xiamen Marco Polo hotel buffet lunch at ¥148 (≈$21) for 1 adult + 1 kid (was ¥268): the city's legendary Napoleon cake eaten to your heart's content, steamed seafood, sushi from the in-house Japanese restaurant, live grill stations and 100+ dishes. Child height limit free-upgraded to 1.5m if redeemed by Nov 30. Dinner tiers also available."
 cover:
   image: "https://img.xialv.com/uploads/2025/10/22/item_pic1761115451367416.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Marco Polo buffet lunch"
@@ -58,5 +58,7 @@ Beyond the headliners: a **noodle counter** (noodles, rice noodles, hofan with s
 <img src="https://img.xialv.com/uploads/2025/10/22/item_pic1761115415279736.jpeg?imageView2/1/w/1050/h/588" alt="Photo 7" loading="lazy" style="width:100%;border-radius:12px;">
 <img src="https://img.xialv.com/uploads/2025/10/16/item_pic1760595761258341.jpeg?imageView2/1/w/1050/h/588" alt="Photo 8" loading="lazy" style="width:100%;border-radius:12px;">
 </div>
+
+More Xiamen hotel buffets: [Millennium Harbourview weekend buffet from ¥198](/buffets/xiamen-millennium-harbourview-buffet/) · [SM voco weekend buffet from ¥178](/buffets/xiamen-sm-voco-weekend-buffet/) · [Le Méridien 4-visit card from ¥598](/buffets/xiamen-le-meridien-buffet-card-4visit/)
 
 [👉 Get this deal](/go/xiamen-marco-polo-family-buffet-lunch/)

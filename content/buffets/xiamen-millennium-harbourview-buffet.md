@@ -1,5 +1,5 @@
 ---
-title: "Xiamen Millennium Harbourview — 1 Adult + 1 Kid Buffet ¥198 (≈$28), Weekends No Surcharge"
+title: "Xiamen Millennium Harbourview Hotel — 1 Adult + 1 Kid Buffet ¥198 (≈$28), Weekends No Surcharge"
 date: 2026-10-16
 draft: false
 location: "Xiamen, Fujian"
@@ -7,7 +7,7 @@ price: "from ¥128 (≈$18)"
 was_price: "¥255"
 coupon: "Xialv Money-Saver Card — ¥30 off this product + ¥50 welcome bonus on signup"
 valid_until: "2026-12-31"
-description: "Millennium Harbourview Hotel's all-you-can-eat buffet next to Xiamen's Zhonghua City mall: 1 adult + 1 kid lunch-or-dinner voucher for ¥198 (≈$28), solo from ¥128 — about 51% of list, usable Fri–Sun and holidays with no surcharge, valid through Dec 31, 2026."
+description: "Xiamen hotel buffet at Millennium Harbourview Hotel next to Zhonghua City mall: 1 adult + 1 kid lunch-or-dinner voucher for ¥198 (≈$28), solo from ¥128 — about 51% of list, usable Fri–Sun and holidays with no surcharge, valid through Dec 31, 2026."
 cover:
   image: "https://img.xialv.com/uploads/2026/07/13/item_pic1783912463470466.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Millennium Harbourview Hotel buffet restaurant"
@@ -61,5 +61,7 @@ Xialv Money-Saver Card holders save an extra ¥30.
 <img src="https://img.xialv.com/uploads/2025/01/25/item_pic1737762302038794.jpeg?imageView2/1/w/1050/h/588" alt="Photo 7" loading="lazy" style="width:100%;border-radius:12px;">
 <img src="https://img.xialv.com/uploads/2025/01/25/item_pic1737762320791144.jpeg?imageView2/1/w/1050/h/588" alt="Photo 8" loading="lazy" style="width:100%;border-radius:12px;">
 </div>
+
+More Xiamen hotel buffets: [Marco Polo lunch from ¥148](/buffets/xiamen-marco-polo-family-buffet-lunch/) · [Marriott Haicang breakfast for two from ¥99](/buffets/xiamen-marriott-taidi-breakfast-buffet/) · [SM voco weekend buffet from ¥178](/buffets/xiamen-sm-voco-weekend-buffet/)
 
 [👉 Get this deal](/go/xiamen-millennium-harbourview-buffet/)

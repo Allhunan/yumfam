@@ -7,7 +7,7 @@ price: "from ¥108 (≈$15)"
 was_price: "¥198"
 coupon: "Xialv Money-Saver Card — ¥30 off this product + ¥50 welcome bonus on signup"
 valid_until: "2026-12-31"
-description: "Southeast Asian food-festival weekend buffet in Xiamen: lunch ¥108, dinner ¥118 (was ¥198) — every dining adult gets a free hairy crab, plus a taste of the tropics with satay, laksa and more."
+description: "Southeast Asian food-festival weekend hotel buffet in Xiamen: lunch ¥108, dinner ¥118 (was ¥198) — every dining adult gets a free hairy crab, plus a taste of the tropics with satay, laksa and more."
 cover:
   image: "https://img.xialv.com/uploads/2026/09/17/item_pic1789637091672756.jpeg?imageView2/1/w/1050/h/588"
   alt: "Southeast Asia food festival buffet Xiamen — buffet spread"
@@ -59,5 +59,7 @@ Xialv Money-Saver Card holders save an extra ¥30.
 <img src="https://img.xialv.com/uploads/2026/09/17/item_pic1789637117308734.jpeg?imageView2/1/w/1050/h/588" alt="Photo 7" loading="lazy" style="width:100%;border-radius:12px;">
 <img src="https://img.xialv.com/uploads/2026/09/17/item_pic1789637127374741.jpeg?imageView2/1/w/1050/h/588" alt="Photo 8" loading="lazy" style="width:100%;border-radius:12px;">
 </div>
+
+More Xiamen hotel buffets: [Marco Polo lunch from ¥148](/buffets/xiamen-marco-polo-family-buffet-lunch/) · [Millennium Harbourview weekend buffet from ¥198](/buffets/xiamen-millennium-harbourview-buffet/) · [Marriott Haicang dinner buffet from ¥158](/buffets/xiamen-marriott-taidi-dinner-buffet/)
 
 [👉 Get this deal](/go/xiamen-southeast-asia-food-festival-buffet/)

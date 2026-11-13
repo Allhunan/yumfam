@@ -1,12 +1,12 @@
 ---
-title: "Xiamen Marriott Haicang — Breakfast Buffet for Two from ¥99 (≈$14)"
+title: "Xiamen Marriott Haicang Hotel — Breakfast Buffet for Two from ¥99 (≈$14)"
 date: 2026-11-01
 draft: false
 location: "Xiamen, Fujian"
 price: "from ¥99 (≈$14)"
 was_price: "¥276"
 valid_until: "2027-03-31"
-description: "Xiamen Marriott Haicang's Gongchu restaurant: a breakfast buffet for two from ¥99 (was ¥276) — Chinese and Western dishes, steamed dim sum, congee, noodles and fresh breads, every morning, with a splittable 10-meal bundle at ¥458."
+description: "Xiamen hotel breakfast buffet at Marriott Haicang's Gongchu restaurant: breakfast for two from ¥99 (was ¥276) — Chinese and Western dishes, steamed dim sum, congee, noodles and fresh breads, every morning, with a splittable 10-meal bundle at ¥458."
 cover:
   image: "https://img.xialv.com/uploads/2026/10/20/item_pic1792472965768723.jpeg?imageView2/1/w/1050/h/588"
   alt: "Xiamen Marriott Haicang — breakfast buffet"
@@ -46,5 +46,7 @@ Xiamen Marriott Haicang (厦门泰地万豪酒店) sits on Haicang Avenue in the
 <img src="https://img.xialv.com/uploads/2026/10/20/item_pic1792472975374172.jpeg?imageView2/1/w/1050/h/588" alt="Photo 7" loading="lazy" style="width:100%;border-radius:12px;">
 <img src="https://img.xialv.com/uploads/2026/10/20/item_pic1792473009356.jpeg?imageView2/1/w/1050/h/588" alt="Photo 8" loading="lazy" style="width:100%;border-radius:12px;">
 </div>
+
+More Xiamen hotel buffets: [Gongchu dinner buffet from ¥158 at this hotel](/buffets/xiamen-marriott-taidi-dinner-buffet/) · [Millennium Harbourview weekend buffet from ¥198](/buffets/xiamen-millennium-harbourview-buffet/) · [Marco Polo lunch from ¥148](/buffets/xiamen-marco-polo-family-buffet-lunch/)
 
 [👉 Get this deal](/go/xiamen-marriott-taidi-breakfast-buffet/)
