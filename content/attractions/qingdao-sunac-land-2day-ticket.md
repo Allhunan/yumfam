@@ -1,7 +1,7 @@
 ---
 title: "Qingdao Sunac Land 2-Day Ticket — ¥69 (≈$10): 10 Rides Unlimited, Valid to Nov 15"
 date: 2026-11-10
-draft: false
+draft: true
 location: "Huangdao District, Qingdao, Shandong"
 price: "¥69 (≈$10)"
 was_price: "¥158"
