@@ -1,7 +1,7 @@
 ---
 title: "Wanda Realm Haitang Bay Sanya — 2 Nights from ¥999"
 date: 2026-10-01
-draft: false
+draft: true
 location: "Sanya, Hainan"
 price: "¥999 / 2 nights (≈$139)"
 was_price: "¥1,599"
