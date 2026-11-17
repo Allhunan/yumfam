@@ -1,7 +1,7 @@
 ---
 title: "Sanya Bay voco Hotel 2-Night Family Stay from ¥1,288 (≈$181): IHG Beachfront on the Coconut Dream Corridor"
 date: 2026-11-07
-draft: false
+draft: true
 location: "Sanya Bay, Sanya, Hainan"
 price: "from ¥1,288 (≈$181)"
 was_price: "¥1,788"
