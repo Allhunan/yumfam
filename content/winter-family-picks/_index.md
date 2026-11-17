@@ -2,10 +2,10 @@
 title: "Winter Family Picks 2026–27"
 date: 2026-11-08
 draft: false
-description: "Eleven winter family deals verified on sale November 8, 2026 — Harbin ice and snow, hot-spring escapes and indoor snow parks across China, from ¥299."
+description: "Fifteen winter family deals — Harbin ice and snow, outdoor skiing, hot-spring escapes and indoor snow parks across China, from ¥299."
 ---
 
-Winter has arrived — Start of Winter fell on November 7 — and the ice season is about to get expensive: Harbin's Ice and Snow World is expected to open in late December, with its opening ceremony expected on January 5, 2027, and prices across the ice season typically rise from December 21. We checked every deal below against the live booking page on November 8, 2026: each one is still on sale, with the starting price, validity and inclusions exactly as listed. Book before the ice-season price rise, because prices and availability may change after December 21 — each deal's own booking validity is shown below.
+Winter has arrived — Start of Winter fell on November 7 — and the ice season is about to get expensive: Harbin's Ice and Snow World is expected to open in late December, with its opening ceremony expected on January 5, 2027, and prices across the ice season typically rise from December 21. We checked every deal below against the live booking page on November 8, 2026: each one is still on sale, with the starting price, validity and inclusions exactly as listed. The outdoor-ski section below was checked the same way on November 17, 2026. Book before the ice-season price rise, because prices and availability may change after December 21 — each deal's own booking validity is shown below.
 
 Every deal links to its full English page with a booking button. Prices are in CNY with an approximate USD equivalent.
 
@@ -21,6 +21,29 @@ Harbin's Ice and Snow World — the giant ice city on the Songhua River — is *
 <div class="autumn-item">
 <a href="/family-packages/inner-mongolia-keshiketeng-snow-family-tour/"><img src="https://img.xialv.com/uploads/2026/11/04/item_pic1793764512914694.jpeg?imageView2/1/w/1050/h/588" alt="Inner Mongolia Keshiketeng snow family tour — snowfields of Ulan Butong" loading="lazy" referrerpolicy="no-referrer"></a>
 <div><a href="/family-packages/inner-mongolia-keshiketeng-snow-family-tour/"><strong>Inner Mongolia Keshiketeng Snow Family Tour — 6 Days / 5 Nights from ¥3,080 (≈$428)</strong></a><br>Chongli 5S ski lessons, Duolun Lake winter fishing, a reindeer-tribe visit and a private snow village — the only December-departure northern snow tour. Departures Dec 19, 2026 – Jan 20, 2027.</div>
+</div>
+</div>
+
+## Outdoor skiing
+
+A note on the four famous resorts first: we searched the booking platform for standalone ski products at Chongli, Yabuli, Beidahu and Altay — none exists there. Outdoor skiing on the platform comes as guided multi-day family tours instead, and the Keshiketeng tour listed above already opens with a day of ski lessons in Chongli. The tours below are the ski-inclusive ones we verified on sale on November 17, 2026. Spring Festival week (February 5–13, 2027) is peak season — expect crowds and book early; the Spring Festival departures printed on the pages are listed with each tour. There is no departure over the New Year holiday (January 1–3) on any of them. Helmets are included on the Yichun and Northeast tours below and mandatory throughout on the Yichun Lesser Khingan tour; the Shennongjia page does not mention helmets, so bring your own or check with customer service.
+
+<div class="autumn-list">
+<div class="autumn-item">
+<a href="/family-packages/shennongjia-snow-family-tour-6-day/"><img src="https://img.xialv.com/uploads/2026/10/09/item_pic1791557798558243.jpeg?imageView2/1/w/1050/h/588" alt="Shennongjia snow family tour — snow forest and ski slopes of Shennongjia" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/family-packages/shennongjia-snow-family-tour-6-day/"><strong>Shennongjia Snow Family Tour — 6 Days / 5 Nights from ¥3,380 (≈$473)</strong></a><br>A full day of skiing at Shennongjia International Ski Resort (15 runs) with a 2-hour family coach, golden snub-nosed monkeys, the Three Gorges Dam and 5-diamond hotels. Departures Jan 24 – Feb 22, 2027, including Spring Festival departures Feb 6–11 and Feb 7–12.</div>
+</div>
+<div class="autumn-item">
+<a href="/family-packages/yichun-xiaoxinganling-snow-family-tour-6-day/"><img src="https://img.xialv.com/uploads/2026/11/09/item_pic1794229064065325.jpeg?imageView2/1/w/1050/h/588" alt="Yichun snow family tour — deer in the snow forest at Jinshan Deer Park" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/family-packages/yichun-xiaoxinganling-snow-family-tour-6-day/"><strong>Yichun & Lesser Khingan Mountains 6-Day Snow Family Tour from ¥3,880 (≈$543)</strong></a><br>1-on-1 ski lessons at Riyuexia with skis, boots and helmet included — helmets are mandatory throughout — plus deer feeding, ice fishing and the Northeast Tiger Park. Departures Jan 21 – Feb 18, 2027, including a Spring Festival departure Feb 8–13.</div>
+</div>
+<div class="autumn-item">
+<a href="/family-packages/harbin-snow-town-jilin-changchun-6-day-family-tour/"><img src="https://img.xialv.com/uploads/2026/11/09/item_pic1794207592831129.jpeg?imageView2/1/w/1050/h/588" alt="Harbin–Snow Town–Jilin–Changchun winter family tour — Snow Town's snow-covered streets at night" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/family-packages/harbin-snow-town-jilin-changchun-6-day-family-tour/"><strong>Harbin–Snow Town–Jilin–Changchun 6-Day Family Tour from ¥4,480 (≈$627)</strong></a><br>3 hours of skiing at Songhuahu Ski Resort in Jilin — the tour picked Songhuahu over nearby Beidahu as the more family-friendly resort — with skis, boots, poles and helmet included. Spring Festival departures exist (a ¥2,500 room supplement applies) but no dates are printed on the page.</div>
+</div>
+<div class="autumn-item">
+<a href="/family-packages/yichun-snow-rv-family-tour/"><img src="https://img.xialv.com/uploads/2026/10/20/item_pic1792481089888173.jpeg?imageView2/1/w/1050/h/588" alt="Yichun snow RV family tour — RV in the snowy forest" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/family-packages/yichun-snow-rv-family-tour/"><strong>Yichun Snow RV Family Tour from ¥4,980 (≈$692)</strong></a><br>Half a day of skiing with a 1-on-1 coach and helmet included, travelling in a heated RV with one family per vehicle. Departures Jan 19 – Feb 21, 2027.</div>
 </div>
 </div>
 
