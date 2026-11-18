@@ -2,7 +2,7 @@
 title: "Winter Family Picks 2026–27"
 date: 2026-11-08
 draft: false
-description: "Fifteen winter family deals — Harbin ice and snow, outdoor skiing, hot-spring escapes and indoor snow parks across China, from ¥299."
+description: "Sixteen winter family deals — Harbin ice and snow, outdoor skiing, hot-spring escapes and indoor snow parks across China, from ¥299."
 ---
 
 Winter has arrived — Start of Winter fell on November 7 — and the ice season is about to get expensive: Harbin's Ice and Snow World is expected to open in late December, with its opening ceremony expected on January 5, 2027, and prices across the ice season typically rise from December 21. We checked every deal below against the live booking page on November 8, 2026: each one is still on sale, with the starting price, validity and inclusions exactly as listed. The outdoor-ski section below was checked the same way on November 17, 2026. Book before the ice-season price rise, because prices and availability may change after December 21 — each deal's own booking validity is shown below.
@@ -26,7 +26,7 @@ Harbin's Ice and Snow World — the giant ice city on the Songhua River — is *
 
 ## Outdoor skiing
 
-A note on the four famous resorts first: we searched the booking platform for standalone ski products at Chongli, Yabuli, Beidahu and Altay — none exists there. Outdoor skiing on the platform comes as guided multi-day family tours instead, and the Keshiketeng tour listed above already opens with a day of ski lessons in Chongli. The tours below are the ski-inclusive ones we verified on sale on November 17, 2026. Spring Festival week (February 5–13, 2027) is peak season — expect crowds and book early; the Spring Festival departures printed on the pages are listed with each tour. There is no departure over the New Year holiday (January 1–3) on any of them. Helmets are included on the Yichun and Northeast tours below and mandatory throughout on the Yichun Lesser Khingan tour; the Shennongjia page does not mention helmets, so bring your own or check with customer service.
+A note on the four famous resorts first: we searched the booking platform for standalone ski products at Chongli, Yabuli, Beidahu and Altay — none exists there. Outdoor skiing on the platform comes as guided multi-day family tours instead, and the Keshiketeng tour listed above already opens with a day of ski lessons in Chongli. The tours below are the ski-inclusive ones we verified on sale on November 17, 2026; the Changbaishan tour was verified on sale on November 18, 2026, the morning it opened for booking. Spring Festival week (February 5–13, 2027) is peak season — expect crowds and book early; the Spring Festival departures printed on the pages are listed with each tour. There is no departure over the New Year holiday (January 1–3) on any of them. Helmets are included on the Yichun and Northeast tours below and mandatory throughout on the Yichun Lesser Khingan tour; neither the Shennongjia nor the Changbaishan page mentions helmets, so bring your own or check with customer service.
 
 <div class="autumn-list">
 <div class="autumn-item">
@@ -44,6 +44,10 @@ A note on the four famous resorts first: we searched the booking platform for st
 <div class="autumn-item">
 <a href="/family-packages/yichun-snow-rv-family-tour/"><img src="https://img.xialv.com/uploads/2026/10/20/item_pic1792481089888173.jpeg?imageView2/1/w/1050/h/588" alt="Yichun snow RV family tour — RV in the snowy forest" loading="lazy" referrerpolicy="no-referrer"></a>
 <div><a href="/family-packages/yichun-snow-rv-family-tour/"><strong>Yichun Snow RV Family Tour from ¥4,980 (≈$692)</strong></a><br>Half a day of skiing with a 1-on-1 coach and helmet included, travelling in a heated RV with one family per vehicle. Departures Jan 19 – Feb 21, 2027.</div>
+</div>
+<div class="autumn-item">
+<a href="/family-packages/changbaishan-6-day-luxury-family-tour/"><img src="https://img.xialv.com/uploads/2026/11/09/item_pic1794219216561295.jpeg?imageView2/1/w/1050/h/588" alt="Changbaishan luxury family tour — snow-covered Swiss-style resort village" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/family-packages/changbaishan-6-day-luxury-family-tour/"><strong>Changbaishan 6-Day Luxury Family Tour from ¥4,980 (≈$692)</strong></a><br>Family skiing at Huamei resort (5 minutes from the rooms), a Hobbit snow-house hotpot, two nights at a volcanic hot-spring hotel inside the Heaven Lake scenic area, rime rafting, ice fishing and a vintage tram through Yanji. Winter-season departures; opened for booking November 18, 2026.</div>
 </div>
 </div>
 
