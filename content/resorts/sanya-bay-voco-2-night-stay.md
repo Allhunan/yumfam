@@ -1,7 +1,7 @@
 ---
 title: "Sanya Bay voco 2-Night Stay from ¥1,288 (≈$179): IHG Beachfront + Breakfast for 2 Adults & 2 Kids"
 date: 2026-10-20
-draft: false
+draft: true
 location: "Sanya Bay, Sanya, Hainan"
 price: "from ¥1,288 (≈$179)"
 was_price: "¥1,888"
