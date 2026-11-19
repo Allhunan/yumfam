@@ -1,7 +1,7 @@
 ---
 title: "Beijing Minmetals Junlan Hotel — 1 Night from ¥659 (≈$91), was ¥1,588, with Phoenix Ridge Tickets & Super Wings Play"
 date: 2026-11-16
-draft: false
+draft: true
 location: "Haidian District, Beijing (at the foot of Phoenix Ridge, Western Hills)"
 price: "¥659 (≈$91)"
 was_price: "¥1,588"
