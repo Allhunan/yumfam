@@ -1,0 +1,5 @@
+/*
+  Link: </.well-known/ai-catalog.json>; rel="ai-catalog", </sitemap.xml>; rel="sitemap"
+
+/.well-known/ai-catalog.json
+  Access-Control-Allow-Origin: *

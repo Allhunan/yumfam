@@ -1,0 +1,136 @@
+# YumFam robots.txt
+# AI crawler policy: public content may be indexed and used to answer
+# questions; it may not be used to train models. Same policy as the
+# operator's aiaffer.com.
+User-agent: *
+Content-Signal: search=yes,ai-train=no,use=reference
+Allow: /
+
+# Training crawlers: do not use this site's content for model training.
+User-agent: Amazonbot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: Applebot-Extended
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: Bytespider
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: CCBot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: ClaudeBot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: Diffbot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: Google-Extended
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: GPTBot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: omgili
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: anthropic-ai
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: Claude-Web
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: cohere-ai
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: MistralAI-Training
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: meta-externalagent
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: GoogleOther
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: Baiduspider
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: PetalBot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: AwarioSmartBot
+User-agent: AwarioRssBot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: Google-CloudVertexBot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: QualifiedBot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: Cotoyogi
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: ICC-Crawler
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: atlassian-bot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: FishBot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: BorderxBot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: NavuBot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: SemrushBot-SWA
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: WARDBot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: magpie-crawler
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: KimiBot
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+User-agent: CitibotSiteCrawler
+Content-Signal: search=yes,ai-train=no,use=reference
+Disallow: /
+
+Sitemap: https://yumfam.com/sitemap.xml
+Agentmap: https://yumfam.com/.well-known/ai-catalog.json
