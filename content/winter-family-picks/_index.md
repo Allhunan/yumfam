@@ -2,10 +2,10 @@
 title: "Winter Family Picks 2026–27"
 date: 2026-11-08
 draft: false
-description: "Nineteen winter family deals — Harbin ice and snow, outdoor skiing, hot-spring escapes and indoor snow parks across China, from ¥239."
+description: "Twenty-one winter family deals — Harbin ice and snow, outdoor skiing, hot-spring escapes and indoor snow parks across China, from ¥239."
 ---
 
-Winter has arrived — Start of Winter fell on November 7 — and the ice season is about to get expensive: Harbin's Ice and Snow World is expected to open in late December, with its opening ceremony expected on January 5, 2027, and prices across the ice season typically rise from December 21. We checked every deal below against the live booking page on November 8, 2026: each one is still on sale, with the starting price, validity and inclusions exactly as listed. The outdoor-ski section below was checked the same way on November 17, 2026. The three hot-spring additions at the end of the hot-spring section were verified on sale on November 19, 2026. Book before the ice-season price rise, because prices and availability may change after December 21 — each deal's own booking validity is shown below.
+Winter has arrived — Start of Winter fell on November 7 — and the ice season is about to get expensive: Harbin's Ice and Snow World is expected to open in late December, with its opening ceremony expected on January 5, 2027, and prices across the ice season typically rise from December 21. We checked every deal below against the live booking page on November 8, 2026: each one is still on sale, with the starting price, validity and inclusions exactly as listed. The outdoor-ski section below was checked the same way on November 17, 2026. The three hot-spring additions at the end of the hot-spring section were verified on sale on November 19, 2026, and the two further hot-spring additions there were verified on sale on November 20, 2026. Book before the ice-season price rise, because prices and availability may change after December 21 — each deal's own booking validity is shown below.
 
 Every deal links to its full English page with a booking button. Prices are in CNY with an approximate USD equivalent.
 
@@ -89,6 +89,14 @@ A note on the four famous resorts first: we searched the booking platform for st
 <div class="autumn-item">
 <a href="/resorts/beijing-gubei-william-edgar-hotel/"><img src="https://img.xialv.com/uploads/2026/05/26/item_pic1779782268810386.jpeg?imageView2/1/w/1050/h/588" alt="Gubei William Edgar Hotel — rooms overlooking Gubei Water Town" loading="lazy" referrerpolicy="no-referrer"></a>
 <div><a href="/resorts/beijing-gubei-william-edgar-hotel/"><strong>Gubei William Edgar Hotel — 1 Night from ¥899 (≈$125)</strong></a><br>breakfast for 2, 2 town tickets, 2 hot-spring tickets and a Simatai Great Wall day ticket, a DIY lamp or afternoon tea for two. Valid Nov 20, 2026 – Jul 15, 2027.</div>
+</div>
+<div class="autumn-item">
+<a href="/resorts/guangzhou-hehui-hot-spring-hotel/"><img src="https://img.xialv.com/uploads/2023/08/09/item_pic1691550890134866.jpeg?imageView2/1/w/1050/h/588" alt="Guangzhou Hehui Hot Spring Hotel — hot-spring pool room" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/resorts/guangzhou-hehui-hot-spring-hotel/"><strong>Guangzhou Hehui Hot Spring Hotel — Pool Room for 2 Adults + 2 Kids from ¥699 (≈$97)</strong></a><br>private balcony hot-spring pool, breakfast for 2 + 2, unlimited medicinal hot springs, an infinity pool and a kids' club. Valid Nov 22, 2026 – Apr 29, 2027.</div>
+</div>
+<div class="autumn-item">
+<a href="/resorts/zhangzhou-southeast-flower-city-hot-spring-hotel/"><img src="https://img.xialv.com/uploads/2026/11/17/item_pic179489349741969.jpeg?imageView2/1/w/1050/h/588" alt="Zhangzhou Southeast Flower City Hot Spring Hotel — hot-spring pools" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/resorts/zhangzhou-southeast-flower-city-hot-spring-hotel/"><strong>Zhangzhou Southeast Flower City Hot Spring Hotel — 1 Night for 2 Adults + 1 Child from ¥298 (≈$41)</strong></a><br>hillside hot-spring resort about an hour from Xiamen, with breakfast, hot-spring tickets and Flower Expo Park tickets — and no weekend top-up. Valid Nov 18, 2026 – Jan 31, 2027.</div>
 </div>
 </div>
 
