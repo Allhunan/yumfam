@@ -1,5 +1,5 @@
 /*
-  Link: </.well-known/ai-catalog.json>; rel="ai-catalog", </sitemap.xml>; rel="sitemap"
+  Link: </.well-known/ai-catalog.json>; rel="ai-catalog", </sitemap.xml>; rel="sitemap", </llms.txt>; rel="service-doc"
 
 /.well-known/ai-catalog.json
   Access-Control-Allow-Origin: *
