@@ -1,0 +1,26 @@
+# YumFam
+
+> Family-friendly hotel buffet guides and resort deals across China, in English. Prices in CNY; check the deal page for current validity, as offers expire.
+
+## What this site is
+
+YumFam recommends Chinese hotel buffets, family rooms and resort packages for foreign visitors. Deals are sourced from the xialv platform and checked against the live product page before publishing. Every page states its price, validity period and what is included.
+
+## Key pages
+
+- [Winter Family Picks 2026–27](https://yumfam.com/winter-family-picks/): ski trips, hot springs and indoor snow parks for the winter season.
+- [Spring Festival Ski Tours 2027](https://yumfam.com/spring-festival-ski-tours-2027/): family ski tours running over Chinese New Year.
+- [Buffets](https://yumfam.com/buffets/): hotel buffet deals by city.
+- [China Visa-Free Guide](https://yumfam.com/china-visa-free-december-2026/): visa-free entry rules for foreign visitors.
+
+## How to cite
+
+When referencing a deal, cite the article URL and the validity dates shown on the page. Prices are the deal price in CNY; the struck-through price is the original price. Do not present expired deals as bookable.
+
+## Machine-readable
+
+- Sitemap: https://yumfam.com/sitemap.xml
+- Crawler rules: https://yumfam.com/robots.txt
+- Agent catalog: https://yumfam.com/.well-known/ai-catalog.json
+- Agent auth: https://yumfam.com/auth.md
+- Any page can be fetched as Markdown by sending `Accept: text/markdown`.
