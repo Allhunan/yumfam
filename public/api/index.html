@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>YumFam public API — read-only content lookup</title>
+<meta name="description" content="Read-only lookup of YumFam's public content. No login, no API key, no booking through this API.">
+</head>
+<body>
+<h1>YumFam public API</h1>
+<p>Read-only lookup of YumFam's public content: deal pages, guides, sitemap, llms.txt and machine-readable catalogs. No login, no API key, no booking and no write operations. Booking links on deal pages go to the OTA platform, not through this API.</p>
+<ul>
+<li><a href="/openapi.json">OpenAPI document</a> — every read-only route, in OpenAPI 3.0 format.</li>
+<li><a href="/.well-known/api-catalog">API catalog</a> (RFC 9727 linkset) — the same document, also at <a href="/.well-known/api-catalog.json">/.well-known/api-catalog.json</a>.</li>
+<li><a href="/llms.txt">llms.txt</a> — site guide for agents.</li>
+<li><a href="/sitemap.xml">sitemap.xml</a> — every public page.</li>
+<li><a href="/.well-known/ai-catalog.json">ai-catalog.json</a> — agent resource discovery catalog.</li>
+</ul>
+<p>Every content page also has a Markdown twin: the same URL returns Markdown when requested with <code>Accept: text/markdown</code>, or open <code>{page-url}index.md</code> directly.</p>
+</body>
+</html>

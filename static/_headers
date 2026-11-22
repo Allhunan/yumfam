@@ -1,5 +1,8 @@
 /*
-  Link: </.well-known/ai-catalog.json>; rel="ai-catalog", </sitemap.xml>; rel="sitemap", </llms.txt>; rel="service-doc"
+  Link: </.well-known/ai-catalog.json>; rel="ai-catalog", </sitemap.xml>; rel="sitemap", </llms.txt>; rel="service-doc", </.well-known/api-catalog>; rel="api-catalog", </openapi.json>; rel="service-desc"
 
 /.well-known/ai-catalog.json
   Access-Control-Allow-Origin: *
+
+/.well-known/api-catalog
+  Content-Type: application/linkset+json
