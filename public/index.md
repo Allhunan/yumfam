@@ -5,6 +5,26 @@ YumFam — Family-friendly hotel buffet guides and resort deals across China, in
 ## Latest
 
 
+- [Yiwu Senshan Junlan Resort — New Wellness Retreat from ¥499 (≈$69), No Top-Up on Weekends or Holidays](https://yumfam.com/resorts/yiwu-senshan-junlan-resort/) — 2026-11-22
+
+- [Yiwu Senshan Junlan Resort — New Wellness Retreat](https://yumfam.com/go/yiwu-senshan-junlan-resort/) — 2026-11-22
+
+- [Taicang Club Med Ski Resort — 2 Nights + Ski Passes from ¥1,698 (≈$236)](https://yumfam.com/resorts/taicang-club-med-ski-resort-stay/) — 2026-11-22
+
+- [Taicang Club Med Ski Resort — 2 Nights + Ski Passes](https://yumfam.com/go/taicang-club-med-ski-resort-stay/) — 2026-11-22
+
+- [Qiandao Lake Kaiyuan Resort — 1 Night + Car Town Tickets from ¥398 (≈$55)](https://yumfam.com/resorts/qiandao-lake-kaiyuan-resort/) — 2026-11-22
+
+- [Qiandao Lake Kaiyuan Resort — 1 Night + Car Town Tickets](https://yumfam.com/go/qiandao-lake-kaiyuan-resort/) — 2026-11-22
+
+- [Nanjing Banyan Tree — 2 Nights in a Cliff Room with Private Hot Spring from ¥3,188 (≈$443)](https://yumfam.com/resorts/nanjing-banyan-tree-garden-expo-resort/) — 2026-11-22
+
+- [Nanjing Banyan Tree — 2 Nights in a Cliff Room with Private Hot Spring](https://yumfam.com/go/nanjing-banyan-tree-garden-expo-resort/) — 2026-11-22
+
+- [Jiashan Yunlanwan Hot Spring Hotel — 1 Night + Hot Springs from ¥659 (≈$92)](https://yumfam.com/resorts/jiashan-yunlanwan-hot-spring-hotel/) — 2026-11-22
+
+- [Jiashan Yunlanwan Hot Spring Hotel — 1 Night + Hot Springs](https://yumfam.com/go/jiashan-yunlanwan-hot-spring-hotel/) — 2026-11-22
+
 - [Zhangzhou Duoleng Hot Spring Hotel — 1 Night + Breakfast + Unlimited Hot Springs from ¥299 (≈$42)](https://yumfam.com/resorts/zhangzhou-duoleng-hot-spring-hotel/) — 2026-11-21
 
 - [Zhangzhou Duoleng Hot Spring Hotel](https://yumfam.com/go/zhangzhou-duoleng-hot-spring-hotel/) — 2026-11-21
@@ -44,24 +64,4 @@ YumFam — Family-friendly hotel buffet guides and resort deals across China, in
 - [Conghua Tianrenshanshui Valley Camp — Hot-Spring Pool Room from ¥699 (≈$97)](https://yumfam.com/resorts/guangzhou-tianrenshanshui-valley-camp-pool-room/) — 2026-11-20
 
 - [Conghua Tianrenshanshui Valley Camp — Hot-Spring Pool Room — booking page](https://yumfam.com/go/guangzhou-tianrenshanshui-valley-camp-pool-room/) — 2026-11-20
-
-- [Xiamen Yuehua Hotel Buffet Lunch for 1 Adult + 1 Child from ¥169 (≈$23): Seafood, Desserts & a Garden Treasure Hunt](https://yumfam.com/buffets/xiamen-yuehua-hotel-buffet-lunch/) — 2026-11-19
-
-- [Xiamen Yuehua Hotel Buffet Lunch — booking page](https://yumfam.com/go/xiamen-yuehua-hotel-buffet-lunch/) — 2026-11-19
-
-- [Xiamen Riyuegu Hot Spring + Beef Hotpot from ¥239 (≈$33): Soak, Eat, and Bring a Child Free](https://yumfam.com/resorts/xiamen-riyuegu-hot-spring-hotpot/) — 2026-11-19
-
-- [Xiamen Riyuegu Hot Spring + Beef Hotpot — booking page](https://yumfam.com/go/xiamen-riyuegu-hot-spring-hotpot/) — 2026-11-19
-
-- [Steiff Teddy Bear Ice Rink, Shanghai — booking page](https://yumfam.com/go/shanghai-steiff-teddy-bear-ice-rink/) — 2026-11-19
-
-- [Steiff Teddy Bear Ice Rink in Shanghai from ¥39.90 (≈$6): 90 Minutes on Real Ice under a 12-Metre Teddy Bear](https://yumfam.com/attractions/shanghai-steiff-teddy-bear-ice-rink/) — 2026-11-19
-
-- [Spring Festival Ski Tours 2027: Shennongjia vs Yichun — Dates, Child Prices & Rules Compared](https://yumfam.com/spring-festival-ski-tours-2027/) — 2026-11-19
-
-- [Gubei William Edgar Hotel from ¥899 (≈$125): 1 Night with Town Tickets, Hot-Spring Tickets & a Great Wall Day Trip](https://yumfam.com/resorts/beijing-gubei-william-edgar-hotel/) — 2026-11-19
-
-- [Gubei William Edgar Hotel — booking page](https://yumfam.com/go/beijing-gubei-william-edgar-hotel/) — 2026-11-19
-
-- [Gubei Water Town Two-Hotel Pass from ¥999 (≈$139): 1 Night, 3 Town Tickets, 3 Hot-Spring Tickets & Breakfast for 3](https://yumfam.com/resorts/beijing-gubei-water-town-two-hotel-pass/) — 2026-11-19
 

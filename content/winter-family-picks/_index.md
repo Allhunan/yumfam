@@ -2,10 +2,10 @@
 title: "Winter Family Picks 2026–27"
 date: 2026-11-08
 draft: false
-description: "Twenty-three winter family deals — Harbin ice and snow, outdoor skiing, hot-spring escapes and indoor snow parks across China, from ¥128."
+description: "Twenty-six winter family deals — Harbin ice and snow, outdoor skiing, hot-spring escapes and indoor snow parks across China, from ¥128."
 ---
 
-Winter has arrived — Start of Winter fell on November 7 — and the ice season is about to get expensive: Harbin's Ice and Snow World is expected to open in late December, with its opening ceremony expected on January 5, 2027, and prices across the ice season typically rise from December 21. We checked every deal below against the live booking page on November 8, 2026: each one is still on sale, with the starting price, validity and inclusions exactly as listed. The outdoor-ski section below was checked the same way on November 17, 2026. The three hot-spring additions at the end of the hot-spring section were verified on sale on November 19, 2026, and the two further hot-spring additions there were verified on sale on November 20, 2026, and two more hot-spring additions on November 21, 2026. Book before the ice-season price rise, because prices and availability may change after December 21 — each deal's own booking validity is shown below.
+Winter has arrived — Start of Winter fell on November 7 — and the ice season is about to get expensive: Harbin's Ice and Snow World is expected to open in late December, with its opening ceremony expected on January 5, 2027, and prices across the ice season typically rise from December 21. We checked every deal below against the live booking page on November 8, 2026: each one is still on sale, with the starting price, validity and inclusions exactly as listed. The outdoor-ski section below was checked the same way on November 17, 2026. The three hot-spring additions at the end of the hot-spring section were verified on sale on November 19, 2026, and the two further hot-spring additions there were verified on sale on November 20, 2026, and two more hot-spring additions on November 21, 2026, and two more hot-spring additions plus one indoor-snow addition were verified on sale on November 22, 2026. Book before the ice-season price rise, because prices and availability may change after December 21 — each deal's own booking validity is shown below.
 
 Every deal links to its full English page with a booking button. Prices are in CNY with an approximate USD equivalent.
 
@@ -108,6 +108,14 @@ A note on the four famous resorts first: we searched the booking platform for st
 <a href="/attractions/longyan-tianzi-hot-spring-water-park/"><img src="https://img.xialv.com/uploads/2026/04/09/item_pic1775740415757510.jpeg?imageView2/1/w/1050/h/588" alt="Longyan Tianzi Hot Spring — forest hot-spring pools" loading="lazy" referrerpolicy="no-referrer"></a>
 <div><a href="/attractions/longyan-tianzi-hot-spring-water-park/"><strong>Longyan Tianzi Hot Spring & Water Park — 1 Adult + 1 Kid from ¥128 (≈$18)</strong></a><br>day ticket for 1 adult + 1 kid covering 100+ forest hot-spring pools and the water park — buy and use the same day. Valid Apr 24 – Dec 31, 2026.</div>
 </div>
+<div class="autumn-item">
+<a href="/resorts/jiashan-yunlanwan-hot-spring-hotel/"><img src="https://img.xialv.com/uploads/2024/12/17/item_pic1734415179841591.jpeg?imageView2/1/w/1050/h/588" alt="Jiashan Yunlanwan Hot Spring Hotel — hot-spring pools and resort gardens" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/resorts/jiashan-yunlanwan-hot-spring-hotel/"><strong>Jiashan Yunlanwan Hot Spring Hotel — 1 Night + Hot Springs from ¥659 (≈$92)</strong></a><br>deluxe room with breakfast for 2, hot-spring tickets, flower-sea park with a mini train and the building-block park, inside a 1,300-acre hot-spring resort. Valid Sep 19 – Dec 31, 2026.</div>
+</div>
+<div class="autumn-item">
+<a href="/resorts/nanjing-banyan-tree-garden-expo-resort/"><img src="https://img.xialv.com/uploads/2025/06/20/item_pic1750385585343168.jpeg?imageView2/1/w/1050/h/588" alt="Nanjing Banyan Tree Garden Expo — cliff-side rooms above the old quarry valley" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/resorts/nanjing-banyan-tree-garden-expo-resort/"><strong>Nanjing Banyan Tree Garden Expo — 2 Nights in a Cliff Room with Private Hot Spring from ¥3,188 (≈$443)</strong></a><br>60㎡ cliff room carved into a former quarry, with breakfast for 2, a dining voucher, a private in-room hot spring and public pools, plus nature-park and Yangshan Stele tickets. Valid Oct 15, 2026 – Mar 31, 2027.</div>
+</div>
 </div>
 
 ## Indoor snow parks
@@ -124,6 +132,10 @@ A note on the four famous resorts first: we searched the booking platform for st
 <div class="autumn-item">
 <a href="/family-packages/shanghai-lingang-ice-snow-mingcheng/"><img src="https://img.xialv.com/uploads/2024/10/21/item_pic1729498227062147.jpeg?imageView2/1/w/1050/h/588" alt="Shanghai Lingang Ice-Snow Mingcheng Hotel" loading="lazy" referrerpolicy="no-referrer"></a>
 <div><a href="/family-packages/shanghai-lingang-ice-snow-mingcheng/"><strong>Shanghai Lingang Ice-Snow Mingcheng — Snow Play Package from ¥799 (≈$113)</strong></a><br>1 night with all-day snow-play and beginner ski options for two. Valid through Dec 30, 2026.</div>
+</div>
+<div class="autumn-item">
+<a href="/resorts/taicang-club-med-ski-resort-stay/"><img src="https://img.xialv.com/uploads/2024/12/06/item_pic1733468727262860.jpeg?imageView2/1/w/1050/h/588" alt="Club Med Taicang ski resort — indoor ski slopes at the Alps Snow World" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/resorts/taicang-club-med-ski-resort-stay/"><strong>Taicang Club Med Ski Resort — 2 Nights + Ski Passes from ¥1,698 (≈$236)</strong></a><br>2 nights with breakfast for 2 adults + 1 child and beginner-slope ski passes inside the Alps Snow World indoor-ski complex, about an hour from Shanghai. Valid Nov 20, 2026 – Mar 31, 2027.</div>
 </div>
 </div>
 

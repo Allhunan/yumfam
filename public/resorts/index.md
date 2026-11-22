@@ -3,6 +3,16 @@
 - URL: https://yumfam.com/resorts/
 
 
+- [Jiashan Yunlanwan Hot Spring Hotel — 1 Night + Hot Springs from ¥659 (≈$92)](https://yumfam.com/resorts/jiashan-yunlanwan-hot-spring-hotel/) — 2026-11-22
+
+- [Nanjing Banyan Tree — 2 Nights in a Cliff Room with Private Hot Spring from ¥3,188 (≈$443)](https://yumfam.com/resorts/nanjing-banyan-tree-garden-expo-resort/) — 2026-11-22
+
+- [Qiandao Lake Kaiyuan Resort — 1 Night + Car Town Tickets from ¥398 (≈$55)](https://yumfam.com/resorts/qiandao-lake-kaiyuan-resort/) — 2026-11-22
+
+- [Taicang Club Med Ski Resort — 2 Nights + Ski Passes from ¥1,698 (≈$236)](https://yumfam.com/resorts/taicang-club-med-ski-resort-stay/) — 2026-11-22
+
+- [Yiwu Senshan Junlan Resort — New Wellness Retreat from ¥499 (≈$69), No Top-Up on Weekends or Holidays](https://yumfam.com/resorts/yiwu-senshan-junlan-resort/) — 2026-11-22
+
 - [Zhangzhou Duoleng Hot Spring Hotel — 1 Night + Breakfast + Unlimited Hot Springs from ¥299 (≈$42)](https://yumfam.com/resorts/zhangzhou-duoleng-hot-spring-hotel/) — 2026-11-21
 
 - [Conghua Tianrenshanshui Valley Camp — Hot-Spring Pool Room from ¥699 (≈$97)](https://yumfam.com/resorts/guangzhou-tianrenshanshui-valley-camp-pool-room/) — 2026-11-20
