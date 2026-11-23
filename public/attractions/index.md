@@ -3,6 +3,8 @@
 - URL: https://yumfam.com/attractions/
 
 
+- [Xiamen Eye Ferris Wheel from ¥39.9 (≈$6): Air-Conditioned Cabins with 360° Views of Gulangyu](https://yumfam.com/attractions/xiamen-eye-ferris-wheel/) — 2026-11-23
+
 - [Longyan Tianzi Hot Spring & Water Park — 1 Adult + 1 Kid from ¥128 (≈$18)](https://yumfam.com/attractions/longyan-tianzi-hot-spring-water-park/) — 2026-11-21
 
 - [Steiff Teddy Bear Ice Rink in Shanghai from ¥39.90 (≈$6): 90 Minutes on Real Ice under a 12-Metre Teddy Bear](https://yumfam.com/attractions/shanghai-steiff-teddy-bear-ice-rink/) — 2026-11-19

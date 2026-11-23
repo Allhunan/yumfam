@@ -5,6 +5,26 @@ YumFam — Family-friendly hotel buffet guides and resort deals across China, in
 ## Latest
 
 
+- [Xiamen Eye Ferris Wheel from ¥39.9 (≈$6): Air-Conditioned Cabins with 360° Views of Gulangyu](https://yumfam.com/attractions/xiamen-eye-ferris-wheel/) — 2026-11-23
+
+- [Xiamen Eye Ferris Wheel](https://yumfam.com/go/xiamen-eye-ferris-wheel/) — 2026-11-23
+
+- [Haining Chang'an Kaiyuan Mingdu Hotel from ¥399 (≈$55): Opening Deal — 2 Nights + Meals, No Weekend or Holiday Surcharge](https://yumfam.com/resorts/haining-changan-kaiyuan-mingdu-hotel/) — 2026-11-23
+
+- [Haining Chang'an Kaiyuan Mingdu Hotel](https://yumfam.com/go/haining-changan-kaiyuan-mingdu-hotel/) — 2026-11-23
+
+- [Hainan Wanning 5-Day Family Tour from ¥3,980 (≈$553) a Child: Rainforest, Surfing & Beach Hotels — No Early Mornings](https://yumfam.com/family-packages/hainan-wanning-5-day-family-tour/) — 2026-11-23
+
+- [Hainan Wanning 5-Day Family Tour](https://yumfam.com/go/hainan-wanning-5-day-family-tour/) — 2026-11-23
+
+- [Guangzhou Wanfu Hilton Crab Buffet from ¥168 (≈$23): 100+ Dishes, Hairy Crab & a Kids' Cooking Class](https://yumfam.com/buffets/guangzhou-wanfu-hilton-crab-buffet/) — 2026-11-23
+
+- [Guangzhou Wanfu Hilton Crab Buffet](https://yumfam.com/go/guangzhou-wanfu-hilton-crab-buffet/) — 2026-11-23
+
+- [Guangzhou Jinyezi Hot Spring Hotel from ¥399 (≈$55): Mountain Hot Springs, Water Park & Two Meals for 2 Adults + 2 Kids](https://yumfam.com/resorts/guangzhou-jinyezi-hot-spring-hotel/) — 2026-11-23
+
+- [Guangzhou Jinyezi Hot Spring Hotel](https://yumfam.com/go/guangzhou-jinyezi-hot-spring-hotel/) — 2026-11-23
+
 - [Yiwu Senshan Junlan Resort — New Wellness Retreat from ¥499 (≈$69), No Top-Up on Weekends or Holidays](https://yumfam.com/resorts/yiwu-senshan-junlan-resort/) — 2026-11-22
 
 - [Yiwu Senshan Junlan Resort — New Wellness Retreat](https://yumfam.com/go/yiwu-senshan-junlan-resort/) — 2026-11-22
@@ -44,24 +64,4 @@ YumFam — Family-friendly hotel buffet guides and resort deals across China, in
 - [Longyan Tianzi Hot Spring & Water Park — 1 Adult + 1 Kid from ¥128 (≈$18)](https://yumfam.com/attractions/longyan-tianzi-hot-spring-water-park/) — 2026-11-21
 
 - [Longyan Tianzi Hot Spring & Water Park](https://yumfam.com/go/longyan-tianzi-hot-spring-water-park/) — 2026-11-21
-
-- [Zhangzhou Southeast Flower City Hot Spring Hotel — booking page](https://yumfam.com/go/zhangzhou-southeast-flower-city-hot-spring-hotel/) — 2026-11-20
-
-- [Zhangzhou Southeast Flower City Hot Spring Hotel — 1 Night for 2 Adults + 1 Child from ¥298 (≈$41)](https://yumfam.com/resorts/zhangzhou-southeast-flower-city-hot-spring-hotel/) — 2026-11-20
-
-- [Nanping Bestway Hotel + Wuyi Dream Huacheng Tickets — Garden-View Room from ¥439 (≈$61)](https://yumfam.com/resorts/nanping-bestway-hotel-wuyi-dream-huacheng/) — 2026-11-20
-
-- [Nanping Bestway Hotel + Wuyi Dream Huacheng Tickets — booking page](https://yumfam.com/go/nanping-bestway-hotel-wuyi-dream-huacheng/) — 2026-11-20
-
-- [Guangzhou Hehui Hot Spring Hotel — Pool Room for 2 Adults + 2 Kids from ¥699 (≈$97)](https://yumfam.com/resorts/guangzhou-hehui-hot-spring-hotel/) — 2026-11-20
-
-- [Guangzhou Hehui Hot Spring Hotel — booking page](https://yumfam.com/go/guangzhou-hehui-hot-spring-hotel/) — 2026-11-20
-
-- [Dehua Lusheng Ceramic Hotel — booking page](https://yumfam.com/go/dehua-lusheng-ceramic-hotel/) — 2026-11-20
-
-- [Dehua Lusheng Ceramic Hotel — 1 Night from ¥499 (≈$69)](https://yumfam.com/resorts/dehua-lusheng-ceramic-hotel/) — 2026-11-20
-
-- [Conghua Tianrenshanshui Valley Camp — Hot-Spring Pool Room from ¥699 (≈$97)](https://yumfam.com/resorts/guangzhou-tianrenshanshui-valley-camp-pool-room/) — 2026-11-20
-
-- [Conghua Tianrenshanshui Valley Camp — Hot-Spring Pool Room — booking page](https://yumfam.com/go/guangzhou-tianrenshanshui-valley-camp-pool-room/) — 2026-11-20
 

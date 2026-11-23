@@ -3,6 +3,8 @@
 - URL: https://yumfam.com/buffets/
 
 
+- [Guangzhou Wanfu Hilton Crab Buffet from ¥168 (≈$23): 100+ Dishes, Hairy Crab & a Kids' Cooking Class](https://yumfam.com/buffets/guangzhou-wanfu-hilton-crab-buffet/) — 2026-11-23
+
 - [Xiamen Conrad — 38th-Floor Buffet from ¥188 (≈$26), Kids Under 12 Eat Free](https://yumfam.com/buffets/xiamen-conrad-buffet/) — 2026-11-21
 
 - [Xiamen Le Méridien — Weekend Buffet for 1 Adult + 1 Kid from ¥158 (≈$22)](https://yumfam.com/buffets/xiamen-le-meridien-weekend-buffet/) — 2026-11-21

@@ -3,6 +3,8 @@
 - URL: https://yumfam.com/family-packages/
 
 
+- [Hainan Wanning 5-Day Family Tour from ¥3,980 (≈$553) a Child: Rainforest, Surfing & Beach Hotels — No Early Mornings](https://yumfam.com/family-packages/hainan-wanning-5-day-family-tour/) — 2026-11-23
+
 - [Changbaishan 6-Day Luxury Family Tour from ¥4,980 (≈$692) a Child: Skiing, Volcanic Hot Springs & Yanji by Vintage Tram](https://yumfam.com/family-packages/changbaishan-6-day-luxury-family-tour/) — 2026-11-18
 
 - [Inner Mongolia Keshiketeng Winter Pasture Family Tour from ¥3,680 (≈$511) a Child: 6 Days / 5 Nights, Winter Fishing, Rime Rafting & Off-Road Snow Crossing](https://yumfam.com/family-packages/inner-mongolia-keshiketeng-winter-pasture-family-tour/) — 2026-11-18
@@ -76,8 +78,6 @@
 - [“Golden Soup Passport” Hot-Spring Card ¥168 (≈$23): One Soak Each at 28 Hot Springs Across 9 Provinces](https://yumfam.com/family-packages/golden-soup-passport-hot-spring-card/) — 2026-10-18
 
 - [Anji Cloud Grassland Resort 2 Nights ¥699 (≈$99): Kids' Activities, Free Dress-Up Photos & Egg Collecting](https://yumfam.com/family-packages/anji-yunshang-grassland-resort-2-night/) — 2026-10-17
-
-- [Shanghai Swan Lake Manor Autumn Pasture ¥29.9 (≈$4): Capybaras, Deer Forest & No-Power Playground](https://yumfam.com/family-packages/shanghai-daqian-swan-lake-manor-pasture/) — 2026-10-17
 
 - [Yangzhou Xiaoqinhuai Hotel 2-Night Stay + Heyuan Garden Tickets ¥898 (≈$126)](https://yumfam.com/family-packages/yangzhou-xiaoqinhuai-hotel-heyuan-garden-stay/) — 2026-10-17
 

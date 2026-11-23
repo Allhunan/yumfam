@@ -1,7 +1,7 @@
 ---
 title: "Shanghai Swan Lake Manor Autumn Pasture ¥29.9 (≈$4): Capybaras, Deer Forest & No-Power Playground"
 date: 2026-10-17
-draft: false
+draft: true
 location: "Qingpu, Shanghai"
 price: "from ¥29.9 (≈$4)"
 was_price: "¥88"
