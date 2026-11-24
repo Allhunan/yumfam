@@ -5,6 +5,26 @@ YumFam — Family-friendly hotel buffet guides and resort deals across China, in
 ## Latest
 
 
+- [Xishuangbanna 5-Day Rainforest Family Tour from ¥3,380 (≈$469) a Child: Private Rainforest, Elephant Feeding & a Dai Princess Role-Play](https://yumfam.com/family-packages/xishuangbanna-5-day-rainforest-family-tour/) — 2026-11-24
+
+- [Xishuangbanna 5-Day Rainforest Family Tour](https://yumfam.com/go/xishuangbanna-5-day-rainforest-family-tour/) — 2026-11-24
+
+- [Wen'an Hilton Curio Collection Hotel from ¥358 (≈$50): Lakeside Rooms, Afternoon Tea & New Year Fireworks by Huamei Shengdi](https://yumfam.com/resorts/wenan-hilton-curio-collection-hotel/) — 2026-11-24
+
+- [Wen'an Hilton Curio Collection Hotel](https://yumfam.com/go/wenan-hilton-curio-collection-hotel/) — 2026-11-24
+
+- [Shenzhen Luwan International Hotel from ¥399 (≈$55): French Chateau Rooms by the Sea, 3D Cinema & a Sea-View Splash Pool](https://yumfam.com/resorts/shenzhen-luwan-international-hotel/) — 2026-11-24
+
+- [Shenzhen Luwan International Hotel](https://yumfam.com/go/shenzhen-luwan-international-hotel/) — 2026-11-24
+
+- [Ningde Baixiang Sanduao Hotel from ¥799 (≈$111): Lakeside Rooms, Two Meals & She Ethnic Dress-Up for the Kids](https://yumfam.com/resorts/ningde-baixiang-sanduao-hotel/) — 2026-11-24
+
+- [Ningde Baixiang Sanduao Hotel](https://yumfam.com/go/ningde-baixiang-sanduao-hotel/) — 2026-11-24
+
+- [Longyan Guanzhai Migu Baixiang Resort from ¥499 (≈$69): Hakka Mountain Rooms, Two Meals & 400 Mu of Forest at the 5A Guanzhaishan Gate](https://yumfam.com/resorts/longyan-guanzhai-migu-baixiang-resort/) — 2026-11-24
+
+- [Longyan Guanzhai Migu Baixiang Resort](https://yumfam.com/go/longyan-guanzhai-migu-baixiang-resort/) — 2026-11-24
+
 - [Xiamen Eye Ferris Wheel from ¥39.9 (≈$6): Air-Conditioned Cabins with 360° Views of Gulangyu](https://yumfam.com/attractions/xiamen-eye-ferris-wheel/) — 2026-11-23
 
 - [Xiamen Eye Ferris Wheel](https://yumfam.com/go/xiamen-eye-ferris-wheel/) — 2026-11-23
@@ -44,24 +64,4 @@ YumFam — Family-friendly hotel buffet guides and resort deals across China, in
 - [Jiashan Yunlanwan Hot Spring Hotel — 1 Night + Hot Springs from ¥659 (≈$92)](https://yumfam.com/resorts/jiashan-yunlanwan-hot-spring-hotel/) — 2026-11-22
 
 - [Jiashan Yunlanwan Hot Spring Hotel — 1 Night + Hot Springs](https://yumfam.com/go/jiashan-yunlanwan-hot-spring-hotel/) — 2026-11-22
-
-- [Zhangzhou Duoleng Hot Spring Hotel — 1 Night + Breakfast + Unlimited Hot Springs from ¥299 (≈$42)](https://yumfam.com/resorts/zhangzhou-duoleng-hot-spring-hotel/) — 2026-11-21
-
-- [Zhangzhou Duoleng Hot Spring Hotel](https://yumfam.com/go/zhangzhou-duoleng-hot-spring-hotel/) — 2026-11-21
-
-- [Xiamen Shangri-La Buffet + Kids' Club](https://yumfam.com/go/xiamen-shangri-la-buffet-kids-club/) — 2026-11-21
-
-- [Xiamen Shangri-La — Buffet for 1 Adult + 1 Kid from ¥129 (≈$18) + 4 Hours at the Kids' Club](https://yumfam.com/buffets/xiamen-shangri-la-buffet-kids-club/) — 2026-11-21
-
-- [Xiamen Le Méridien Weekend Buffet](https://yumfam.com/go/xiamen-le-meridien-weekend-buffet/) — 2026-11-21
-
-- [Xiamen Le Méridien — Weekend Buffet for 1 Adult + 1 Kid from ¥158 (≈$22)](https://yumfam.com/buffets/xiamen-le-meridien-weekend-buffet/) — 2026-11-21
-
-- [Xiamen Conrad Buffet](https://yumfam.com/go/xiamen-conrad-buffet/) — 2026-11-21
-
-- [Xiamen Conrad — 38th-Floor Buffet from ¥188 (≈$26), Kids Under 12 Eat Free](https://yumfam.com/buffets/xiamen-conrad-buffet/) — 2026-11-21
-
-- [Longyan Tianzi Hot Spring & Water Park — 1 Adult + 1 Kid from ¥128 (≈$18)](https://yumfam.com/attractions/longyan-tianzi-hot-spring-water-park/) — 2026-11-21
-
-- [Longyan Tianzi Hot Spring & Water Park](https://yumfam.com/go/longyan-tianzi-hot-spring-water-park/) — 2026-11-21
 

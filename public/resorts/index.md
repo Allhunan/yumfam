@@ -3,6 +3,14 @@
 - URL: https://yumfam.com/resorts/
 
 
+- [Longyan Guanzhai Migu Baixiang Resort from ¥499 (≈$69): Hakka Mountain Rooms, Two Meals & 400 Mu of Forest at the 5A Guanzhaishan Gate](https://yumfam.com/resorts/longyan-guanzhai-migu-baixiang-resort/) — 2026-11-24
+
+- [Ningde Baixiang Sanduao Hotel from ¥799 (≈$111): Lakeside Rooms, Two Meals & She Ethnic Dress-Up for the Kids](https://yumfam.com/resorts/ningde-baixiang-sanduao-hotel/) — 2026-11-24
+
+- [Shenzhen Luwan International Hotel from ¥399 (≈$55): French Chateau Rooms by the Sea, 3D Cinema & a Sea-View Splash Pool](https://yumfam.com/resorts/shenzhen-luwan-international-hotel/) — 2026-11-24
+
+- [Wen'an Hilton Curio Collection Hotel from ¥358 (≈$50): Lakeside Rooms, Afternoon Tea & New Year Fireworks by Huamei Shengdi](https://yumfam.com/resorts/wenan-hilton-curio-collection-hotel/) — 2026-11-24
+
 - [Guangzhou Jinyezi Hot Spring Hotel from ¥399 (≈$55): Mountain Hot Springs, Water Park & Two Meals for 2 Adults + 2 Kids](https://yumfam.com/resorts/guangzhou-jinyezi-hot-spring-hotel/) — 2026-11-23
 
 - [Haining Chang'an Kaiyuan Mingdu Hotel from ¥399 (≈$55): Opening Deal — 2 Nights + Meals, No Weekend or Holiday Surcharge](https://yumfam.com/resorts/haining-changan-kaiyuan-mingdu-hotel/) — 2026-11-23
