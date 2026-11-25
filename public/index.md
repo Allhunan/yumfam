@@ -5,6 +5,26 @@ YumFam — Family-friendly hotel buffet guides and resort deals across China, in
 ## Latest
 
 
+- [Shanghai Yaoxue Snow World Ski + Hot Spring for Two from ¥799 (≈$111): 4 Hours on All Slopes + Hot Spring Tickets](https://yumfam.com/family-packages/shanghai-yaoxue-ski-hot-spring-duo/) — 2026-11-25
+
+- [Shanghai Yaoxue Snow World Ski + Hot Spring Duo — booking page](https://yumfam.com/go/shanghai-yaoxue-ski-hot-spring-duo/) — 2026-11-25
+
+- [Sanya Bay voco Warm Winter Stay from ¥1,588 (≈$221): 2 Nights + Breakfast for 2 Adults & 2 Kids, Minibar & Romantic Dinner](https://yumfam.com/resorts/sanya-bay-voco-warm-winter-stay/) — 2026-11-25
+
+- [Sanya Bay voco Warm Winter Stay — booking page](https://yumfam.com/go/sanya-bay-voco-warm-winter-stay/) — 2026-11-25
+
+- [Huizhou Fuli Yangshenggu Hot Spring Villa from ¥489 (≈$68): 4-Bedroom Villa with Private Soak Pool, KTV, BBQ & Mahjong — No Surcharge Sun–Fri](https://yumfam.com/resorts/huizhou-fuli-yangshenggu-hot-spring-villa/) — 2026-11-25
+
+- [Huizhou Fuli Yangshenggu Hot Spring Villa — booking page](https://yumfam.com/go/huizhou-fuli-yangshenggu-hot-spring-villa/) — 2026-11-25
+
+- [Gubei Water Town Inn Stay from ¥399 (≈$55): 1 Night + Scenic Tickets + Hot-Spring Baths + Great Wall or Afternoon Tea](https://yumfam.com/resorts/gubei-water-town-inn-all-inclusive/) — 2026-11-25
+
+- [Gubei Water Town Inn All-Inclusive — booking page](https://yumfam.com/go/gubei-water-town-inn-all-inclusive/) — 2026-11-25
+
+- [Changtai Banyue Mountain Hot Spring Mansion from ¥799 (≈$111): 50㎡ Room with Private Soak Pool + Breakfast & Unlimited Hot Springs for 2 Adults + 2 Kids](https://yumfam.com/resorts/changtai-banyue-mountain-hot-spring-mansion/) — 2026-11-25
+
+- [Changtai Banyue Mountain Hot Spring Mansion — booking page](https://yumfam.com/go/changtai-banyue-mountain-hot-spring-mansion/) — 2026-11-25
+
 - [Xishuangbanna 5-Day Rainforest Family Tour from ¥3,380 (≈$469) a Child: Private Rainforest, Elephant Feeding & a Dai Princess Role-Play](https://yumfam.com/family-packages/xishuangbanna-5-day-rainforest-family-tour/) — 2026-11-24
 
 - [Xishuangbanna 5-Day Rainforest Family Tour](https://yumfam.com/go/xishuangbanna-5-day-rainforest-family-tour/) — 2026-11-24
@@ -44,24 +64,4 @@ YumFam — Family-friendly hotel buffet guides and resort deals across China, in
 - [Guangzhou Jinyezi Hot Spring Hotel from ¥399 (≈$55): Mountain Hot Springs, Water Park & Two Meals for 2 Adults + 2 Kids](https://yumfam.com/resorts/guangzhou-jinyezi-hot-spring-hotel/) — 2026-11-23
 
 - [Guangzhou Jinyezi Hot Spring Hotel](https://yumfam.com/go/guangzhou-jinyezi-hot-spring-hotel/) — 2026-11-23
-
-- [Yiwu Senshan Junlan Resort — New Wellness Retreat from ¥499 (≈$69), No Top-Up on Weekends or Holidays](https://yumfam.com/resorts/yiwu-senshan-junlan-resort/) — 2026-11-22
-
-- [Yiwu Senshan Junlan Resort — New Wellness Retreat](https://yumfam.com/go/yiwu-senshan-junlan-resort/) — 2026-11-22
-
-- [Taicang Club Med Ski Resort — 2 Nights + Ski Passes from ¥1,698 (≈$236)](https://yumfam.com/resorts/taicang-club-med-ski-resort-stay/) — 2026-11-22
-
-- [Taicang Club Med Ski Resort — 2 Nights + Ski Passes](https://yumfam.com/go/taicang-club-med-ski-resort-stay/) — 2026-11-22
-
-- [Qiandao Lake Kaiyuan Resort — 1 Night + Car Town Tickets from ¥398 (≈$55)](https://yumfam.com/resorts/qiandao-lake-kaiyuan-resort/) — 2026-11-22
-
-- [Qiandao Lake Kaiyuan Resort — 1 Night + Car Town Tickets](https://yumfam.com/go/qiandao-lake-kaiyuan-resort/) — 2026-11-22
-
-- [Nanjing Banyan Tree — 2 Nights in a Cliff Room with Private Hot Spring from ¥3,188 (≈$443)](https://yumfam.com/resorts/nanjing-banyan-tree-garden-expo-resort/) — 2026-11-22
-
-- [Nanjing Banyan Tree — 2 Nights in a Cliff Room with Private Hot Spring](https://yumfam.com/go/nanjing-banyan-tree-garden-expo-resort/) — 2026-11-22
-
-- [Jiashan Yunlanwan Hot Spring Hotel — 1 Night + Hot Springs from ¥659 (≈$92)](https://yumfam.com/resorts/jiashan-yunlanwan-hot-spring-hotel/) — 2026-11-22
-
-- [Jiashan Yunlanwan Hot Spring Hotel — 1 Night + Hot Springs](https://yumfam.com/go/jiashan-yunlanwan-hot-spring-hotel/) — 2026-11-22
 

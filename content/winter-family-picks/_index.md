@@ -2,10 +2,10 @@
 title: "Winter Family Picks 2026–27"
 date: 2026-11-08
 draft: false
-description: "Twenty-seven winter family deals — Harbin ice and snow, outdoor skiing, hot-spring escapes and indoor snow parks across China, from ¥128."
+description: "Thirty-one winter family deals — Harbin ice and snow, outdoor skiing, hot-spring escapes and indoor snow parks across China, from ¥128."
 ---
 
-Winter has arrived — Start of Winter fell on November 7 — and the ice season is about to get expensive: Harbin's Ice and Snow World is expected to open in late December, with its opening ceremony expected on January 5, 2027, and prices across the ice season typically rise from December 21. We checked every deal below against the live booking page on November 8, 2026: each one is still on sale, with the starting price, validity and inclusions exactly as listed. The outdoor-ski section below was checked the same way on November 17, 2026. The three hot-spring additions at the end of the hot-spring section were verified on sale on November 19, 2026, and the two further hot-spring additions there were verified on sale on November 20, 2026, and two more hot-spring additions on November 21, 2026, and two more hot-spring additions plus one indoor-snow addition were verified on sale on November 22, 2026, and one more hot-spring addition was verified on sale on November 23, 2026. Book before the ice-season price rise, because prices and availability may change after December 21 — each deal's own booking validity is shown below.
+Winter has arrived — Start of Winter fell on November 7 — and the ice season is about to get expensive: Harbin's Ice and Snow World is expected to open in late December, with its opening ceremony expected on January 5, 2027, and prices across the ice season typically rise from December 21. We checked every deal below against the live booking page on November 8, 2026: each one is still on sale, with the starting price, validity and inclusions exactly as listed. The outdoor-ski section below was checked the same way on November 17, 2026. The three hot-spring additions at the end of the hot-spring section were verified on sale on November 19, 2026, and the two further hot-spring additions there were verified on sale on November 20, 2026, and two more hot-spring additions on November 21, 2026, and two more hot-spring additions plus one indoor-snow addition were verified on sale on November 22, 2026, and one more hot-spring addition was verified on sale on November 23, 2026, and three more hot-spring additions plus one indoor-snow addition were verified on sale on November 25, 2026. Book before the ice-season price rise, because prices and availability may change after December 21 — each deal's own booking validity is shown below.
 
 Every deal links to its full English page with a booking button. Prices are in CNY with an approximate USD equivalent.
 
@@ -120,6 +120,18 @@ A note on the four famous resorts first: we searched the booking platform for st
 <a href="/resorts/guangzhou-jinyezi-hot-spring-hotel/"><img src="https://img.xialv.com/uploads/2024/05/09/item_pic1715223578783898.jpeg?imageView2/1/w/1050/h/588" alt="Guangzhou Jinyezi Hot Spring Hotel — hot-spring pools in the forested Baishuizhai mountains" loading="lazy" referrerpolicy="no-referrer"></a>
 <div><a href="/resorts/guangzhou-jinyezi-hot-spring-hotel/"><strong>Guangzhou Jinyezi Hot Spring Hotel — 1 Night + Hot Springs from ¥399 (≈$55)</strong></a><br>garden-view room with breakfast for 2 adults + 2 kids, unlimited mountain hot springs, a kids' playground, a spring-water pool and sauna, beside the 4A Baishuizhai scenic area. Valid Nov 18, 2026 – Jan 31, 2027.</div>
 </div>
+<div class="autumn-item">
+<a href="/resorts/changtai-banyue-mountain-hot-spring-mansion/"><img src="https://img.xialv.com/uploads/2022/12/26/item_pic1672018574191940.jpeg?imageView2/1/w/1050/h/588" alt="Changtai Banyue Mountain Hot Spring — outdoor hot-spring pools in a forested valley" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/resorts/changtai-banyue-mountain-hot-spring-mansion/"><strong>Changtai Banyue Mountain Hot Spring Mansion — 50㎡ Room with Private Soak Pool from ¥799 (≈$111)</strong></a><br>private in-room hot-spring pool, breakfast and unlimited use of 50+ pools for 2 adults + 2 kids, about an hour from Xiamen. Valid through Dec 30, 2026.</div>
+</div>
+<div class="autumn-item">
+<a href="/resorts/huizhou-fuli-yangshenggu-hot-spring-villa/"><img src="https://img.xialv.com/uploads/2026/07/23/item_pic1784768700047324.jpeg?imageView2/1/w/1050/h/588" alt="Huizhou Fuli Yangshenggu hot-spring villa — private villa with its own hot-spring pool" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/resorts/huizhou-fuli-yangshenggu-hot-spring-villa/"><strong>Huizhou Fuli Yangshenggu Hot Spring Villa — Whole 4-Bedroom Villa from ¥489 (≈$68)</strong></a><br>private soak pool, free KTV, BBQ grill, kitchen and mahjong for a big family or group, about 2 hours from Guangzhou/Shenzhen. Sunday–Friday no surcharge. Valid Nov 18, 2026 – Jan 31, 2027.</div>
+</div>
+<div class="autumn-item">
+<a href="/resorts/gubei-water-town-inn-all-inclusive/"><img src="https://img.xialv.com/uploads/2026/09/09/item_pic_origin1788935424813437.jpeg?imageView2/1/w/1050/h/588" alt="Gubei Water Town — canals and grey-tiled roofs at dusk, below the Simatai Great Wall" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/resorts/gubei-water-town-inn-all-inclusive/"><strong>Gubei Water Town Inn Stay — 1 Night + Hot-Spring Baths from ¥399 (≈$55)</strong></a><br>sleep inside the water town with scenic-area tickets, hot-spring bath tickets and a Great Wall ticket, DIY lamp or afternoon tea for two. Valid Nov 20, 2026 – Jul 15, 2027.</div>
+</div>
 </div>
 
 ## Indoor snow parks
@@ -140,6 +152,10 @@ A note on the four famous resorts first: we searched the booking platform for st
 <div class="autumn-item">
 <a href="/resorts/taicang-club-med-ski-resort-stay/"><img src="https://img.xialv.com/uploads/2024/12/06/item_pic1733468727262860.jpeg?imageView2/1/w/1050/h/588" alt="Club Med Taicang ski resort — indoor ski slopes at the Alps Snow World" loading="lazy" referrerpolicy="no-referrer"></a>
 <div><a href="/resorts/taicang-club-med-ski-resort-stay/"><strong>Taicang Club Med Ski Resort — 2 Nights + Ski Passes from ¥1,698 (≈$236)</strong></a><br>2 nights with breakfast for 2 adults + 1 child and beginner-slope ski passes inside the Alps Snow World indoor-ski complex, about an hour from Shanghai. Valid Nov 20, 2026 – Mar 31, 2027.</div>
+</div>
+<div class="autumn-item">
+<a href="/family-packages/shanghai-yaoxue-ski-hot-spring-duo/"><img src="https://img.xialv.com/uploads/2026/11/19/item_pic_origin1795073084212196.jpeg?imageView2/1/w/1050/h/588" alt="Shanghai Yaoxue Snow World — indoor ski slopes under a snow-covered mountain" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/family-packages/shanghai-yaoxue-ski-hot-spring-duo/"><strong>Shanghai Yaoxue Ski + Hot Spring for Two — 4 Hours on All Slopes from ¥799 (≈$111)</strong></a><br>4-hour intermediate/advanced ski pass for two with gear included, plus hot-spring tickets for two next door. Weekdays ¥799, weekends ¥899. Valid Nov 21 – Dec 31, 2026.</div>
 </div>
 </div>
 

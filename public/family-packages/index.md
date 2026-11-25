@@ -3,6 +3,8 @@
 - URL: https://yumfam.com/family-packages/
 
 
+- [Shanghai Yaoxue Snow World Ski + Hot Spring for Two from ¥799 (≈$111): 4 Hours on All Slopes + Hot Spring Tickets](https://yumfam.com/family-packages/shanghai-yaoxue-ski-hot-spring-duo/) — 2026-11-25
+
 - [Xishuangbanna 5-Day Rainforest Family Tour from ¥3,380 (≈$469) a Child: Private Rainforest, Elephant Feeding & a Dai Princess Role-Play](https://yumfam.com/family-packages/xishuangbanna-5-day-rainforest-family-tour/) — 2026-11-24
 
 - [Hainan Wanning 5-Day Family Tour from ¥3,980 (≈$553) a Child: Rainforest, Surfing & Beach Hotels — No Early Mornings](https://yumfam.com/family-packages/hainan-wanning-5-day-family-tour/) — 2026-11-23

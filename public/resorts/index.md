@@ -3,6 +3,14 @@
 - URL: https://yumfam.com/resorts/
 
 
+- [Changtai Banyue Mountain Hot Spring Mansion from ¥799 (≈$111): 50㎡ Room with Private Soak Pool + Breakfast & Unlimited Hot Springs for 2 Adults + 2 Kids](https://yumfam.com/resorts/changtai-banyue-mountain-hot-spring-mansion/) — 2026-11-25
+
+- [Gubei Water Town Inn Stay from ¥399 (≈$55): 1 Night + Scenic Tickets + Hot-Spring Baths + Great Wall or Afternoon Tea](https://yumfam.com/resorts/gubei-water-town-inn-all-inclusive/) — 2026-11-25
+
+- [Huizhou Fuli Yangshenggu Hot Spring Villa from ¥489 (≈$68): 4-Bedroom Villa with Private Soak Pool, KTV, BBQ & Mahjong — No Surcharge Sun–Fri](https://yumfam.com/resorts/huizhou-fuli-yangshenggu-hot-spring-villa/) — 2026-11-25
+
+- [Sanya Bay voco Warm Winter Stay from ¥1,588 (≈$221): 2 Nights + Breakfast for 2 Adults & 2 Kids, Minibar & Romantic Dinner](https://yumfam.com/resorts/sanya-bay-voco-warm-winter-stay/) — 2026-11-25
+
 - [Longyan Guanzhai Migu Baixiang Resort from ¥499 (≈$69): Hakka Mountain Rooms, Two Meals & 400 Mu of Forest at the 5A Guanzhaishan Gate](https://yumfam.com/resorts/longyan-guanzhai-migu-baixiang-resort/) — 2026-11-24
 
 - [Ningde Baixiang Sanduao Hotel from ¥799 (≈$111): Lakeside Rooms, Two Meals & She Ethnic Dress-Up for the Kids](https://yumfam.com/resorts/ningde-baixiang-sanduao-hotel/) — 2026-11-24
