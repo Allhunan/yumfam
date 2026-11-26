@@ -33,6 +33,7 @@ The route, as listed on the live product page:
 - Groups need 15 people to run and cap at 28; buy at least 3 days before departure and confirm with customer service after booking.
 - Cancellation: free 15+ days before departure, 20% loss at 8 days, 60% at 1 day, 100% within 1 day.
 - Ages 5–15; pregnant travellers cannot join, and travellers over 60 must sign a waiver (over 70 cannot join). Rime ice and frozen-river views are weather-dependent, not guaranteed.
+- **Winter World University Games at Songhua Lake (January 15–25, 2027):** Songhuahu hosts snowboard and ski-mountaineering events at the 33rd Winter World University Games. During the Games the resort runs its competition zones and public slopes separately, so the public slopes stay open to regular skiers as usual.
 
 ---
 
