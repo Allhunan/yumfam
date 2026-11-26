@@ -3,6 +3,8 @@
 - URL: https://yumfam.com/buffets/
 
 
+- [Xiamen Kempinski Lunch Buffet from ¥156 (≈$22): 2nd-Floor Café by Yundang Lake — 2 Adults Bring 1 Child Under 6 Free](https://yumfam.com/buffets/xiamen-yuanchang-kempinski-lunch-buffet/) — 2026-11-26
+
 - [Guangzhou Wanfu Hilton Crab Buffet from ¥168 (≈$23): 100+ Dishes, Hairy Crab & a Kids' Cooking Class](https://yumfam.com/buffets/guangzhou-wanfu-hilton-crab-buffet/) — 2026-11-23
 
 - [Xiamen Conrad — 38th-Floor Buffet from ¥188 (≈$26), Kids Under 12 Eat Free](https://yumfam.com/buffets/xiamen-conrad-buffet/) — 2026-11-21

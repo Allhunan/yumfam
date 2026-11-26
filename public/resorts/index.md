@@ -3,6 +3,14 @@
 - URL: https://yumfam.com/resorts/
 
 
+- [Shanghai Sun Island Forest Hot Spring from ¥98 (≈$14): Outdoor Pools, Energy Sweat Rooms, Massage & Tea Break](https://yumfam.com/resorts/shanghai-sun-island-forest-hot-spring/) — 2026-11-26
+
+- [Tianjin Polar Ocean Hotel from ¥699 (≈$97): Polar Room for 2 Adults + 1 Child with Unlimited Polar Park Entry](https://yumfam.com/resorts/tianjin-polar-ocean-hotel-family-stay/) — 2026-11-26
+
+- [Wen'an Hilton 3 Nights from ¥1,299 (≈$180): Family Stay by the Huamei Shengdi Ski Resort — No Surcharge on Weekends, New Year or Spring Festival](https://yumfam.com/resorts/wenan-green-hilton-3-night-family-stay/) — 2026-11-26
+
+- [Zhangzhou Duoleng Hot Spring Ticket from ¥59.9 (≈$8): 1 Adult + 1 Child, Weekends & Holidays with No Surcharge](https://yumfam.com/resorts/zhangzhou-duoleng-hot-spring-ticket/) — 2026-11-26
+
 - [Changtai Banyue Mountain Hot Spring Mansion from ¥799 (≈$111): 50㎡ Room with Private Soak Pool + Breakfast & Unlimited Hot Springs for 2 Adults + 2 Kids](https://yumfam.com/resorts/changtai-banyue-mountain-hot-spring-mansion/) — 2026-11-25
 
 - [Gubei Water Town Inn Stay from ¥399 (≈$55): 1 Night + Scenic Tickets + Hot-Spring Baths + Great Wall or Afternoon Tea](https://yumfam.com/resorts/gubei-water-town-inn-all-inclusive/) — 2026-11-25

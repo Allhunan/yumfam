@@ -5,6 +5,26 @@ YumFam — Family-friendly hotel buffet guides and resort deals across China, in
 ## Latest
 
 
+- [Zhangzhou Duoleng Hot Spring Ticket from ¥59.9 (≈$8): 1 Adult + 1 Child, Weekends & Holidays with No Surcharge](https://yumfam.com/resorts/zhangzhou-duoleng-hot-spring-ticket/) — 2026-11-26
+
+- [Zhangzhou Duoleng Hot Spring Ticket — booking page](https://yumfam.com/go/zhangzhou-duoleng-hot-spring-ticket/) — 2026-11-26
+
+- [Xiamen Kempinski Lunch Buffet from ¥156 (≈$22): 2nd-Floor Café by Yundang Lake — 2 Adults Bring 1 Child Under 6 Free](https://yumfam.com/buffets/xiamen-yuanchang-kempinski-lunch-buffet/) — 2026-11-26
+
+- [Xiamen Kempinski Lunch Buffet — booking page](https://yumfam.com/go/xiamen-yuanchang-kempinski-lunch-buffet/) — 2026-11-26
+
+- [Wen'an Hilton 3-Night Family Stay — booking page](https://yumfam.com/go/wenan-green-hilton-3-night-family-stay/) — 2026-11-26
+
+- [Wen'an Hilton 3 Nights from ¥1,299 (≈$180): Family Stay by the Huamei Shengdi Ski Resort — No Surcharge on Weekends, New Year or Spring Festival](https://yumfam.com/resorts/wenan-green-hilton-3-night-family-stay/) — 2026-11-26
+
+- [Tianjin Polar Ocean Hotel from ¥699 (≈$97): Polar Room for 2 Adults + 1 Child with Unlimited Polar Park Entry](https://yumfam.com/resorts/tianjin-polar-ocean-hotel-family-stay/) — 2026-11-26
+
+- [Tianjin Polar Ocean Hotel — booking page](https://yumfam.com/go/tianjin-polar-ocean-hotel-family-stay/) — 2026-11-26
+
+- [Shanghai Sun Island Forest Hot Spring from ¥98 (≈$14): Outdoor Pools, Energy Sweat Rooms, Massage & Tea Break](https://yumfam.com/resorts/shanghai-sun-island-forest-hot-spring/) — 2026-11-26
+
+- [Shanghai Sun Island Forest Hot Spring — booking page](https://yumfam.com/go/shanghai-sun-island-forest-hot-spring/) — 2026-11-26
+
 - [Shanghai Yaoxue Snow World Ski + Hot Spring for Two from ¥799 (≈$111): 4 Hours on All Slopes + Hot Spring Tickets](https://yumfam.com/family-packages/shanghai-yaoxue-ski-hot-spring-duo/) — 2026-11-25
 
 - [Shanghai Yaoxue Snow World Ski + Hot Spring Duo — booking page](https://yumfam.com/go/shanghai-yaoxue-ski-hot-spring-duo/) — 2026-11-25
@@ -16,6 +36,8 @@ YumFam — Family-friendly hotel buffet guides and resort deals across China, in
 - [Huizhou Fuli Yangshenggu Hot Spring Villa from ¥489 (≈$68): 4-Bedroom Villa with Private Soak Pool, KTV, BBQ & Mahjong — No Surcharge Sun–Fri](https://yumfam.com/resorts/huizhou-fuli-yangshenggu-hot-spring-villa/) — 2026-11-25
 
 - [Huizhou Fuli Yangshenggu Hot Spring Villa — booking page](https://yumfam.com/go/huizhou-fuli-yangshenggu-hot-spring-villa/) — 2026-11-25
+
+- [Harbin Ice and Snow World for First-Timers: What to Know Before You Go](https://yumfam.com/guides/harbin-ice-snow-world-first-timers-guide/) — 2026-11-25
 
 - [Gubei Water Town Inn Stay from ¥399 (≈$55): 1 Night + Scenic Tickets + Hot-Spring Baths + Great Wall or Afternoon Tea](https://yumfam.com/resorts/gubei-water-town-inn-all-inclusive/) — 2026-11-25
 
@@ -42,26 +64,4 @@ YumFam — Family-friendly hotel buffet guides and resort deals across China, in
 - [Ningde Baixiang Sanduao Hotel](https://yumfam.com/go/ningde-baixiang-sanduao-hotel/) — 2026-11-24
 
 - [Longyan Guanzhai Migu Baixiang Resort from ¥499 (≈$69): Hakka Mountain Rooms, Two Meals & 400 Mu of Forest at the 5A Guanzhaishan Gate](https://yumfam.com/resorts/longyan-guanzhai-migu-baixiang-resort/) — 2026-11-24
-
-- [Longyan Guanzhai Migu Baixiang Resort](https://yumfam.com/go/longyan-guanzhai-migu-baixiang-resort/) — 2026-11-24
-
-- [Xiamen Eye Ferris Wheel from ¥39.9 (≈$6): Air-Conditioned Cabins with 360° Views of Gulangyu](https://yumfam.com/attractions/xiamen-eye-ferris-wheel/) — 2026-11-23
-
-- [Xiamen Eye Ferris Wheel](https://yumfam.com/go/xiamen-eye-ferris-wheel/) — 2026-11-23
-
-- [Haining Chang'an Kaiyuan Mingdu Hotel from ¥399 (≈$55): Opening Deal — 2 Nights + Meals, No Weekend or Holiday Surcharge](https://yumfam.com/resorts/haining-changan-kaiyuan-mingdu-hotel/) — 2026-11-23
-
-- [Haining Chang'an Kaiyuan Mingdu Hotel](https://yumfam.com/go/haining-changan-kaiyuan-mingdu-hotel/) — 2026-11-23
-
-- [Hainan Wanning 5-Day Family Tour from ¥3,980 (≈$553) a Child: Rainforest, Surfing & Beach Hotels — No Early Mornings](https://yumfam.com/family-packages/hainan-wanning-5-day-family-tour/) — 2026-11-23
-
-- [Hainan Wanning 5-Day Family Tour](https://yumfam.com/go/hainan-wanning-5-day-family-tour/) — 2026-11-23
-
-- [Guangzhou Wanfu Hilton Crab Buffet from ¥168 (≈$23): 100+ Dishes, Hairy Crab & a Kids' Cooking Class](https://yumfam.com/buffets/guangzhou-wanfu-hilton-crab-buffet/) — 2026-11-23
-
-- [Guangzhou Wanfu Hilton Crab Buffet](https://yumfam.com/go/guangzhou-wanfu-hilton-crab-buffet/) — 2026-11-23
-
-- [Guangzhou Jinyezi Hot Spring Hotel from ¥399 (≈$55): Mountain Hot Springs, Water Park & Two Meals for 2 Adults + 2 Kids](https://yumfam.com/resorts/guangzhou-jinyezi-hot-spring-hotel/) — 2026-11-23
-
-- [Guangzhou Jinyezi Hot Spring Hotel](https://yumfam.com/go/guangzhou-jinyezi-hot-spring-hotel/) — 2026-11-23
 
