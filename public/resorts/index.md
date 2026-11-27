@@ -3,6 +3,12 @@
 - URL: https://yumfam.com/resorts/
 
 
+- [Jiaxing Kaiyuan Senbo — 1 Night + Hot Spring or Fantasy Island from ¥799 (≈$111)](https://yumfam.com/resorts/jiaxing-kaiyuan-senbo-xihe-hot-spring/) — 2026-11-27
+
+- [Shanghai Sun Island Resort Stay — Island Room + Forest Hot Spring from ¥699 (≈$97)](https://yumfam.com/resorts/shanghai-sun-island-resort-stay-hot-spring/) — 2026-11-27
+
+- [Zhoushan Kaiyuan Senbo — 1 Night + Water Park from ¥599 (≈$83)](https://yumfam.com/resorts/zhoushan-kaiyuan-senbo-2-night/) — 2026-11-27
+
 - [Shanghai Sun Island Forest Hot Spring from ¥98 (≈$14): Outdoor Pools, Energy Sweat Rooms, Massage & Tea Break](https://yumfam.com/resorts/shanghai-sun-island-forest-hot-spring/) — 2026-11-26
 
 - [Tianjin Polar Ocean Hotel from ¥699 (≈$97): Polar Room for 2 Adults + 1 Child with Unlimited Polar Park Entry](https://yumfam.com/resorts/tianjin-polar-ocean-hotel-family-stay/) — 2026-11-26

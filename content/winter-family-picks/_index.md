@@ -2,10 +2,10 @@
 title: "Winter Family Picks 2026–27"
 date: 2026-11-08
 draft: false
-description: "Thirty-three winter family deals — Harbin ice and snow, outdoor skiing, hot-spring escapes and indoor snow parks across China, from ¥59.9."
+description: "Thirty-five winter family deals — Harbin ice and snow, outdoor skiing, hot-spring escapes and indoor snow parks across China, from ¥59.9."
 ---
 
-Winter has arrived — Start of Winter fell on November 7 — and the ice season is about to get expensive: Harbin's Ice and Snow World is expected to open in late December, with its opening ceremony expected on January 5, 2027, and prices across the ice season typically rise from December 21. We checked every deal below against the live booking page on November 8, 2026: each one is still on sale, with the starting price, validity and inclusions exactly as listed. The outdoor-ski section below was checked the same way on November 17, 2026. The three hot-spring additions at the end of the hot-spring section were verified on sale on November 19, 2026, and the two further hot-spring additions there were verified on sale on November 20, 2026, and two more hot-spring additions on November 21, 2026, and two more hot-spring additions plus one indoor-snow addition were verified on sale on November 22, 2026, and one more hot-spring addition was verified on sale on November 23, 2026, and three more hot-spring additions plus one indoor-snow addition were verified on sale on November 25, 2026, and two more hot-spring additions were verified on sale on November 26, 2026. Book before the ice-season price rise, because prices and availability may change after December 21 — each deal's own booking validity is shown below.
+Winter has arrived — Start of Winter fell on November 7 — and the ice season is about to get expensive: Harbin's Ice and Snow World is expected to open in late December, with its opening ceremony expected on January 5, 2027, and prices across the ice season typically rise from December 21. We checked every deal below against the live booking page on November 8, 2026: each one is still on sale, with the starting price, validity and inclusions exactly as listed. The outdoor-ski section below was checked the same way on November 17, 2026. The three hot-spring additions at the end of the hot-spring section were verified on sale on November 19, 2026, and the two further hot-spring additions there were verified on sale on November 20, 2026, and two more hot-spring additions on November 21, 2026, and two more hot-spring additions plus one indoor-snow addition were verified on sale on November 22, 2026, and one more hot-spring addition was verified on sale on November 23, 2026, and three more hot-spring additions plus one indoor-snow addition were verified on sale on November 25, 2026, and two more hot-spring additions were verified on sale on November 26, 2026, and two more hot-spring additions were verified on sale on November 27, 2026. Book before the ice-season price rise, because prices and availability may change after December 21 — each deal's own booking validity is shown below.
 
 Every deal links to its full English page with a booking button. Prices are in CNY with an approximate USD equivalent.
 
@@ -139,6 +139,14 @@ A note on the four famous resorts first: we searched the booking platform for st
 <div class="autumn-item">
 <a href="/resorts/zhangzhou-duoleng-hot-spring-ticket/"><img src="https://img.xialv.com/uploads/2025/12/22/item_pic1766379369303812.jpeg?imageView2/1/w/1050/h/588" alt="Zhangzhou Duoleng Hot Spring — forest hot-spring pools" loading="lazy" referrerpolicy="no-referrer"></a>
 <div><a href="/resorts/zhangzhou-duoleng-hot-spring-ticket/"><strong>Zhangzhou Duoleng Hot Spring Ticket — 1 Adult + 1 Child from ¥59.9 (≈$8)</strong></a><br>day ticket for 1 adult + 1 child at a seawater hot-spring garden 45 minutes from Xiamen, with pools carved from single granite boulders. Weekends and holidays carry no surcharge. Valid Nov 19, 2026 – Jun 30, 2027.</div>
+</div>
+<div class="autumn-item">
+<a href="/resorts/jiaxing-kaiyuan-senbo-xihe-hot-spring/"><img src="https://img.xialv.com/uploads/2026/11/13/item_pic_origin1794556507079371.jpeg?imageView2/1/w/1050/h/588" alt="Jiaxing Kaiyuan Senbo Resort — hot-spring pools and resort gardens" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/resorts/jiaxing-kaiyuan-senbo-xihe-hot-spring/"><strong>Jiaxing Kaiyuan Senbo — 1 Night + Hot Spring or Fantasy Island from ¥799 (≈$111)</strong></a><br>5,300㎡ Xihe hot spring returns, with a fantasy-island play zone, craft workshops and a photo shoot included. Valid Nov 14, 2026 – Mar 31, 2027.</div>
+</div>
+<div class="autumn-item">
+<a href="/resorts/shanghai-sun-island-resort-stay-hot-spring/"><img src="https://img.xialv.com/uploads/2026/11/25/item_pic1795592485513255.jpeg?imageView2/1/w/1050/h/588" alt="Shanghai Sun Island Resort — island villas among the trees" loading="lazy" referrerpolicy="no-referrer"></a>
+<div><a href="/resorts/shanghai-sun-island-resort-stay-hot-spring/"><strong>Shanghai Sun Island Resort Stay — Island Room + Forest Hot Spring from ¥699 (≈$97)</strong></a><br>island deluxe room with breakfast, a forest hot spring or all-day activity pass, a kids' exploration park and a mindfulness class. Usable Dec 4, 2026 – Mar 31, 2027.</div>
 </div>
 </div>
 
