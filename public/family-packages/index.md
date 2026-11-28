@@ -3,6 +3,8 @@
 - URL: https://yumfam.com/family-packages/
 
 
+- [Beijing Wukuang Junlan — Winter Family Stay with Super Wings Playland from ¥699 (≈$97)](https://yumfam.com/family-packages/beijing-wukuang-junlan-winter-family-stay/) — 2026-11-28
+
 - [Hengdian Film City — 3 Days / 2 Nights + 9 Attractions from ¥1,478 (≈$205)](https://yumfam.com/family-packages/hengdian-film-city-3-day-family-tour/) — 2026-11-27
 
 - [Shanghai Yaoxue Snow World Ski + Hot Spring for Two from ¥799 (≈$111): 4 Hours on All Slopes + Hot Spring Tickets](https://yumfam.com/family-packages/shanghai-yaoxue-ski-hot-spring-duo/) — 2026-11-25

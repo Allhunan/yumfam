@@ -3,6 +3,8 @@
 - URL: https://yumfam.com/attractions/
 
 
+- [Xiamen Jimei Guole Park — 2 Adults + 2 Kids, 14 Activities from ¥179 (≈$25)](https://yumfam.com/attractions/xiamen-jimei-guole-park/) — 2026-11-28
+
 - [Xiamen Eye Ferris Wheel from ¥39.9 (≈$6): Air-Conditioned Cabins with 360° Views of Gulangyu](https://yumfam.com/attractions/xiamen-eye-ferris-wheel/) — 2026-11-23
 
 - [Longyan Tianzi Hot Spring & Water Park — 1 Adult + 1 Kid from ¥128 (≈$18)](https://yumfam.com/attractions/longyan-tianzi-hot-spring-water-park/) — 2026-11-21

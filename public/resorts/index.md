@@ -3,6 +3,10 @@
 - URL: https://yumfam.com/resorts/
 
 
+- [Anji Licheng Tangquan — Private Hot-Spring Villas from ¥499 (≈$69)](https://yumfam.com/resorts/anji-licheng-tangquan-private-hot-spring-villas/) — 2026-11-28
+
+- [Xinxing Chanquan Hot Spring Resort — Zen Retreat + Unlimited Hot Springs from ¥999 (≈$139)](https://yumfam.com/resorts/xinxing-chanquan-hot-spring-resort/) — 2026-11-28
+
 - [Jiaxing Kaiyuan Senbo — 1 Night + Hot Spring or Fantasy Island from ¥799 (≈$111)](https://yumfam.com/resorts/jiaxing-kaiyuan-senbo-xihe-hot-spring/) — 2026-11-27
 
 - [Shanghai Sun Island Resort Stay — Island Room + Forest Hot Spring from ¥699 (≈$97)](https://yumfam.com/resorts/shanghai-sun-island-resort-stay-hot-spring/) — 2026-11-27

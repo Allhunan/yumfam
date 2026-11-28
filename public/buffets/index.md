@@ -3,6 +3,8 @@
 - URL: https://yumfam.com/buffets/
 
 
+- [Shenzhen Greater China Sheraton Buffet — Lunch for 1 Adult + 1 Child from ¥138 (≈$19)](https://yumfam.com/buffets/shenzhen-greater-china-sheraton-buffet/) — 2026-11-28
+
 - [Shenzhen MGallery Seafood Buffet Dinner for Two from ¥358 (≈$50)](https://yumfam.com/buffets/shenzhen-mgallery-seafood-buffet/) — 2026-11-27
 
 - [Xiamen Kempinski Lunch Buffet from ¥156 (≈$22): 2nd-Floor Café by Yundang Lake — 2 Adults Bring 1 Child Under 6 Free](https://yumfam.com/buffets/xiamen-yuanchang-kempinski-lunch-buffet/) — 2026-11-26

@@ -5,6 +5,26 @@ YumFam — Family-friendly hotel buffet guides and resort deals across China, in
 ## Latest
 
 
+- [Xinxing Chanquan Hot Spring Resort — Zen Retreat + Unlimited Hot Springs from ¥999 (≈$139)](https://yumfam.com/resorts/xinxing-chanquan-hot-spring-resort/) — 2026-11-28
+
+- [Xinxing Chanquan Hot Spring Resort](https://yumfam.com/go/xinxing-chanquan-hot-spring-resort/) — 2026-11-28
+
+- [Xiamen Jimei Guole Park — 2 Adults + 2 Kids, 14 Activities from ¥179 (≈$25)](https://yumfam.com/attractions/xiamen-jimei-guole-park/) — 2026-11-28
+
+- [Xiamen Jimei Guole Park](https://yumfam.com/go/xiamen-jimei-guole-park/) — 2026-11-28
+
+- [Shenzhen Greater China Sheraton Buffet — Lunch for 1 Adult + 1 Child from ¥138 (≈$19)](https://yumfam.com/buffets/shenzhen-greater-china-sheraton-buffet/) — 2026-11-28
+
+- [Shenzhen Greater China Sheraton Buffet](https://yumfam.com/go/shenzhen-greater-china-sheraton-buffet/) — 2026-11-28
+
+- [Beijing Wukuang Junlan — Winter Family Stay with Super Wings Playland from ¥699 (≈$97)](https://yumfam.com/family-packages/beijing-wukuang-junlan-winter-family-stay/) — 2026-11-28
+
+- [Beijing Wukuang Junlan — Winter Family Stay](https://yumfam.com/go/beijing-wukuang-junlan-winter-family-stay/) — 2026-11-28
+
+- [Anji Licheng Tangquan — Private Hot-Spring Villas from ¥499 (≈$69)](https://yumfam.com/resorts/anji-licheng-tangquan-private-hot-spring-villas/) — 2026-11-28
+
+- [Anji Licheng Tangquan — Private Hot-Spring Villas](https://yumfam.com/go/anji-licheng-tangquan-private-hot-spring-villas/) — 2026-11-28
+
 - [Zhoushan Kaiyuan Senbo — 1 Night + Water Park from ¥599 (≈$83)](https://yumfam.com/resorts/zhoushan-kaiyuan-senbo-2-night/) — 2026-11-27
 
 - [Zhoushan Kaiyuan Senbo](https://yumfam.com/go/zhoushan-kaiyuan-senbo-2-night/) — 2026-11-27
@@ -25,6 +45,8 @@ YumFam — Family-friendly hotel buffet guides and resort deals across China, in
 
 - [Hengdian Film City — 3 Days / 2 Nights + 9 Attractions from ¥1,478 (≈$205)](https://yumfam.com/family-packages/hengdian-film-city-3-day-family-tour/) — 2026-11-27
 
+- [China Hotel Buffets with Kids: What to Expect (and What to Pay)](https://yumfam.com/guides/china-hotel-buffets-with-kids-guide/) — 2026-11-27
+
 - [Zhangzhou Duoleng Hot Spring Ticket from ¥59.9 (≈$8): 1 Adult + 1 Child, Weekends & Holidays with No Surcharge](https://yumfam.com/resorts/zhangzhou-duoleng-hot-spring-ticket/) — 2026-11-26
 
 - [Zhangzhou Duoleng Hot Spring Ticket — booking page](https://yumfam.com/go/zhangzhou-duoleng-hot-spring-ticket/) — 2026-11-26
@@ -42,26 +64,4 @@ YumFam — Family-friendly hotel buffet guides and resort deals across China, in
 - [Tianjin Polar Ocean Hotel — booking page](https://yumfam.com/go/tianjin-polar-ocean-hotel-family-stay/) — 2026-11-26
 
 - [Shanghai Sun Island Forest Hot Spring from ¥98 (≈$14): Outdoor Pools, Energy Sweat Rooms, Massage & Tea Break](https://yumfam.com/resorts/shanghai-sun-island-forest-hot-spring/) — 2026-11-26
-
-- [Shanghai Sun Island Forest Hot Spring — booking page](https://yumfam.com/go/shanghai-sun-island-forest-hot-spring/) — 2026-11-26
-
-- [China Hot Springs with Kids: Where to Soak This Winter](https://yumfam.com/guides/china-hot-springs-with-kids-winter-guide/) — 2026-11-26
-
-- [Shanghai Yaoxue Snow World Ski + Hot Spring for Two from ¥799 (≈$111): 4 Hours on All Slopes + Hot Spring Tickets](https://yumfam.com/family-packages/shanghai-yaoxue-ski-hot-spring-duo/) — 2026-11-25
-
-- [Shanghai Yaoxue Snow World Ski + Hot Spring Duo — booking page](https://yumfam.com/go/shanghai-yaoxue-ski-hot-spring-duo/) — 2026-11-25
-
-- [Sanya Bay voco Warm Winter Stay from ¥1,588 (≈$221): 2 Nights + Breakfast for 2 Adults & 2 Kids, Minibar & Romantic Dinner](https://yumfam.com/resorts/sanya-bay-voco-warm-winter-stay/) — 2026-11-25
-
-- [Sanya Bay voco Warm Winter Stay — booking page](https://yumfam.com/go/sanya-bay-voco-warm-winter-stay/) — 2026-11-25
-
-- [Huizhou Fuli Yangshenggu Hot Spring Villa from ¥489 (≈$68): 4-Bedroom Villa with Private Soak Pool, KTV, BBQ & Mahjong — No Surcharge Sun–Fri](https://yumfam.com/resorts/huizhou-fuli-yangshenggu-hot-spring-villa/) — 2026-11-25
-
-- [Huizhou Fuli Yangshenggu Hot Spring Villa — booking page](https://yumfam.com/go/huizhou-fuli-yangshenggu-hot-spring-villa/) — 2026-11-25
-
-- [Harbin Ice and Snow World for First-Timers: What to Know Before You Go](https://yumfam.com/guides/harbin-ice-snow-world-first-timers-guide/) — 2026-11-25
-
-- [Gubei Water Town Inn Stay from ¥399 (≈$55): 1 Night + Scenic Tickets + Hot-Spring Baths + Great Wall or Afternoon Tea](https://yumfam.com/resorts/gubei-water-town-inn-all-inclusive/) — 2026-11-25
-
-- [Gubei Water Town Inn All-Inclusive — booking page](https://yumfam.com/go/gubei-water-town-inn-all-inclusive/) — 2026-11-25
 

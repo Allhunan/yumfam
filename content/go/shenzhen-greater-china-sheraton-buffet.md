@@ -1,0 +1,10 @@
+---
+title: "Shenzhen Greater China Sheraton Buffet"
+date: 2026-11-28
+draft: false
+layout: "go"
+target_url: "https://m.xialv.com/xianlu/153224?a=union/b8v537pf"
+description: "Deal redirect page."
+---
+
+Redirecting to the booking page…
